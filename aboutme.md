@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Program
-subtitle: Subtitle
+title: About UBC MDS
+subtitle: 
 ---
 
 My name is Inigo Montoya. I have the following qualities:
