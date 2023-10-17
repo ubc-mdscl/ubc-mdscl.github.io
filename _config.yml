@@ -10,21 +10,22 @@
 ############################
 
 # Name of website
-title: MDS-CL
+title: UBC MDS-CL
 
 # Your name to show in the footer
-author: MDS-CL Program
+author: UBC MDS-CL Program
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Program: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
 
 ################
 # --- Logo --- #
