@@ -22,13 +22,21 @@ author: UBC MDS-CL Program
 navbar-links:
   Program: 
     - About: "pages/aboutme"
+    - Our Vision: "pages/vision"
+    - Our Team: "pages/team"
+    - At A Glance: 
+    - Course Descriptions: "pages/descriptions"
+    - Course Materials: 
+    - Calendar: "pages/calendar"
+    - Policies and Regulations: "pages/policies"
+    - Jobs: "pages/jobs"
   Capstone: 
     - About: "pages/capstone" 
     - Partner Info: "pages/partner_info"
     - Student Info: "pages/student_info"
     - Proposals: "pages/proposal"
     - Timeline: "pages/timeline"
-    - Legal: "guide-to-mutual-nda-ip"
+    - Legal: "pages/guide-to-mutual-nda-ip"
     - Past Projects: "pages/past_projects"
   Resources: "pages/resources"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
