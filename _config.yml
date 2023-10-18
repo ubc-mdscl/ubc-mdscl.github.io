@@ -26,7 +26,7 @@ navbar-links:
     - Our Team: "program/team"
     - At A Glance: 
     - Course Description: "program/descriptions"
-    - Course Materials: 
+    - Course Materials: "https://github.com/UBC-MDS/public"
     - Calendar: "program/calendar"
     - Policies & Regulations: "program/policies"
     - Jobs: "program/jobs"
