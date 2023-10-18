@@ -25,8 +25,7 @@ navbar-links:
   Capstone: 
     - About: "capstone" 
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Resources: "resources"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
 
 ################
