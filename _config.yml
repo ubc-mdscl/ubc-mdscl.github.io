@@ -21,7 +21,7 @@ author: UBC MDS-CL Program
 
 navbar-links:
   Program: 
-    - About: "aboutme"
+    - About: "pages/aboutme"
   Capstone: 
     - About: "capstone" 
   Resources: "resources"
