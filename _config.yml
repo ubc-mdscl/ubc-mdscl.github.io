@@ -21,15 +21,15 @@ author: UBC MDS-CL Program
 
 navbar-links:
   Program: 
-    - About: "pages/aboutme"
-    - Our Vision: "pages/vision"
-    - Our Team: "pages/team"
+    - About: "program/aboutme"
+    - Our Vision: "program/vision"
+    - Our Team: "program/team"
     - At A Glance: 
-    - Course Description: "pages/descriptions"
+    - Course Description: "program/descriptions"
     - Course Materials: 
-    - Calendar: "pages/calendar"
-    - Policies & Regulations: "pages/policies"
-    - Jobs: "pages/jobs"
+    - Calendar: "program/calendar"
+    - Policies & Regulations: "program/policies"
+    - Jobs: "program/jobs"
   Capstone: 
     - About: "capstone/about" 
     - Partner Info: "capstone/partner_info"
