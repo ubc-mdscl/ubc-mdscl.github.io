@@ -28,7 +28,7 @@ navbar-links:
     - Student Info: "pages/student_info"
     - Proposals: "pages/proposal"
     - Timeline: "pages/timeline"
-    - Legal: 
+    - Legal: "guide-to-mutual-nda-ip"
     - Past Projects: "pages/past_projects"
   Resources: "pages/resources"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
