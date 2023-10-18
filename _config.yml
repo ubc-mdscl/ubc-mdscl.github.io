@@ -25,10 +25,10 @@ navbar-links:
     - Our Vision: "pages/vision"
     - Our Team: "pages/team"
     - At A Glance: 
-    - Course Descriptions: "pages/descriptions"
+    - Course Description: "pages/descriptions"
     - Course Materials: 
     - Calendar: "pages/calendar"
-    - Policies and Regulations: "pages/policies"
+    - Policies & Regulations: "pages/policies"
     - Jobs: "pages/jobs"
   Capstone: 
     - About: "pages/capstone" 
