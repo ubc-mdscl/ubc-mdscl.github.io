@@ -38,7 +38,7 @@ navbar-links:
     - Timeline: "capstone/timeline"
     - Legal: "capstone/guide-to-mutual-nda-ip"
     - Past Projects: "capstone/past_projects"
-  Resources: "pages/resources"
+  Resources: "resources"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
 
 ################
