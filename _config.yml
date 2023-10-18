@@ -24,6 +24,12 @@ navbar-links:
     - About: "pages/aboutme"
   Capstone: 
     - About: "pages/capstone" 
+    - Partner Info: "pages/partner_info"
+    - Student Info: "pages/student_info"
+    - Proposals: "pages/proposal"
+    - Timeline: "pages/timeline"
+    - Legal: 
+    - Past Projects: "pages/past_projects"
   Resources: "pages/resources"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
 
