@@ -23,8 +23,8 @@ navbar-links:
   Program: 
     - About: "pages/aboutme"
   Capstone: 
-    - About: "capstone" 
-  Resources: "resources"
+    - About: "pages/capstone" 
+  Resources: "pages/resources"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
 
 ################
