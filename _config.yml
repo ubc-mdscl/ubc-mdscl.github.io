@@ -28,7 +28,7 @@ navbar-links:
     - Course Description: "program/descriptions"
     - Course Materials: "https://github.com/UBC-MDS/public"
     - Calendar: "program/calendar"
-    - Policies & Regulations: "program/policies"
+    - Policy & Regulation: "program/policies"
     - Jobs: "program/jobs"
   Capstone: 
     - About: "capstone/about" 
