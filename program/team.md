@@ -2,9 +2,8 @@
 layout: page
 title: Our Academic Team
 subtitle: Get to Know the Teaching Team
+cover-img: /assets/img/path.jpg
 ---
-
-Insert Photo Here
 
 ## **Lorem Ipsum**
 
