@@ -21,7 +21,7 @@ author: UBC MDS-CL Program
 
 navbar-links:
   Program: 
-    - About: "pages/aboutme"
+    - About: "program/aboutme"
     - Our Vision: "program/vision"
     - Our Team: "program/team"
     - At A Glance: 
