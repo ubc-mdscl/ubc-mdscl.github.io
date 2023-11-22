@@ -15,4 +15,6 @@ Garrett Nicolai is a post-doctoral fellow working on inflectional morphology in 
 
 **Matías Salibián-Barrera — Acting Director**
 
+![Matías Salibián-Barrera](https://ubc-mdscl.github.io/assets/img/matias-salibian-barrera-mdscl.jpg)
+
 Matías Salibián-Barrera joined UBC as a faculty member in 2004, and is currently a Professor in the Department of Statistics. In 2015 he received the CRM-SSC Prize in Statistics, which recognizes research accomplishments during the the first fifteen years after receiving a PhD. His research interests revolve around the problem of extracting reliable information from data sets that may not be completely trustworthy. Early on in his career he worked in the statistical software industry, and his contributions are being widely used. At UBC, he created the Statistics Department course on Statistical Learning, and participated in the creation of UBC's first undergraduate Data Science course (DSCI 100), which now attracts over 1000 students per year across all faculties.
