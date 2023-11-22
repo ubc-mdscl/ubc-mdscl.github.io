@@ -9,7 +9,7 @@ cover-img: /mdscl_background_2.png
 
 **Garrett Nicolai**
 
-![Garrett Nicolai](https://beautifuljekyll.com/assets/img/garrett_nicolai_mdscl.jpg)
+![Garrett Nicolai](https://github.com/ubc-mdscl/ubc-mdscl.github.io/blob/master/assets/img/garrett-nicolai-mdscl.jpg)
 
 Garrett Nicolai is a post-doctoral felllow working on inflectional morphology in low-resource languages. He received his PhD in CS in 2017 from the University of Alberta, and is glad to be back in Canada after a brief stint in the U.S.A. He has finally been converted to deep learning, and is very interested in analyzing how similarly machines and humans learn language in general, and morphology in particular. Garrett has been teaching for MDS-CL since the first cohort in 2019. 
 
