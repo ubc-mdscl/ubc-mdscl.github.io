@@ -20,3 +20,11 @@ Garrett Nicolai is a post-doctoral fellow working on inflectional morphology in 
 ![Matías Salibián-Barrera](https://ubc-mdscl.github.io/assets/img/matias-salibian-barrera-mdscl.jpg)
 
 Matías Salibián-Barrera joined UBC as a faculty member in 2004, and is currently a Professor in the Department of Statistics. In 2015 he received the CRM-SSC Prize in Statistics, which recognizes research accomplishments during the the first fifteen years after receiving a PhD. His research interests revolve around the problem of extracting reliable information from data sets that may not be completely trustworthy. Early on in his career he worked in the statistical software industry, and his contributions are being widely used. At UBC, he created the Statistics Department course on Statistical Learning, and participated in the creation of UBC's first undergraduate Data Science course (DSCI 100), which now attracts over 1000 students per year across all faculties.
+
+---
+
+**Miikka Silfverberg — Assistant Professor**
+
+![Miika Silverberg](https://ubc-mdscl.github.io/assets/img/miikka-silfverberg-mdscl.png)
+
+Miikka Silfverberg joined MDS Computational Linguistics program as an Assistant Professor in 2020. Miikka has a PhD in Language Technology and an M.Sc in Mathematics from the University of Helsinki. After completing his PhD, Miikka spent one and a half years as a postdoctoral researcher at the University of Colorado at Boulder where he worked on topics related to computational modeling of word structure using deep neural networks. Miikka’s research focuses on broadening the understanding of how deep neural networks learn to represent information about language.
