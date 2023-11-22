@@ -28,3 +28,5 @@ Matías Salibián-Barrera joined UBC as a faculty member in 2004, and is current
 ![Miika Silverberg](https://ubc-mdscl.github.io/assets/img/miikka-silfverberg-mdscl.png)
 
 Miikka Silfverberg joined MDS Computational Linguistics program as an Assistant Professor in 2020. Miikka has a PhD in Language Technology and an M.Sc in Mathematics from the University of Helsinki. After completing his PhD, Miikka spent one and a half years as a postdoctoral researcher at the University of Colorado at Boulder where he worked on topics related to computational modeling of word structure using deep neural networks. Miikka’s research focuses on broadening the understanding of how deep neural networks learn to represent information about language.
+
+---
