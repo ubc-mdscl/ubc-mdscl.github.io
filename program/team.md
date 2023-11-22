@@ -30,3 +30,11 @@ Matías Salibián-Barrera joined UBC as a faculty member in 2004, and is current
 Miikka Silfverberg joined MDS Computational Linguistics program as an Assistant Professor in 2020. Miikka has a PhD in Language Technology and an M.Sc in Mathematics from the University of Helsinki. After completing his PhD, Miikka spent one and a half years as a postdoctoral researcher at the University of Colorado at Boulder where he worked on topics related to computational modeling of word structure using deep neural networks. Miikka’s research focuses on broadening the understanding of how deep neural networks learn to represent information about language.
 
 ---
+
+**Jian Zhu — Assistant Professor**
+
+![Jian Zhu](https://ubc-mdscl.github.io/assets/img/jian-zhu-mdscl.jpg)
+
+*"I am thrilled to be teaching the MDS-CL program at a time when Natural Language Processing (NLP) is advancing at a rapid pace. With breakthroughs in deep learning, we are witnessing a revolution in the way machines understand and process human language. As an instructor, I am excited to share my knowledge and expertise with the students, and to guide them as they explore the latest NLP techniques and technologies. It is an exciting time to be at the forefront of this field, and I can't wait to see what the future holds for NLP and its applications."*
+
+Jian Zhu received his Ph.D. degree in Linguistics and Scientific Computing from the University of Michigan, Ann Arbor in 2022. After his Ph.D., Jian had conducted NLP research both in the industry and in the academia. Before joining UBC, Jian was a post-doctoral research fellow in the School of Information at University of Michigan, working on the large-scale computational sociolinguistics. His current research interests lie in teaching machines to recognize spoken languages across the world and unstanding people's linguistic behavior in the online communities through large-scale computational methods. 
