@@ -13,6 +13,8 @@ cover-img: /mdscl_background_2.png
 
 Garrett Nicolai is a post-doctoral fellow working on inflectional morphology in low-resource languages. He received his PhD in CS in 2017 from the University of Alberta, and is glad to be back in Canada after a brief stint in the U.S.A. He has finally been converted to deep learning, and is very interested in analyzing how similarly machines and humans learn language in general, and morphology in particular. Garrett has been teaching for MDS-CL since the first cohort in 2019. 
 
+---
+
 **Matías Salibián-Barrera — Acting Director**
 
 ![Matías Salibián-Barrera](https://ubc-mdscl.github.io/assets/img/matias-salibian-barrera-mdscl.jpg)
