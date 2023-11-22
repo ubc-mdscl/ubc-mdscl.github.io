@@ -2,7 +2,7 @@
 layout: page
 title: Our Academic Team
 subtitle: Get to Know the Teaching Team
-cover-img: /assets/img/path.jpg
+cover-img: /mdscl_background_2.png
 ---
 
 ## **Our Team**
