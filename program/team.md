@@ -49,3 +49,11 @@ Jian Zhu received his Ph.D. degree in Linguistics and Scientific Computing from 
 
 Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Diderot (Paris VII) in 2006. His interest in natural language processing motivated him to pursue Linguistics after initially studying Computer Science. His current research interests include machine learning approaches for morphology and syntax of natural language. He is currently a lecturer in the Department of Linguistics at the University of British Columbia (Vancouver, Canada) and an affiliate assistant professor in the Department of Linguistics at University of Washington (Seattle, USA). Before that he was a visiting assistant professor in the Department of Linguistics at the State University of New York at Buffalo during 2018-2019, a visiting assistant professor in the Department of Linguistics at the University of Arizona during 2016-2017, a research scientist at CEA (Commissariat à l'énergie atomique et aux énergies alternatives) during 2015-2016, and a lecturer (attaché temporaire d'enseignement et de recherche) in the Department of Computer Sciences at IUT de Lannion (Université de Rennes 1) during the academic year 2013-2014. 
 
+---
+
+**Carla Hudson Kam — Linguistics Department Head**
+
+![Carla Hudson Kam](https://ubc-mdscl.github.io/assets/img/carla-hudson-kam-mdscl.png)
+
+Carla has a PhD from the University of Rochester, and her research focuses on first and second language acquisition, developmental language production and processing, gesture and langugae learning and processing, non-linguistic constraints on language learning and language form, language contact and language change. Carla is a Google Scholar, and is the founder of the Language and Learning Lab at UBC.
+
