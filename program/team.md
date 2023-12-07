@@ -51,9 +51,20 @@ Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Dider
 
 ---
 
+**Kenna McEwan — Program Manager**
+
+![Kenna McEwan](https://ubc-mdscl.github.io/assets/img/kenna-mcewan-mdscl.png)
+
+*"I’m inspired by the work ethic and drive of the MDS students and am excited to support students in creating a healthy learning environment as they delve into the study of data science."*
+
+Kenna McEwan is born and raised in British Columbia and received her Bachelors in Linguistics at the University of British Columbia. Prior to taking on the Masters of Data Science - Computational Linguistics Program Manager role, she has worked at UBC in both undergraduate and research-based graduate programs, where she gained skills in navigating post-secondary administration. Kenna is committed to supporting students in having a positive experience during their time in the program, from application to graduation. 
+
+---
+
 **Carla Hudson Kam — Linguistics Department Head**
 
 ![Carla Hudson Kam](https://ubc-mdscl.github.io/assets/img/carla-hudson-kam-mdscl.png)
 
 Carla has a PhD from the University of Rochester, and her research focuses on first and second language acquisition, developmental language production and processing, gesture and langugae learning and processing, non-linguistic constraints on language learning and language form, language contact and language change. Carla is a Google Scholar, and is the founder of the Language and Learning Lab at UBC.
+
 
