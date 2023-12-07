@@ -38,3 +38,14 @@ Miikka Silfverberg joined MDS Computational Linguistics program as an Assistant 
 *"I am thrilled to be teaching the MDS-CL program at a time when Natural Language Processing (NLP) is advancing at a rapid pace. With breakthroughs in deep learning, we are witnessing a revolution in the way machines understand and process human language. As an instructor, I am excited to share my knowledge and expertise with the students, and to guide them as they explore the latest NLP techniques and technologies. It is an exciting time to be at the forefront of this field, and I can't wait to see what the future holds for NLP and its applications."*
 
 Jian Zhu received his Ph.D. degree in Linguistics and Scientific Computing from the University of Michigan, Ann Arbor in 2022. After his Ph.D., Jian had conducted NLP research both in the industry and in the academia. Before joining UBC, Jian was a post-doctoral research fellow in the School of Information at University of Michigan, working on the large-scale computational sociolinguistics. His current research interests lie in teaching machines to recognize spoken languages across the world and unstanding people's linguistic behavior in the online communities through large-scale computational methods. 
+
+---
+
+**Jungyeul Park — Lecturer**
+
+![Jungyeul Park](https://ubc-mdscl.github.io/assets/img/jungyeul-park-mdscl.jpg)
+
+*"UBC’s MDS Computational Linguistics is the study of data science and linguistics that empower students to be future ready with tools in computational linguistics. I’m excited to work with our students and explore the new era of natural language processing."*
+
+Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Diderot (Paris VII) in 2006. His interest in natural language processing motivated him to pursue Linguistics after initially studying Computer Science. His current research interests include machine learning approaches for morphology and syntax of natural language. He is currently a lecturer in the Department of Linguistics at the University of British Columbia (Vancouver, Canada) and an affiliate assistant professor in the Department of Linguistics at University of Washington (Seattle, USA). Before that he was a visiting assistant professor in the Department of Linguistics at the State University of New York at Buffalo during 2018-2019, a visiting assistant professor in the Department of Linguistics at the University of Arizona during 2016-2017, a research scientist at CEA (Commissariat à l'énergie atomique et aux énergies alternatives) during 2015-2016, and a lecturer (attaché temporaire d'enseignement et de recherche) in the Department of Computer Sciences at IUT de Lannion (Université de Rennes 1) during the academic year 2013-2014. 
+
