@@ -67,4 +67,12 @@ Kenna McEwan is born and raised in British Columbia and received her Bachelors i
 
 Carla has a PhD from the University of Rochester, and her research focuses on first and second language acquisition, developmental language production and processing, gesture and langugae learning and processing, non-linguistic constraints on language learning and language form, language contact and language change. Carla is a Google Scholar, and is the founder of the Language and Learning Lab at UBC.
 
+---
 
+**Sonya Thomlinson — Career Advisor**
+
+![Sonya Thomlinson](https://ubc-mdscl.github.io/assets/img/sonya-thomlinson-mdscl.png)
+
+*"Data Science is a vast and exciting field with the potential to create enormous  impact across all sectors and industries.  I’m thrilled to be part of one of the highest rated Data Science Professional Programs in Canada."*
+
+Sonya Thomlinson has been an entrepreneur for over 20 years as a founder of multiple businesses as well as a US non-profit. Sonya has been building relationships and working with individuals to help them attain their career goals in the MDS program at UBC Okanagan and CL in Vancouver. Since joining UBC in 2022, Sonya has enjoyed the energy and excitement on campus and is passionate about helping students prepare for their future careers, discover their own areas of passion, and ensure that they have the tools to succeed to their fullest potential. 
