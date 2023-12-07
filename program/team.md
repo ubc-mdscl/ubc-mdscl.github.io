@@ -76,3 +76,11 @@ Carla has a PhD from the University of Rochester, and her research focuses on fi
 *"Data Science is a vast and exciting field with the potential to create enormous  impact across all sectors and industries.  I’m thrilled to be part of one of the highest rated Data Science Professional Programs in Canada."*
 
 Sonya Thomlinson has been an entrepreneur for over 20 years as a founder of multiple businesses as well as a US non-profit. Sonya has been building relationships and working with individuals to help them attain their career goals in the MDS program at UBC Okanagan and CL in Vancouver. Since joining UBC in 2022, Sonya has enjoyed the energy and excitement on campus and is passionate about helping students prepare for their future careers, discover their own areas of passion, and ensure that they have the tools to succeed to their fullest potential. 
+
+---
+
+**Adrianne Chang — Graduate Program Assistant**
+
+![Adrianne Chang](https://ubc-mdscl.github.io/assets/img/adrianne-chang-mdscl.png)
+
+Adrianne supports the graduate students within the Department of Linguistics which includes the MA, PhD and MDS-CL students. She is a recent graduate of UBC with a major in Linguistics and minor in Language and Literacy Education. She previously worked in the department as the Linguistics Summer Camp Coordinator and planned out a summer camp curriculum surrounding Linguistics for kids!
