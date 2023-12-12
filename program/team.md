@@ -104,3 +104,13 @@ Vanessa Ho obtained her Bachelor's of Journalism degree from the University of R
 *"Deep learning is revolutionary. Some of the most exciting progress in deep learning is happening with language. It is in your car, your browser, and your pocket. Deep learning of language is in its infancy, with fascinating progress ahead."*
 
 Muhammad Abdul-Mageed is an Assistant Professor of Computational Linguistics, Information Science, and Computer Science and Director of the Natural Language Processing Lab at the UBC. He is a core member of UBC Institute for Computing, Information and Cognitive Systems and Centre for Artificial Intelligence Decision-making and Action. His research focuses on developing novel deep learning methods for natural language socio-pragmatics, with a goal to build `social’ machines to enhance human health and well-being.
+
+---
+
+**Giuseppe Carenini — Director (On Leave)**
+
+![Giuseppe Carenini](https://ubc-mdscl.github.io/assets/img/giuseppe-carenini-mdscl.jpg)
+
+*"One of the most unique aspects of this program is that it is designed for students whose main expertise is not in CS and Stats, but rather in other fields like life sciences, healthcare, business, and journalism; after graduation our students will be ready to effectively work as data scientist in those domains."*
+
+Joining the University of British Columbia’s Computer Science Faculty in 2004, Giuseppe Carenini has been teaching artificial intelligence, machine learning and natural language processing, for over 15 years. In his research, Giuseppe has focused on text summarization, information visualization, and decision support, publishing over 120 peer-reviewed publications and receiving two best-paper awards – one from the UMAP 2014 conference (premier user modeling conference ) and the other from the ACM-TiiS-14 journal (top journal on Intelligent Interfaces). Giuseppe's research has been applied by companies like Microsoft, IBM, Google, Huawei and Yahoo to develop summarization techniques for product reviews and for conversational data (e.g., emails and blog), as well as basic techniques for discourse parsing and topic modelling. Giuseppe has also collaborated with local companies that aim to make data more useful in supporting complex decisions (Compass) and for public engagement (Metroquest). Currently, he is serving as the ConVISation Labs Chief Scientific Officer, with the goal of  transferring his research on text analytics to the healthcare domain, in collaboration with the WelTel company
