@@ -11,13 +11,17 @@ cover-img: /mdscl_background_2.png
 
 ![Garrett Nicolai](https://ubc-mdscl.github.io/assets/img/garrett-nicolai-mdscl.jpg)
 
-Garrett Nicolai is a post-doctoral fellow working on inflectional morphology in low-resource languages. He received his PhD in CS in 2017 from the University of Alberta, and is glad to be back in Canada after a brief stint in the U.S.A. He has finally been converted to deep learning, and is very interested in analyzing how similarly machines and humans learn language in general, and morphology in particular. Garrett has been teaching for MDS-CL since the first cohort in 2019. 
+*"It's a really exciting time to be working in NLP.  The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate."*
+
+Garrett Nicolai joined the MDS Computational Linguistics program in 2020 as a post-doctoral researcher and Capstone mentor, before becoming an Assistant Professor of Teaching. Garrett completed his MSc. in Artificial Intelligence at the University of Regina before obtaining a PhD in NLP at the University of Alberta, completing a BA in Linguistics along the way. Before coming to Vancouver, Garrett was a post-doctoral researcher at Johns Hopkins University's Center for Language and Speech Processing, working on low-resource computational morphology. His research interests lie in improving the quality of computational tools for under-resourced languages, including the construction of computational corpora for such purposes. 
 
 ---
 
 **Matías Salibián-Barrera — Acting Director**
 
 ![Matías Salibián-Barrera](https://ubc-mdscl.github.io/assets/img/matias-salibian-barrera-mdscl.jpg)
+
+*"Our Data Science program offers a solid academic program with courses that were designed specifically for our students, with their needs and skills in mind. Moreover, our curriculum is revised and updated regularly, and our academic staff and students are in close communication with industry (e.g. preparing and delivering capstone projects). The result is that our students learn the conceptual foundations of data science and the latest tools used in industry in a program created and delivered exclusively for them, and they do it in a collegial, diverse and inclusive environment."*
 
 Matías Salibián-Barrera joined UBC as a faculty member in 2004, and is currently a Professor in the Department of Statistics. In 2015 he received the CRM-SSC Prize in Statistics, which recognizes research accomplishments during the the first fifteen years after receiving a PhD. His research interests revolve around the problem of extracting reliable information from data sets that may not be completely trustworthy. Early on in his career he worked in the statistical software industry, and his contributions are being widely used. At UBC, he created the Statistics Department course on Statistical Learning, and participated in the creation of UBC's first undergraduate Data Science course (DSCI 100), which now attracts over 1000 students per year across all faculties.
 
@@ -26,6 +30,8 @@ Matías Salibián-Barrera joined UBC as a faculty member in 2004, and is current
 **Miikka Silfverberg — Assistant Professor**
 
 ![Miika Silverberg](https://ubc-mdscl.github.io/assets/img/miikka-silfverberg-mdscl.png)
+
+*"The amount of useful language data on the internet is vast and continuously growing. The MDS Computational Linguistics program makes you an expert at processing and understanding language data using cutting-edge technologies such as deep neural networks."*
 
 Miikka Silfverberg joined MDS Computational Linguistics program as an Assistant Professor in 2020. Miikka has a PhD in Language Technology and an M.Sc in Mathematics from the University of Helsinki. After completing his PhD, Miikka spent one and a half years as a postdoctoral researcher at the University of Colorado at Boulder where he worked on topics related to computational modeling of word structure using deep neural networks. Miikka’s research focuses on broadening the understanding of how deep neural networks learn to represent information about language.
 
@@ -61,14 +67,6 @@ Kenna McEwan is born and raised in British Columbia and received her Bachelors i
 
 ---
 
-**Carla Hudson Kam — Linguistics Department Head**
-
-![Carla Hudson Kam](https://ubc-mdscl.github.io/assets/img/carla-hudson-kam-mdscl.png)
-
-Carla has a PhD from the University of Rochester, and her research focuses on first and second language acquisition, developmental language production and processing, gesture and langugae learning and processing, non-linguistic constraints on language learning and language form, language contact and language change. Carla is a Google Scholar, and is the founder of the Language and Learning Lab at UBC.
-
----
-
 **Sonya Thomlinson — Career Advisor**
 
 ![Sonya Thomlinson](https://ubc-mdscl.github.io/assets/img/sonya-thomlinson-mdscl.png)
@@ -94,6 +92,14 @@ Adrianne supports the graduate students within the Department of Linguistics whi
 *"I am always amazed and blown away with all the students who pass through the MDS program. They all come from diverse backgrounds who learn from each other as they go through this intensive 10-month program on their path to a new career in data science."*
 
 Vanessa Ho obtained her Bachelor's of Journalism degree from the University of Regina and worked for four years as a technology journalist in Toronto. Vanessa moved back to Vancouver in 2008 and transitioned into a career as a digital content creator for a variety of technology companies in the Vancouver area. She started at the MDS program in 2018 as the marketing coordinator chronicling the MDS student journey. Outside of MDS, Vanessa is a pop culture enthusiast and enjoys biking and baking.
+
+---
+
+**Carla Hudson Kam — Linguistics Department Head**
+
+![Carla Hudson Kam](https://ubc-mdscl.github.io/assets/img/carla-hudson-kam-mdscl.png)
+
+Carla has a PhD from the University of Rochester, and her research focuses on first and second language acquisition, developmental language production and processing, gesture and langugae learning and processing, non-linguistic constraints on language learning and language form, language contact and language change. Carla is a Google Scholar, and is the founder of the Language and Learning Lab at UBC.
 
 ---
 
