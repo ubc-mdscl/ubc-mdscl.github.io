@@ -84,3 +84,13 @@ Sonya Thomlinson has been an entrepreneur for over 20 years as a founder of mult
 ![Adrianne Chang](https://ubc-mdscl.github.io/assets/img/adrianne-chang-mdscl.png)
 
 Adrianne supports the graduate students within the Department of Linguistics which includes the MA, PhD and MDS-CL students. She is a recent graduate of UBC with a major in Linguistics and minor in Language and Literacy Education. She previously worked in the department as the Linguistics Summer Camp Coordinator and planned out a summer camp curriculum surrounding Linguistics for kids!
+
+---
+
+**Vanessa Ho — Marketing Coordinator**
+
+![Vanessa Ho](https://ubc-mdscl.github.io/assets/img/vanessa-ho-mdscl.jpeg)
+
+*"I am always amazed and blown away with all the students who pass through the MDS program. They all come from diverse backgrounds who learn from each other as they go through this intensive 10-month program on their path to a new career in data science."*
+
+Vanessa Ho obtained her Bachelor's of Journalism degree from the University of Regina and worked for four years as a technology journalist in Toronto. Vanessa moved back to Vancouver in 2008 and transitioned into a career as a digital content creator for a variety of technology companies in the Vancouver area. She started at the MDS program in 2018 as the marketing coordinator chronicling the MDS student journey. Outside of MDS, Vanessa is a pop culture enthusiast and enjoys biking and baking.
