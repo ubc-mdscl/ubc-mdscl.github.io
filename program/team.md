@@ -94,3 +94,13 @@ Adrianne supports the graduate students within the Department of Linguistics whi
 *"I am always amazed and blown away with all the students who pass through the MDS program. They all come from diverse backgrounds who learn from each other as they go through this intensive 10-month program on their path to a new career in data science."*
 
 Vanessa Ho obtained her Bachelor's of Journalism degree from the University of Regina and worked for four years as a technology journalist in Toronto. Vanessa moved back to Vancouver in 2008 and transitioned into a career as a digital content creator for a variety of technology companies in the Vancouver area. She started at the MDS program in 2018 as the marketing coordinator chronicling the MDS student journey. Outside of MDS, Vanessa is a pop culture enthusiast and enjoys biking and baking.
+
+---
+
+**Muhammad Abdul-Mageed — Assistant Professor (On Leave)**
+
+![Muhammad Abdul-Mageed](https://ubc-mdscl.github.io/assets/img/muhammad-abdul-mageed-mdscl.jpg)
+
+*"Deep learning is revolutionary. Some of the most exciting progress in deep learning is happening with language. It is in your car, your browser, and your pocket. Deep learning of language is in its infancy, with fascinating progress ahead."*
+
+Muhammad Abdul-Mageed is an Assistant Professor of Computational Linguistics, Information Science, and Computer Science and Director of the Natural Language Processing Lab at the UBC. He is a core member of UBC Institute for Computing, Information and Cognitive Systems and Centre for Artificial Intelligence Decision-making and Action. His research focuses on developing novel deep learning methods for natural language socio-pragmatics, with a goal to build `social’ machines to enhance human health and well-being.
