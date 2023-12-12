@@ -89,7 +89,7 @@ Adrianne supports the graduate students within the Department of Linguistics whi
 
 **Vanessa Ho — Marketing Coordinator**
 
-![Vanessa Ho](https://ubc-mdscl.github.io/assets/img/vanessa-ho-mdscl.jpeg)
+![Vanessa Ho](https://ubc-mdscl.github.io/assets/img/vanessa-ho-mdscl.jpg)
 
 *"I am always amazed and blown away with all the students who pass through the MDS program. They all come from diverse backgrounds who learn from each other as they go through this intensive 10-month program on their path to a new career in data science."*
 
