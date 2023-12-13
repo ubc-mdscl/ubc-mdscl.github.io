@@ -16,6 +16,12 @@ The team built a web interface for people to browse through their corpus. The we
 
 ![parallel-corpora-dashboard-2](https://ubc-mdscl.github.io/assets/img/parallel-corpora-dashboard-2.png)
 
+<img src="[parallel-corpora-dashboard-2.png](https://ubc-mdscl.github.io/assets/img/parallel-corpora-dashboard-2.png)" 
+        alt="parallel-corpora-dashboard-2" 
+        width="800" 
+        height="600" 
+        style="display: block; margin: 0 auto" />
+
 AI versus Human Dashboard MDS Computational Linguistics
 Another feature is the guessing game that randomly grabbed a text from their corpus that is then displayed to the user. The user will look at the text and determine whether it is from A.I. or human. Once they decide, they can click on the “A.I.” or “Human” button and the system will tell them whether they are correct or not. 
 
