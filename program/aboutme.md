@@ -10,15 +10,15 @@ The [University of British Columbia](https://www.ubc.ca/) (UBC) is a comprehensi
 
 At the end of the six segments, an eight-week, six-credit capstone project is also included, allowing students to apply their newly acquired knowledge, while working alongside other students with real-life data sets.  
 
-Highlights Specific to Computational Linguistics: 
+### Highlights Specific to Computational Linguistics: 
 
-Students learn fundamental data science skills, techniques, and tools with the core Master of Data Science cohort, then branch off into more specialized courses, such as natural language processing (NLP), experiencing the benefits of a large program and small program in one 
+* Students learn fundamental data science skills, techniques, and tools with the core Master of Data Science cohort, then branch off into more specialized courses, such as natural language processing (NLP), experiencing the benefits of a large program and small program in one 
 
-A small cohort model allows for individualized support from teaching team and encourages community building  
+* A small cohort model allows for individualized support from teaching team and encourages community building  
 
-UBC’s Vancouver campus offers students the unrivaled experience of a top 40 university, surrounded by remarkable natural beauty, at the edge of a cosmopolitan city 
+* UBC’s Vancouver campus offers students the unrivaled experience of a top 40 university, surrounded by remarkable natural beauty, at the edge of a cosmopolitan city 
 
-Strong connections with industry partners in public and private sectors, start-ups, and leading tech companies offer a wide range of networking/career opportunities  
+* Strong connections with industry partners in public and private sectors, start-ups, and leading tech companies offer a wide range of networking/career opportunities  
 
 Highlights Across All MDS Programs: 
 
