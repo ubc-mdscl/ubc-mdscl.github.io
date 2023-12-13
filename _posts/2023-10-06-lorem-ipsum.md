@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/bc-stats-image.png
 share-img: /assets/img/bc-stats-image.png
 ---
 
-The BC Data Catalogue contains over 3,000 government datasets with lots of useful information, available for anyone to use. Despite its wealth of information, users often faced difficulties in locating the datasets they needed, resulting in lower engagement with the platform. Recognizing this challenge, BC Data Service identified two key barriers hindering user satisfaction. 
+The [BC Data Catalogue](https://catalogue.data.gov.bc.ca/) contains over 3,000 government datasets with lots of useful information, available for anyone to use. Despite its wealth of information, users often faced difficulties in locating the datasets they needed, resulting in lower engagement with the platform. Recognizing this challenge, BC Data Service identified two key barriers hindering user satisfaction. 
 
 The first barrier was a suboptimal search quality, where users struggled to find the desired datasets unless they used exact keywords. Second, there was no clear overview of the datasets, making it hard to know what topics the datasets covered and how many datasets there were for each topic.  
 
