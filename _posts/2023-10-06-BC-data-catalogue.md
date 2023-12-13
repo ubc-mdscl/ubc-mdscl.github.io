@@ -3,7 +3,7 @@ layout: post
 title: Improving BC Data Catalogue with NLP Techniques
 subtitle: Student Capstone Project
 cover-img: /assets/img/bc-stats-image.png
-thumbnail-img: /assets/img/bc-stats-image.png
+thumbnail-img: /assets/img/bc-stats-image-thumb.png
 share-img: /assets/img/bc-stats-image.png
 ---
 
