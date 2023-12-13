@@ -41,3 +41,28 @@ subtitle:
 | COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | Garrett Nicolai, Jungyeul Park | TBA |
 | DSCI 563  | Unsupervised Learning | How to find groups and other structure in unlabeled, possibly high dimensional data. Dimension reduction for visualization and data analysis. Clustering, association rules, model fitting via the EM algorithm. | Garrett Nicolai, Jungyeul Park | TBA |
 | DSCI 572  | Supervised Learning II | Introduction to optimization. Gradient descent and stochastic gradient descent. Roundoff error and finite differences. Neural networks and deep learning. | Jian Zhu, Jungyeul Park | TBA |
+
+*Block 5 (4 weeks, 4 credits)*
+
+| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| COLX 523  | Advanced Corpus Linguistics | Text corpora collection and curation. How to pull representative datasets from internet sources. Techniques for efficient and reliable annotation. | Garrett Nicolai, Jungyeul Park | TBA |
+| COLX 525  | Computational Morphology | Approaches to sub-word phenomenon in language processing. Automatic morphological analysis of diverse languages, part of speech tagging, word segmentation, and character-level neural network models. | Miikka Silfverberg, Jungyeul Park | TBA |
+| COLX 531  | Machine Translation | Key methodologies for automatic translation between languages, with a focus on statistical and neural machine translation approaches. Applying Machine Translation (MT) architectures to analogous monolingual tasks. MT evaluation. | Jian Zhu, Jungyeul Park | TBA |
+| COLX 565  | Sentiment Analysis | Identification and analysis of opinion, especially in social media. Text polarity and emotion classification, fine-grained (e.g. aspectual) opinion mining, argumentation mining, sentiment in social networks. | Garrett Nicolai, Jungyeul Park | TBA |
+
+*Block 6 (4 weeks, 4 credits)*
+
+| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| COLX 563  | Advanced Computational Semantics | Application of machine learning to various semantic tasks. Likely topics include: information extraction, semantic role labelling, semantic parsing, discourse parsing, question answering, summarization, and natural language inference. | Miikka Silfverberg, Jungyeul Park | TBA |
+| COLX 581  | Natural Language Processing for Low-Resource Languages | Building automatic language tools when data is scarce. Rule-based and hybrid systems, semi-supervised learning, active learning. Knowledge transfer from other (related) languages. | Miikka Silfverberg, Jungyeul Park | TBA |
+| COLX 585  | Trends in Computational Linguistics | Cutting-edge techniques in natural language processing. For this iteration, the latest innovations in neural network architectures. | Jian Zhu, Jungyeul Park | TBA |
+| DSCI 541  | Privacy, Ethics & Security | The legal, ethical, and security issues concerning data, including aggregated data. Proactive compliance with rules and, in their absence, principles for the responsible management of sensitive data. Case studies. | Garrett Nicolai, Jungyeul Park | TBA |
+
+# Spring: May-June
+*Capstone Project (8-10 weeks, 6 credits)*
+
+| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| COLX 595  | Capstone Project | A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a project report, presentation, and possibly other products, such as a web application. | MDS-CL Staff |
