@@ -14,7 +14,7 @@ For this project, the students focused on English formal text that's divided int
 
 The team built a web interface for people to browse through their corpus. The web interface featured a corpus browser that enabled users to browse the corpus with human and A.I. script side by side. Additionally, on that same page, it implements a function that compared the two texts at every index and highlighted the differences between the two.
 
-![parallel-corpora-dashboard-2](https://ubc-mdscl.github.io/assets/img/parallel-corpora-dashboard-2.png) {: .mx-auto.d-block :}
+![parallel-corpora-dashboard-2](https://ubc-mdscl.github.io/assets/img/parallel-corpora-dashboard-2.png)
 
 AI versus Human Dashboard MDS Computational Linguistics
 Another feature is the guessing game that randomly grabbed a text from their corpus that is then displayed to the user. The user will look at the text and determine whether it is from A.I. or human. Once they decide, they can click on the “A.I.” or “Human” button and the system will tell them whether they are correct or not. 
