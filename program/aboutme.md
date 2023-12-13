@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About UBC MDS
-subtitle: About the UBC MDS-CL Program
+title: About the UBC MDS-CL Program
+subtitle: 
 ---
 
 The UBC Master of Data Science –Computational Linguistics (MDS-CL) program is a 10-month long professional master’s program. Jointly taught by faculty from Arts and Science, MDS-CL students are given access to experts in the fields of Linguistics, Statistics, and Computer Science.  
 
-The [University of British Columbia](https://www.ubc.ca/) (UBC) is a comprehensive research-intensive university, consistently ranked among the 40 best universities in the world. The MDS-CL program was launched in September 2018 and is offered by a collaboration between the UBC Department of Linguistics, Department of Computer Science and Department of Statistics. The program structure includes 24 one-credit courses offered in four-week segments. Courses are lab-oriented and delivered in-person with some blended online content. 
+The [University of British Columbia](https://www.ubc.ca/) (UBC) is a comprehensive research-intensive university, consistently ranked among the 40 best universities in the world. The MDS-CL program was launched in September 2018 and is offered by a collaboration between the UBC [Department of Linguistics](https://linguistics.ubc.ca/), [Department of Computer Science](https://www.cs.ubc.ca/) and [Department of Statistics](https://www.stat.ubc.ca/). The program structure includes [24 one-credit courses](https://masterdatascience.ubc.ca/programs/computational-linguistics) offered in four-week segments. Courses are lab-oriented and delivered in-person with some blended online content. 
 
-At the end of the six segments, an eight-week, six-credit capstone project is also included, allowing students to apply their newly acquired knowledge, while working alongside other students with real-life data sets.  
+At the end of the six segments, an eight-week, six-credit [capstone project](https://masterdatascience.ubc.ca/employers/capstone-project) is also included, allowing students to apply their newly acquired knowledge, while working alongside other students with real-life data sets.  
 
 ### Highlights Specific to Computational Linguistics: 
 
@@ -20,14 +20,14 @@ At the end of the six segments, an eight-week, six-credit capstone project is al
 
 * Strong connections with industry partners in public and private sectors, start-ups, and leading tech companies offer a wide range of networking/career opportunities  
 
-Highlights Across All MDS Programs: 
+### Highlights Across All MDS Programs: 
 
-10-month, full-time, accelerated program offers a short-term commitment for long-term gain 
+* 10-month, full-time, accelerated program offers a short-term commitment for long-term gain 
 
-Condensed one-credit courses allow for in-depth focus on a limited set of topics at one time 
+* Condensed one-credit courses allow for in-depth focus on a limited set of topics at one time 
 
-Capstone project gives students an opportunity to apply their skills 
+* Capstone project gives students an opportunity to apply their skills 
 
-Real-world data sets are integrated in all courses to provide practical experience across a range of domains 
+* Real-world data sets are integrated in all courses to provide practical experience across a range of domains 
 
 There are also general MDS options at the UBC Okanagan and UBC Vancouver campuses. 
