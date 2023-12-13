@@ -23,6 +23,7 @@ subtitle: For MDS-CL Capstone Projects
 | Kickoff/ Hackathon | Apr 29th  - May 1st , 2024 |
 | Year-End Celebration | June 26th, 2024 |
 
+
 ### Proposal revision process 
 
 Members of an organization interested in participating as a capstone partner should submit a project proposal. 
