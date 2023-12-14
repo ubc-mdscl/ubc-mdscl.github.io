@@ -15,24 +15,20 @@ subtitle: For MDS-CL Capstone Projects
 | Proposal deadline | November 30, 2023 |
 | Partners submit video presentations  | December 18th- January 8th, 2024 |
 | Capstone fair | Feb 9th, 2024 |
-| Students rate the projects  | Feb 11th, 2024 |
-| Students are assigned to projects  | April 1st , 2024 |
+| Students rate the projects  | Feb 13th, 2024 |
+| Students are assigned to projects  | March 15th , 2024 |
 | Partners demonstrate readiness of data and sign legal docs | April 10th, 2024 |
 | Kickoff meetings and partner Info Session | April, 2024 |
 | Project | Apr 29th - June 26th , 2024 |
-| Kickoff/ Hackathon | Apr 29th  - May 1st , 2024 |
+| Kickoff/Coding Challenge | Apr 29th  - May 1st , 2024 |
 | Year-End Celebration | June 26th, 2024 |
 
 
 ### Proposal revision process 
 
-Members of an organization interested in participating as a capstone partner should submit a project proposal. 
+Members of an organization interested in participating as a capstone partner should submit a project [proposal](https://ubc-mds.github.io/capstone/proposal/). 
 
-Proposals received before November 1st will be reviewed by the MDS-CL teams and feedback/suggestions for revisions will be provided to the partner, who can then revise their proposal before submitting a proposal video to students. This revision process aims to maximize the chance of a proposal being selected by students. Proposals received after November 1st will not be provided with feedback. 
-
-### Selection of proposals 
-
-The MDS leadership team will select proposals based primarily on student interest, and will invite the successful organizations to be a capstone partner. 
+Proposals received *before November 1st* will be reviewed by the MDS-CL teams and feedback/suggestions for revisions will be provided to the partner, who can then revise their proposal before submitting a proposal video to students. This revision process aims to maximize the chance of a proposal being selected by students. Proposals received *after* November 1st will not be provided with feedback. 
 
 ### Partners submit video presentations 
 
@@ -62,6 +58,8 @@ The students will arrange a date and time with their capstone partner, teaching 
 
 The project itself. At the end, partners can expect the students to present at the partner organizations. Partners will also be invited to an end-of-program celebration at UBC. 
 
-### Hackathon 
+### Kick-Off/Coding Challenge
 
-The Capstone project typically starts with a multi-day kick-off and hackathon at the UBC main Point Grey campus.
+The Capstone project typically starts with a multi-day kick-off and coding challenge at the UBC main Point Grey campus. Day 1 of the kick-off focuses on professional skills, Day 2 focuses on technical skills and hosts a coding challenge, and Day 3 is when students dive into their project data.  
+
+Capstone partners are strongly encouraged to attend the afternoon of the 3rd day of the kick-off. In the past, students have found this very valuable, as they were able to ask questions about their dataset and clarify other data science issues with the partner.
