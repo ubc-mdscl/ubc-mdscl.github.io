@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MDS Calendar
+title: MDS-CL Calendar
 weight: 98
 ---
 PLEASE NOTE: If you are unsure of your Lab section, please check your SSC or contact us at ling.mds@ubc.ca
