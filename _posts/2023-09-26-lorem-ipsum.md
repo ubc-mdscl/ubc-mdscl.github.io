@@ -3,8 +3,8 @@ layout: post
 title: Why do Judges Allow or Deny Eviction Orders in Ontario's Residential Tenancy Board?
 subtitle: Student Capstone Project
 cover-img: /assets/img/law-capstone-project.png
-thumbnail-img: /assets/img/law-capstone-project.png
-share-img: /assets/img/law-capstone-project.png
+thumbnail-img: /assets/img/law-capstone-project-thumb.png
+share-img: /assets/img/law-capstone-project-thumb.png
 ---
 
 The University of Toronto’s Future of Law Lab worked with two groups of Master of Data Science Computational Linguistics students to help answer the following question: Why do judges allow or deny eviction orders in Ontario's Residential Tenancy Board?
