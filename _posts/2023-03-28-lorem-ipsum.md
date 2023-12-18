@@ -23,6 +23,8 @@ To create annotations, the students looked for all dialogue within a chapter. On
 
 The group developed a web app where users can search whether Jane Austen’s books passed the Bechdel Test. The app also lets people filter to see all male speakers and all female speakers in an entire book. The app also lets people filter specific chapters in a book. 
 
+![Screenshot of the group's web app](https://ubc-mdscl.github.io/assets/img/final-bookdel-img.png)
+
 Of all the 238 chapters in the books the group analyzed, only one chapter actually passed the Bechdel Test (chapter 23 of “Sense and Sensibility”). The group summarized that Jane Austen’s books shouldn’t be called sexist but is just an indication of how integral men were to the story in relation to the female characters and their experiences were often still defined by or in relation to the male characters around them.
 
 The students think that their corpus could be a valuable resource for readers who want to revisit Jane Austen's works with a focus on modern feminist ideas.
