@@ -110,7 +110,7 @@ Plagiarism, which is intellectual theft, occurs where an individual submits or p
 
 Plagiarism will not be tolerated in the MDS-CL program and may result in dismissal from the program. Students are responsible for ensuring that any work submitted does not constitute plagiarism. Students who are in any doubt as to what constitutes plagiarism should consult their Instructor before handing in any assignments. 
 
-For more information see the UBC Academic Misconduct policies. 
+For more information see the [UBC Academic Misconduct policies](https://vancouver.calendar.ubc.ca/campus-wide-policies-and-regulations/student-conduct-and-discipline). 
 
 ### Code Plagiarism 
 
