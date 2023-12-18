@@ -31,7 +31,7 @@ navbar-links:
     - Career Advising: "program/advising"
   Capstone: 
     - About: "capstone/about" 
-    - Partner Info: "capstone/partner_info"
+    - Partner Info: "capstone/partner-info"
     - Student Info: "capstone/student_info"
     - Proposals: "capstone/proposal"
     - Timeline: "capstone/timeline"
