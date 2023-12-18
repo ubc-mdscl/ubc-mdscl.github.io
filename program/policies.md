@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MDS Policies
+title: MDS-CL Policies
 subtitle:
 ---
 
