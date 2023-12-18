@@ -32,45 +32,16 @@ General grading scheme
 
 UBC uses a percentage grade system from 0 to 100%. The following table shows an unofficial conversion from percentage grades to letter grades (source: 2nd table of [this page](https://vancouver.calendar.ubc.ca/?tree=3,42,96,0)): 
 
-Percentage (%) 
-
-Letter Grade 
-
-90-100 
-
-A+ 
-
-85-89 
-
-A 
-
-80-84 
-
-A- 
-
-76-79 
-
-B+ 
-
-72-75 
-
-B 
-
-68-71 
-
-B- 
-
-64-67 
-
-C+ 
-
-60-63 
-
-C 
-
-0-59 
-
-F (Fail) 
+| Percentage (%)  | Letter Grade |
+| :------------- | :------------- |
+| 90-100 | A+ |
+| 85-89 | A |
+| 80-84 | A- |
+| 76-79 | B+ |
+| 72-75 | B |
+| 64-67 | C+ |
+| 60-63 | C |
+| 0-59 | F (Fail) | 
 
 ### Group project 
 
@@ -92,59 +63,50 @@ Both assignments and quizzes are factored into the final grade for each course. 
 
 A late submission is defined as any work submitted after the deadline posted on the course page. 
 
-Concessions for late assignments are set by the course instructor and may be given if requested in advance of the assignment deadline.  
+Concessions for late assignments are set by the course instructor and may be given if requested <ins>in advance</ins> of the assignment deadline.  
 
 ### Re-grading 
 
 If you have a question about the way your work was graded, please contact the relevant person based on the table below: 
 
-Assessment type 
-
-Who to contact 
-
-Lab grade  
-
-The grading TA and then the Lab Instructor 
-
-Quiz questions 
-
-The course instructor  
+| Assessment Type  | Who to Contact |
+| :------------- | :------------- |
+| Lab grade | The grading TA and then the Lab Instructor |
+| Quiz questions | The course instructor |
 
 When we receive a regrade request we may re-grade the entire submission; thus, your lab/quiz grade may go up or down as a result of re-grading. 
 
-Grading concerns: time limit 
+#### Grading concerns: time limit 
 
 Regrade requests are highly encouraged to be submitted within a week of the grade being published. It is at the instructor’s discretion to decide if regrade requests have been submitted too late for reconsideration.  
 
- 
-
-### Reasonable grading concerns 
+#### Reasonable grading concerns 
 
 Reasonable requests for re-grading will be considered. Please reach out to the course instructor if you are uncertain if the request is reasonable.  
 
-Quiz policies 
+### Quiz policies 
 
-Unless otherwise specified, MDS-CL quizzes are open book.  
+Unless otherwise specified, MDS-CL quizzes are **open book.**  
 
-It is NOT permitted to communicate with anyone else, including via posting quiz questions on internet forums, during a quiz. Quizzes must be written in your own words.  
+**It is NOT permitted to communicate with anyone else, including via posting quiz questions on internet forums, during a quiz. Quizzes must be written in your own words.**  
 
-Use of AI tools (e.g., ChatGPT) is also strictly prohibited and can lead to serious consequences. 
+**Use of AI tools (e.g., ChatGPT) is also strictly prohibited and can lead to serious consequences.** 
 
 Failing to observe the above expectations may result in a zero grade for the quiz in question. 
 
-Plagiarism 
+### Plagiarism 
 
 Plagiarism, which is intellectual theft, occurs where an individual submits or presents the oral or written work of another person as his or her own and can include: 
 
-multiple students submitting the same response 
+* multiple students submitting the same response 
 
-copying from sources without citing them 
+* copying from sources without citing them 
 
-copying verbatim (word-for-word) from source and citing, but failing to make it explicit that this is a quotation (quotations should be used only rarely, if at all) 
+* copying verbatim (word-for-word) from source and citing, but failing to make it explicit that this is a quotation (quotations should be used only rarely, if at all) 
 
-sending/emailing/sharing part of your answers, including code, to anyone else, including classmates (unless you are working together in an official group assignment) 
+* sending/emailing/sharing part of your answers, including code, to anyone else, including classmates (unless you are working together in an official group assignment) 
 
-redistribute or use redistributed assignments and solutions. 
+* redistribute or use redistributed assignments and solutions. 
 
 Plagiarism will not be tolerated in the MDS-CL program and may result in dismissal from the program. Students are responsible for ensuring that any work submitted does not constitute plagiarism. Students who are in any doubt as to what constitutes plagiarism should consult their Instructor before handing in any assignments. 
 
@@ -154,21 +116,21 @@ For more information see the UBC Academic Misconduct policies.
 
 Students must correctly cite any code that has been authored by someone else or by the student themselves for other assignments. Cases of code plagiarism may include, but are not limited to: 
 
-the reproduction (copying and pasting) of code with none or minimal reformatting (e.g., changing the name of the variables) 
+* the reproduction (copying and pasting) of code with none or minimal reformatting (e.g., changing the name of the variables) 
 
-the translation of an algorithm or a script from a language to another 
+* the translation of an algorithm or a script from a language to another 
 
-the generation of code by automatic code-generations software 
+* the generation of code by automatic code-generations software 
 
 An “adequate acknowledgement” requires a detailed identification of the (parts of the) code reused and a full citation of the original source code that has been reused. 
 
-Use of LLMs 
+### Use of LLMs 
 
-Use of LLMs on quizzes in MDS-CL will be strictly prohibited. The purpose of our quizzes is to test your knowledge, not the LLMs. It is important that you can explain your answer to all quizzes and assignments if prompted.  
+* Use of LLMs on quizzes in MDS-CL will be strictly prohibited. The purpose of our quizzes is to test your knowledge, not the LLMs. It is important that you can explain your answer to all quizzes and assignments if prompted.  
 
-In some assignments in MDS-CL you will be explicitly asked to use LLMs so that you get practice working with them. 
+* In some assignments in MDS-CL you will be explicitly asked to use LLMs so that you get practice working with them. 
 
-If you are not asked to use an LLM to solve a problem in MDS-CL, you probably shouldn’t use them to directly solve the problem. By doing so you are only cheating yourself of the practice and learning you would get by solving the problem yourself. 
+* If you are not asked to use an LLM to solve a problem in MDS-CL, you probably shouldn’t use them to directly solve the problem. By doing so you are only cheating yourself of the practice and learning you would get by solving the problem yourself. 
 
 ### Leaves of Absence (medical or personal) 
 
@@ -186,19 +148,15 @@ The MDS-CL Leadership Team may request a student to withdraw from the program. T
 
 The MDS-CL program is approved by the UBC Senate as a full-time program. Hence, students must take the program on a full-time basis as part of their cohort and cannot complete the program on a part-time basis. 
 
-Respectful Environment  
+### Respectful Environment  
 
 The University of British Columbia envisions a climate in which students, faculty and staff are provided with the best possible conditions for learning, researching and working, including an environment that is dedicated to excellence, equity and mutual respect. The University of British Columbia strives to realize this vision by establishing employment and educational practices that respect the dignity of individuals and make it possible for everyone to live, work and study in a positive and supportive environment, free from harmful behaviours such as bullying and harassment.  
 
-The MDS-CL program supports the maintenance of a respectful environment. Students will not be discriminated against, and we are committed to making our students feel accepted during their time at UBC. A link to the full UBC respectful environment policy can be found here: https://hr.ubc.ca/sites/default/files/documents/UBC-Statement-on-Respectful-Environment.pdf 
-
- 
+The MDS-CL program supports the maintenance of a respectful environment. Students will not be discriminated against, and we are committed to making our students feel accepted during their time at UBC. A link to the full UBC respectful environment policy can be found here: (https://hr.ubc.ca/sites/default/files/documents/UBC-Statement-on-Respectful-Environment.pdf) 
 
 ### UBC’s Policies and Resources to Support Student Success 
 
-UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for those suffering with metal health concerns and survivors of sexual violence. UBC values respect for the person and ideas of all members of the academic community. Harassment and discrimination are not tolerated nor is suppression of academic freedom. UBC provides appropriate accommodation for students with disabilities and for religious, spiritual and cultural observances. UBC values academic honesty and students ae expected to acknowledge the ideas generated by others and to uphold the highest academic standards in all of their actions. Details of the policies and how to access support are available here. 
-
-
+UBC provides resources to support student learning and to maintain healthy lifestyles but recognizes that sometimes crises arise and so there are additional resources to access including those for those suffering with metal health concerns and survivors of sexual violence. UBC values respect for the person and ideas of all members of the academic community. Harassment and discrimination are not tolerated nor is suppression of academic freedom. UBC provides appropriate accommodation for students with disabilities and for religious, spiritual and cultural observances. UBC values academic honesty and students ae expected to acknowledge the ideas generated by others and to uphold the highest academic standards in all of their actions. Details of the policies and how to access support are available [here](https://senate.ubc.ca/policies-resources-support-student-success/). 
 
 ### Transfers 
 
