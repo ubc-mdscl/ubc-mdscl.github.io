@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MDS Courses
+title: MDS-CL Courses
 subtitle:
 ---
 
