@@ -15,6 +15,8 @@ To build their dataset for emotion detection and classification, the group used 
 
 Knowing that emotion labeling can be a very subjective task, the students used Mechanical Turk to annotate their data on a small set of their data, which consisted of 465 reviews. The turkers were asked to read a review and then classify a review into one of the following emotions: enthusiastic, sad, bored, disappointed, content, love, neutral. 
 
+![Goodreads Dashboard](https://ubc-mdscl.github.io/assets/img/goodreads-img.png)
+
 While some of the turkers annotated the groups’ small dataset correctly, not every turker completed the task properly. Even when considering that emotion classification is subjective, there were many cases where a review would be clearly very positive and the turker would have labeled it as bored or disappointed. To overcome this hurdle, the students used only a subset of the reviews with a higher inter-annotator agreement in their final annotated corpus. The most common emotion noted across the 465 reviews was enthusiasm, which was 27% of the total.
 
 The students then created a website that shows the user the group’s corpus and allows them to search through it by book title, author, genre, rating, and emotion. 
