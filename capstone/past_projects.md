@@ -4,8 +4,6 @@ title: Past Projects
 subtitle: For the MDS Capstone course
 ---
 
-{{ content }}
-
 {% assign posts = paginator.posts | default: site.posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
