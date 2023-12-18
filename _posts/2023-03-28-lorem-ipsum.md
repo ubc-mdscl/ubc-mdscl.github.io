@@ -2,9 +2,9 @@
 layout: post
 title: BookdelTest - Female Participation in Jane Austen Novels
 subtitle: Student Data Science Project
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/final-bookdel.png
+thumbnail-img: /assets/img/final-bookdel-thumb.png
+share-img: /assets/img/final-bookdel-thumb.png
 ---
 
 The Bechdel Test was created by cartoonist Alison Bechdel as a tool used to evaluate the representation of women in media. The work passes this test if it includes a scene where at least two main female characters have a conversation about something other than a man. 
