@@ -22,13 +22,13 @@ The purpose of the IP assignment agreement is to clarify who owns any intellectu
 
 * [Template IP Assignment Agreement](https://ubc-mds.github.io/capstone/template-ubc-ip-assignment.pdf) 
 
-Further information on UBC’s policies for handling intellectual property can be found in UBC Policy LR11 - Inventions and Discoveries. 
+Further information on UBC’s policies for handling intellectual property can be found in [UBC Policy LR11 - Inventions and Discoveries](https://universitycounsel.ubc.ca/policies/inventions-policy/). 
 
 ### Agreements for UBC-affiliated capstone partners 
 
 For projects which are sponsored by UBC faculty or by companies (startups) that are closely related to or incubated by UBC, any new inventions will be handled by the UBC’s University-Industry Liaison Office - the UILO. The UILO is the UBC body that handles intellectual property and UBC-industry relationships for the university. If a UBC professor or graduate student wishes to file a patent, start a company, or engage in a paid research partnership with an external company, they would deal with the UILO. Intellectual property for UBC-affiliated projects is handled by the UILO, rather than the above agreements, because these sponsors are UBC employees and the projects will be completed using university resources. 
 
-Further information on UBC’s policies for handling intellectual property can be found in UBC Policy LR11 - Inventions and Discoveries. 
+Further information on UBC’s policies for handling intellectual property can be found in [UBC Policy LR11 - Inventions and Discoveries](https://universitycounsel.ubc.ca/policies/inventions-policy/). 
 
 ### Attributions 
 
