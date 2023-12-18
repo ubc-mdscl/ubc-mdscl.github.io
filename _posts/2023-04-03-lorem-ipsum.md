@@ -5,7 +5,6 @@ subtitle: Student Data Science Project
 cover-img: /assets/img/ai-versus-human.gif
 thumbnail-img: /assets/img/ai-versus-human.gif
 share-img: /assets/img/ai-versus-human.gif
-tags: [books, test]
 ---
 
 It said that ChatGPT has gotten to the point where some people argue that A.I. generated text is indistinguishable from human text. A group of UBC Master of Data Science Computational Linguistics students (Jialiang (Justin) Ren, Francesco Strafforello, Mingjia Mao, and Yu Tian Shen) wanted to use their Advanced Corpus Linguistics project to show that there is a difference between the two.
