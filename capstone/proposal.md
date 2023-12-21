@@ -23,7 +23,7 @@ The MDS Computational Linguistics (MDS-CL) program specializes in topics focusin
 
 The MDS Vancouver (MDS-V) and MDS Okanagan programs covers a general overview of data science, including topics of data wrangling, visualization, dashboards, statistics and machine learning, amongst others. You can read more about the programs and can see their capstone information on their respective websites to learn more about the type of projects [MDS-V](https://ubc-mds.github.io/capstone/about/) and [MDS-O](https://ubco-mds.github.io/) addresses in capstone. 
 
- ## Instructions for filling out the capstone proposal form 
+## Instructions for filling out the capstone proposal form 
 
 Detailed instructions for filling out the capstone proposal form can be found below. 
 
