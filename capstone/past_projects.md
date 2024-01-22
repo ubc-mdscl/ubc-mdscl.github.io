@@ -24,7 +24,7 @@ subtitle: For the MDS-CL Capstone course
 * [SAP](https://www.sap.com/canada/index.html): _ClearlyDefined: Intelligently Summarizing Software Licenses_
 * [Seasalt.ai](https://seasalt.ai/): _Bridging the Chasm: from Voice Data to Voice Intelligence_, _AMA About Your Business in a Mirror World_
 
-**2020/2021:**
+**2020/21:**
 * [Indeed](https://ca.indeed.com/): _Automatic Inference of Reader Attributed from Blog Content_
 * [Dialpad](https://www.dialpad.com/): _ASR Data Inspector_
 * [Government of Canada Web Analytics Team](https://www.canada.ca/en/analytics.html): _Capturing What Users go to Canada.ca to Do_
@@ -34,19 +34,11 @@ subtitle: For the MDS-CL Capstone course
 * [Seasalt.ai](https://seasalt.ai/): _Happiness in One Model: Cross-Lingual NER for Low-Resource Languages_
 
 **2019/20:**
-* Minerva Intelligence 
-Mineral Occurrence Text Extractor
-* Informed Opinions 
-NLP for Social Change – The Gender Gap Tracker
-* Better Dwelling
-Does News Report Manipulate Financial Markets
-* Thomson Reuters 
-Next Generation Conceptual Tagging
-* CRIM 
-Discovering Words by Their Neighbours: a Dissimilarity-Based Concordance
-* UBC Linguistics - 
-Phase One of a Universal Graded Reader
-* UBC’s Peter A. Allard School of Law 
-Analysis of BC Negligence Decisions over 20 years
-* Unbounce 
-Closing the Feedback Loop: Identifying Customer Pain Points through NLP
+* [Minerva Intelligence](https://www.gominerva.com/): _Mineral Occurrence Text Extractor_
+* [Informed Opinions](https://informedopinions.org/): _NLP for Social Change – The Gender Gap Tracker_
+* [Better Dwelling](https://betterdwelling.com/): _Does News Report Manipulate Financial Markets_
+* [Thomson Reuters](https://www.thomsonreuters.ca/en.html): _Next Generation Conceptual Tagging_
+* [CRIM](https://www.crim.ca/en/): _Discovering Words by Their Neighbours: a Dissimilarity-Based Concordance_
+* [UBC Linguistics](https://linguistics.ubc.ca/): _Phase One of a Universal Graded Reader_
+* [UBC’s Peter A. Allard School of Law](https://allard.ubc.ca/): _Analysis of BC Negligence Decisions over 20 years_
+* [Unbounce](https://unbounce.com/): _Closing the Feedback Loop: Identifying Customer Pain Points through NLP_
