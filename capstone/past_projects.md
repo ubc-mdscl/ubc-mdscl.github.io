@@ -25,29 +25,22 @@ subtitle: For the MDS-CL Capstone course
 * [Seasalt.ai](https://seasalt.ai/): _Bridging the Chasm: from Voice Data to Voice Intelligence_, _AMA About Your Business in a Mirror World_
 
 **2020/2021:**
-* Indeed 
-Automatic Inference of Reader Attributed from Blog Content
-* Dialpad 
-ASR Data Inspector
-* Government of Canada Web Analytics Team
-Capturing What Users go to Canada.ca to Do
-* Glentel 
-Voice of Employee and Customer
-* The Sea Around Us 
- Estimation of Worldwide MPAS Protection through a Novel Questionnaire
-**Thomson Reuters - MDS Computational Linguistics**
-**Improving Search with Deep Learning for a Marketing Leading Account Research Platform**
-* Seasalt.ai
-Happiness in One Model: Cross-Lingual NER for Low-Resource Languages
+* [Indeed](https://ca.indeed.com/): _Automatic Inference of Reader Attributed from Blog Content_
+* [Dialpad](https://www.dialpad.com/): _ASR Data Inspector_
+* [Government of Canada Web Analytics Team](https://www.canada.ca/en/analytics.html): _Capturing What Users go to Canada.ca to Do_
+* [Glentel](https://www.glentel.com/home): _Voice of Employee and Customer_
+* [The Sea Around Us](https://www.seaaroundus.org/): _Estimation of Worldwide MPAS Protection through a Novel Questionnaire_
+* [Thomson Reuters - MDS Computational Linguistics](https://www.thomsonreuters.ca/en.html): _Improving Search with Deep Learning for a Marketing Leading Account Research Platform_
+* [Seasalt.ai](https://seasalt.ai/): _Happiness in One Model: Cross-Lingual NER for Low-Resource Languages_
 
 **2019/20:**
 * Minerva Intelligence 
 Mineral Occurrence Text Extractor
 * Informed Opinions 
 NLP for Social Change – The Gender Gap Tracker
-**Better Dwelling** 
-**Does News Report Manipulate Financial Markets**
-**Thomson Reuters** 
+* Better Dwelling
+Does News Report Manipulate Financial Markets
+* Thomson Reuters 
 Next Generation Conceptual Tagging
 * CRIM 
 Discovering Words by Their Neighbours: a Dissimilarity-Based Concordance
