@@ -14,6 +14,8 @@ subtitle: For the MDS-CL Capstone course
 * [UBC’s Peter A. Allard School of Law, Legal Hackers Ontario, and Future of Law Lab (UofT)](https://www.law.utoronto.ca/student-life/student-clubs-and-events/legal-hackers): _Why do Judges Allow or Deny Eviction Orders in Ontario's Residential Tenancy Board?_ 
 * [BC Stats](https://www2.gov.bc.ca/gov/content/data/about-data-management/bc-stats): _Improving BC Data Catalogue with NLP Techniques_
 
+___
+
 **2021/22:**
 * [BGC Engineering](https://www.bgcengineering.ca/): _Social Landslides: Improve NASA Global Landslide Catalog with Automated Social Media Mining_
 * [British Columbia Investment Management Corp. (BCI)](https://www.bci.ca/): _What Can SEC 10-K Textual Disclosures Tell Us About Climate Risk?_
@@ -24,6 +26,8 @@ subtitle: For the MDS-CL Capstone course
 * [SAP](https://www.sap.com/canada/index.html): _ClearlyDefined: Intelligently Summarizing Software Licenses_
 * [Seasalt.ai](https://seasalt.ai/): _Bridging the Chasm: from Voice Data to Voice Intelligence_, _AMA About Your Business in a Mirror World_
 
+___
+
 **2020/21:**
 * [Indeed](https://ca.indeed.com/): _Automatic Inference of Reader Attributed from Blog Content_
 * [Dialpad](https://www.dialpad.com/): _ASR Data Inspector_
@@ -32,6 +36,8 @@ subtitle: For the MDS-CL Capstone course
 * [The Sea Around Us](https://www.seaaroundus.org/): _Estimation of Worldwide MPAS Protection through a Novel Questionnaire_
 * [Thomson Reuters - MDS Computational Linguistics](https://www.thomsonreuters.ca/en.html): _Improving Search with Deep Learning for a Marketing Leading Account Research Platform_
 * [Seasalt.ai](https://seasalt.ai/): _Happiness in One Model: Cross-Lingual NER for Low-Resource Languages_
+
+___
 
 **2019/20:**
 * [Minerva Intelligence](https://www.gominerva.com/): _Mineral Occurrence Text Extractor_
