@@ -1,8 +1,3 @@
----
-layout: page
-title: Current Students
-subtitle: For Current MDS-CL students and Beyond
----
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
