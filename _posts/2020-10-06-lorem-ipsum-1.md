@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis of BC Negligence Decisions over 20 years
+title: Analysis of BC Negligence Decisions Over 20 Years
 subtitle: Student Capstone Project
 cover-img: /assets/img/bc-decisions.jpg
 thumbnail-img: /assets/img/bc-decisions-thumb.png
