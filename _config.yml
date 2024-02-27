@@ -67,14 +67,14 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  # email: "someone@example.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
-  github: 
-  twitter: 
+  # facebook: 
+  # github: 
+  # twitter: 
   # patreon: DeanAttali
   # youtube: c/daattali
-#  medium: yourname
+contact us: https://masterdatascience.ubc.ca/contact-us
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -82,7 +82,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+telephone: +1 (604)-827-2301
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -114,7 +114,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ubc-mdscl.github.io"
+# url-pretty: "ubc-mdscl.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
