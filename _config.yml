@@ -22,7 +22,6 @@ author: UBC MDS-CL Program
 navbar-links:
   Program: 
     - About: "program/aboutme"
-    - Our Vision: "program/vision"
     - Our Team: "program/team"
     - Course Overview: "program/overview"
     - Course Materials: "https://github.com/UBC-MDS/public"
