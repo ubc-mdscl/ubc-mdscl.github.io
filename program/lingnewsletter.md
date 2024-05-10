@@ -4,7 +4,7 @@ title: MDS-CL's 5th Anniversary
 subtitle: Newsletter Feature
 ---
 
-<p style="text-align: center;"><big><b>MDS-CL Turns Five!</b></big></p> 
+<p style="text-align: center;"><font size="+2"><b>MDS-CL Turns Five!</b></font></p> 
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
@@ -23,3 +23,4 @@ Capstone Projects are a mentored group project based on real data and questions 
 * **New Faculty:** 4 
 * **Employment Rate:** 88% Employed After 6 Months (4% in School) **Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020*
 
+***See more at [https://masterdatascience.ubc.ca/programs/computational-linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics)***
