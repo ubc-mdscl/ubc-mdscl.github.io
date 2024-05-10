@@ -33,8 +33,18 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <p><i>“I was intrigued by the MDS Computational program because it offered me the chance to step out of my comfort zone and gain new skills in coding and working with data.”</i></p>
 
-<p><b>Previous Degree:</b> Bachelor's in Speech Science from the University of British Columbia.</p>
+<p><b>Previous Degree:</b> Bachelor's in Speech Science from the University of British Columbia</p>
 
 <p>During her undergrad, Michelle took some graduate level classes in semantics and syntax where she was immediately interested in the way that language could be analyzed in a logical, mathematical way and wondered if there was a way to apply her background in theoretical linguistics to a technical field. This led Michelle to the MDS Computational Linguistics program. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-michelle-yun-mds-computational">Read Michelle's Story.</a></p>
+
+<h4 align="center"> — Oksana Kurylo, MDS Computational Linguistics, Class of 2022 — </h4>
+
+<p><a><img src="/assets/img/oksana-kurylo-img.jpg" alt="Oksana Kurylo" class="center"></a></p>
+
+<p><i>"I chose MDS Computational Linguistics as it offered a unique combination of data science and NLP courses. Also, a significant role in selecting MDS Computational Linguistics was the capstone project, where you can work on a real business problem with a company."</i></p>
+
+<p><b>Previous Degree:</b> Masters of Applied Linguistics from Lviv Polytechnic National University</p>
+
+<p>Before joining the MDS Computational Linguistics program, Oksana worked as a Computational Linguist and Natural Language Processing Researcher at several start-ups in her native Ukraine. It was while doing her first master's degree in Applied Linguistics from the Lviv Polytechnic National University, Oksana took a course on Computational Linguistics by Andriy Romanyuk, which opened a new world of Natural Language Processing for her. Outside of MDS Computational Linguistics, Oksana enjoys travelling. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-oksana-kurylo-mds-computational-0">Read Oksana's Story.</a></p>
 
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
