@@ -21,5 +21,5 @@ Capstone Projects are a mentored group project based on real data and questions 
 * **Number of Students graduated:** 128 (162 This November)
 * **Number of Courses:** 25 Each Year 
 * **New Faculty:** 4 
-* **Employment Rate:** 88% Employed After 6 Months (4% in School) *Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020
+* **Employment Rate:** 88% Employed After 6 Months (4% in School) **Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020*
 
