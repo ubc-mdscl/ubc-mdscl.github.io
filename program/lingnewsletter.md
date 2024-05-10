@@ -14,7 +14,7 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <h3>Capstone Project: Cross-Lingual NER for Low-Resource Languages</h3>
 
-<p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured [here](https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/) is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual NER for low-resource languages.</p>
+<p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured <a href="https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/">here</a> is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual NER for low-resource languages.</p>
 
 <h3>Alumni: Meiyu Zheng, Oksana Kurylo, Toshiko Shibano</h3>
 
