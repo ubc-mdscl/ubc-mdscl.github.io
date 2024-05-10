@@ -27,7 +27,7 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <h3>Alumni Profiles
 
-<h4>Meiyu Zheng, MDS Computational Linguistics, Class of 2023</h4>
+<h4 align="center"> — Meiyu Zheng, MDS Computational Linguistics, Class of 2023 — </h4>
 
 <p><i>“This program stands out due to its unique blend of data science and NLP courses, serving as a quick refresher and bridges the knowledge gap for students like me who completed their bachelor's degrees years ago and are transitioning from non-STEM fields.”</i></p>
 
