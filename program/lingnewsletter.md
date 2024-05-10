@@ -29,7 +29,7 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <h4 align="center"> — Michelle Yun, MDS Computational Linguistics, Class of 2023 — </h4>
 
-<p><a class="image fit"><img src="/assets/img/michelle-yun.jpg" alt="Michelle Yun"></a></p>
+<p><a class="image fit"><img src="/assets/img/michelle-yun.jpg" alt="Michelle Yun" align="center"></a></p>
 
 <p><i>“I was intrigued by the MDS Computational program because it offered me the chance to step out of my comfort zone and gain new skills in coding and working with data.”</i></p>
 
