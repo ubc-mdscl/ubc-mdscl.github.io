@@ -39,7 +39,7 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <h4 align="center"> — Oksana Kurylo, MDS Computational Linguistics, Class of 2022 — </h4>
 
-<p><a><img src="/assets/img/oksana-kurylo-img.jpg" alt="Oksana Kurylo" class="center"></a></p>
+<p><a><img src="/assets/img/oksana-kurylo-img.png" alt="Oksana Kurylo" class="center"></a></p>
 
 <p><i>"I chose MDS Computational Linguistics as it offered a unique combination of data science and NLP courses. Also, a significant role in selecting MDS Computational Linguistics was the capstone project, where you can work on a real business problem with a company."</i></p>
 
