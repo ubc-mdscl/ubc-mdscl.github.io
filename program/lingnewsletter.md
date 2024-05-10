@@ -27,12 +27,12 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <h3>Alumni Profiles
 
-<h4 align="center"> — Meiyu Zheng, MDS Computational Linguistics, Class of 2023 — </h4>
+<h4 align="center"> — Michelle Yun, MDS Computational Linguistics, Class of 2023 — </h4>
 
-<p><i>“This program stands out due to its unique blend of data science and NLP courses, serving as a quick refresher and bridges the knowledge gap for students like me who completed their bachelor's degrees years ago and are transitioning from non-STEM fields.”</i></p>
+<p><i>“I was intrigued by the MDS Computational program because it offered me the chance to step out of my comfort zone and gain new skills in coding and working with data.”</i></p>
 
-<p><b>Previous Degree:</b> Bachelor’s degree in English Language and Literature from Zhejiang University.</p>
+<p><b>Previous Degree:</b> Bachelor's in Speech Science from the University of British Columbia.</p>
 
-<p>Prior to entering the MDS Computational Linguistics program, Meiyu was a curriculum designer at Duolingo where she realized the she wanted to pursue a master’s degree in data science with a focus on Natural Language Processing. When not in the MDS Computational Linguistics program, Meiyu enjoys biking and learning new languages. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-meiyu-zheng-mds-computational">Read Meiyu's Story.</a></p>
+<p>During her undergrad, Michelle took some graduate level classes in semantics and syntax where she was immediately interested in the way that language could be analyzed in a logical, mathematical way and wondered if there was a way to apply her background in theoretical linguistics to a technical field. This led Michelle to the MDS Computational Linguistics program. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-michelle-yun-mds-computational">Read Michelle's Story.</a></p>
 
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
