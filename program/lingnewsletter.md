@@ -29,4 +29,4 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
     <li><b>Employment Rate:</b> 88% Employed After 6 Months (4% in School) <i>*Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020</i> </li>
 </ul>
 
-<b><i>See more at [https://masterdatascience.ubc.ca/programs/computational-linguistics](https://masterdatascience.ubc.ca/programs/computational-linguistics)</b></i>
+<b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></b></i>
