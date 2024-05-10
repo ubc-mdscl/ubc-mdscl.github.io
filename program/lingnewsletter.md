@@ -10,11 +10,11 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
+*"It's a really exciting time to be working in NLP. The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate." — Garrett Nicolai, MDS-CL Program Director*
+
 ### Capstone Project: Cross-Lingual NER for Low-Resource Languages
 
-Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured [here](https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/) is one example of a Capstone Project completed in 2021. 
-
-*"It's a really exciting time to be working in NLP. The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate." — Garrett Nicolai, MDS-CL Program Director* 
+Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured [here](https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/) is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual NER for low-resource languages.  
 
 ### Statistics
 
