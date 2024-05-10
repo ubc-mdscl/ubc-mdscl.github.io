@@ -4,7 +4,7 @@ title: MDS-CL's 5th Anniversary
 subtitle: Newsletter Feature
 ---
 
-# MDS-CL Turns Five! 
+<p style="text-align: center;"><big><b>MDS-CL Turns Five!</b></big>big></p> 
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
