@@ -6,7 +6,7 @@ subtitle: Newsletter Feature
 
 # MDS-CL Turns Five! 
 
-![MDS-CL Grad Class](https://github.com/ubc-mdscl/ubc-mdscl.github.io/blob/master/assets/img/mds-cl-grad-class.JPG)
+![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
 This joint venture between Linguistics and MDS combines core data science courses with advanced computational linguistics and NLP courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next...  
 
@@ -18,8 +18,8 @@ Capstone Projects are a mentored group project based on real data and questions 
 
 ### Statistics
 
-**Number of Students graduated:** 128 (162 This November)
-**Number of Courses:** 25 Each Year 
-**New Faculty:** 4 
-**Employment Rate:** 88% Employed After 6 Months (4% in School) *Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020
+* **Number of Students graduated:** 128 (162 This November)
+* **Number of Courses:** 25 Each Year 
+* **New Faculty:** 4 
+* **Employment Rate:** 88% Employed After 6 Months (4% in School) *Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020
 
