@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MDS-CL Turns Five
-subtitle: Newsletter Feature
+title: MDS-CL Turns Five!
+subtitle: Linguistics Newsletter Feature
 ---
 
 <p style="text-align: center;"><font size="+2"><b>MDS-CL's 5th Anniversary!</b></font></p> 
