@@ -4,7 +4,7 @@ title: MDS-CL Turns Five!
 subtitle: Linguistics Newsletter Feature
 ---
 
-<h3 align="center"><b>MDS-CL's 5th Anniversary!</b></h3></p> 
+<h3 align="center"><b>MDS-CL's 5th Anniversary!</b></h3>
 
 What is the MDS-CL Program? This joint venture between Linguistics and MDS combines core data science courses with advanced computational linguistics and NLP courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next...  
 
