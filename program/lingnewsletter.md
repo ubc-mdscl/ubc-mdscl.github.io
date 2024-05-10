@@ -19,10 +19,10 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 <h3>Statistics</h3>
 
 <ul>
-    <li><b>Number of Students Graduated:</b> 128 (162 This November)</li>
-    <li><b>Number of Courses:</b> 25 Each Year</li>
-    <li><b>New Faculty:</b> 4 </li>
-    <li><b>Employment Rate:</b> 88% Employed After 6 Months (4% in School) <i>*Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020</i> </li>
+    <li><b>128</b> Students Graduated <i>(162 This November)</i></li>
+    <li><b>25 Courses</b> Each Year</li>
+    <li><b>4</b> New Faculty</li>
+    <li><b>88% Employed After 6 Months</b> <i>(4% in School)</i> <i>*Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020</i> </li>
 </ul>
 
 <h3>Alumni Profiles
