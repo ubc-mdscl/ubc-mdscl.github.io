@@ -55,6 +55,6 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <p><b>Previous Degree:</b> Bachelor of Arts in Psychology from the University of British Columbia</p>
 
-<p>Prior to the MDS Computational Linguistics program, Toshiko ran a translation business in Japan, which specialized in financial accounting and her clientele included major international audit firms, listed companies, and multinational corporations. Toshiko picked up programming to automate routine processes so that she could spend more time on translation. After handing over her business, Toshiko moved to Canada and pursued a Bachelor of Arts degree in Psychology from the University of British Columbia.</a></p>
+<p>Prior to the MDS Computational Linguistics program, Toshiko ran a translation business in Japan, which specialized in financial accounting and her clientele included major international audit firms, listed companies, and multinational corporations. Toshiko picked up programming to automate routine processes so that she could spend more time on translation. After handing over her business, Toshiko moved to Canada and pursued a Bachelor of Arts degree in Psychology from the University of British Columbia.<a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-toshiko-shibano-mds-computational">Read Toshiko's Story.</a></p>
 
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
