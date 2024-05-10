@@ -10,7 +10,7 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
-*"It's a really exciting time to be working in NLP. The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate." — Garrett Nicolai, MDS-CL Program Director*
+<p style="text-align: center;"><i>"It's a really exciting time to be working in NLP. The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate." <b>— Garrett Nicolai, MDS-CL Program Director</b></i><p style="text-align: center;">
 
 ### Capstone Project: Cross-Lingual NER for Low-Resource Languages
 
