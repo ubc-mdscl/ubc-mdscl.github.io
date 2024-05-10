@@ -47,4 +47,14 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <p>Before joining the MDS Computational Linguistics program, Oksana worked as a Computational Linguist and Natural Language Processing Researcher at several start-ups in her native Ukraine. It was while doing her first master's degree in Applied Linguistics from the Lviv Polytechnic National University, Oksana took a course on Computational Linguistics by Andriy Romanyuk, which opened a new world of Natural Language Processing for her. Outside of MDS Computational Linguistics, Oksana enjoys travelling. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-oksana-kurylo-mds-computational-0">Read Oksana's Story.</a></p>
 
+<h4 align="center"> — Toshiko Shibano, MDS Computational Linguistics, Class of 2020 — </h4>
+
+<p><a><img src="/assets/img/toshiko-shibano.jpg.jpg" alt="Toshiko Shibano" class="center"></a></p>
+
+<p><i>“If you are like me and enjoy devising solutions to real world problems, have a desire to transfer knowledge and skills from a previous job to the digitized world, or are passionate about language, this program is worth the money and time.”</i></p>
+
+<p><b>Previous Degree:</b> Bachelor of Arts in Psychology from the University of British Columbia</p>
+
+<p>Prior to the MDS Computational Linguistics program, Toshiko ran a translation business in Japan, which specialized in financial accounting and her clientele included major international audit firms, listed companies, and multinational corporations. Toshiko picked up programming to automate routine processes so that she could spend more time on translation. After handing over her business, Toshiko moved to Canada and pursued a Bachelor of Arts degree in Psychology from the University of British Columbia.</a></p>
+
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
