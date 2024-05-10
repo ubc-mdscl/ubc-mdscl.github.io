@@ -31,6 +31,6 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <p><i>“This program stands out due to its unique blend of data science and NLP courses, serving as a quick refresher and bridges the knowledge gap for students like me who completed their bachelor's degrees years ago and are transitioning from non-STEM fields.”</i></p>
 
-<p><b>Previous Degree:</b> Bachelor’s degree in English Language and Literature from Zhejiang University. Prior to entering the MDS Computational Linguistics program, Meiyu was a curriculum designer at Duolingo where she realized the she wanted to pursue a master’s degree in data science with a focus on Natural Language Processing. When not in the MDS Computational Linguistics program, Meiyu enjoys biking and learning new languages.</p>
+<p><b>Previous Degree:</b> Bachelor’s degree in English Language and Literature from Zhejiang University. Prior to entering the MDS Computational Linguistics program, Meiyu was a curriculum designer at Duolingo where she realized the she wanted to pursue a master’s degree in data science with a focus on Natural Language Processing. When not in the MDS Computational Linguistics program, Meiyu enjoys biking and learning new languages. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-meiyu-zheng-mds-computational">Read Meiyu's Story.</a></p>
 
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
