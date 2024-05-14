@@ -1,12 +1,12 @@
 ---
 layout: page
 title: MDS-CL Turns Five!
-subtitle: Linguistics Newsletter Feature
+subtitle: Master of Data Science-Computational Linguistics' 5th Anniversary!
 ---
 
 <h3 align="center"><b>MDS-CL's 5th Anniversary!</b></h3>
 
-What is the MDS-CL Program? This joint venture between Linguistics and MDS combines core data science courses with advanced computational linguistics and NLP courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next...  
+What is the Master's of Data Science - Computational Linguistics (MDS-CL) Program? This joint venture between the Department of Linguistics and the Faculty of Science combines core Data Science courses with advanced Computational Linguistics and Natural Language Processing courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next…
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
@@ -14,14 +14,14 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <h3>Capstone Project: Cross-Lingual NER for Low-Resource Languages</h3>
 
-<p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured <a href="https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/">here</a> is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual NER for low-resource languages.</p>
+<p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured <a href="https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/">here</a> is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual Named Entity Recognition (NER) for low-resource languages.</p>
 
 <h3>Statistics</h3>
 
 <ul>
     <li><b>128</b> Students Graduated <i>(162 This November)</i></li>
     <li><b>25 </b> Courses Each Year</li>
-    <li><b>4</b> New Faculty</li>
+    <li><b>5</b> New Faculty</li>
     <li><b>88%</b> Employed After 6 Months <i>(4% in School)</i> <i><font size="-1">*Based on MDS Computational Linguistics alumni survey responses 6 months after graduation since the class of 2020</font></i> </li>
 </ul>
 
