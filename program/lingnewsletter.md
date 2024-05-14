@@ -47,6 +47,16 @@ What is the MDS-CL Program? This joint venture between Linguistics and MDS combi
 
 <p>Before joining the MDS Computational Linguistics program, Oksana worked as a Computational Linguist and Natural Language Processing Researcher at several start-ups in her native Ukraine. It was while doing her first master's degree in Applied Linguistics from the Lviv Polytechnic National University, Oksana took a course on Computational Linguistics by Andriy Romanyuk, which opened a new world of Natural Language Processing for her. Outside of MDS Computational Linguistics, Oksana enjoys travelling. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-oksana-kurylo-mds-computational-0">Read Oksana's Story.</a></p>
 
+<h4 align="center"> — Juan Roesel, MDS Computational Linguistics, Class of 2021 — </h4>
+
+<p><a><img src="/assets/img/juan-roesel.jpg" width="200" height="200" alt="Juan Roesel" class="center"></a></p>
+
+<p><i>"While several resources on the Internet can help people get the knowledge and skills needed to become a Data Scientist or NLP engineer, I think the structure of the MDS-CL program and the quality of the teaching staff take the learning experience to a higher level."</i></p>
+
+<p><b>Previous Degree:</b> Masters in International Relations, Field Of Study Development Economics and International Development, Hult International Business School</p>
+
+<p>Before joining the MDS-CL program, Juan was working full-time running his consulting firm Helelab, which specialized in delivering and deploying digital solutions that leverage analytics, Natural Language Processing (NLP), and web development. As Juan was taking on more technical projects and learned new concepts, he realized that he was just barely scratching the surface of the data science universe, which led him to apply to the MDS-CL program. Outside of the MDS-CL program, Juan enjoys hiking, sailing, and mountain biking. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-juan-roesel-mds-computational">Read Juan's Story.</a></p>
+
 <h4 align="center"> — Toshiko Shibano, MDS Computational Linguistics, Class of 2020 — </h4>
 
 <p><a><img src="/assets/img/toshiko-shibano.jpg.jpg" alt="Toshiko Shibano" class="center"></a></p>
