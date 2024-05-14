@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MDS-CL Turns Five!
-subtitle: Master of Data Science-Computational Linguistics' 5th Anniversary!
+subtitle: 
 ---
 
-<h3 align="center"><b>MDS-CL's 5th Anniversary!</b></h3>
+<h3 align="center"><b>Master of Data Science-Computational Linguistics' 5th Anniversary!</b></h3>
 
 What is the Master's of Data Science - Computational Linguistics (MDS-CL) Program? This joint venture between the Department of Linguistics and the Faculty of Science combines core Data Science courses with advanced Computational Linguistics and Natural Language Processing courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next…
 
