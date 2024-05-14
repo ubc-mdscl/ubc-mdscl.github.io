@@ -20,7 +20,7 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 
 <ul>
     <li><b>128</b> Students Graduated <i>(162 This November)</i></li>
-    <li><b>25 </b> Courses Each Year</li>
+    <li><b>25 </b> <a href="https://ubc-mdscl.github.io/program/overview/">Courses</a> Each Year</li>
     <li><b>5</b> New Faculty</li>
     <li><b>88%</b> of MDS-CL Alumni are Employed After 6 Months <i>(4% in School)</i> <i><font size="-1">*Based on <a href="https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics">MDS Computational Linguistics alumni survey responses</a> 6 months after graduation since the class of 2020 </font></i> </li>
 </ul>
