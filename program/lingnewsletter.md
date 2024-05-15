@@ -71,4 +71,4 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 
 <p style="text-align: center;"><b>If you're interested in hearing about MDS-CL news, program information, and upcoming virtual information sessions, sign up for updates <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">here!</a></b></p>
 
-<b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
+<p style="text-align: center;"><b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b></p>
