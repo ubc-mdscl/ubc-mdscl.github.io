@@ -4,7 +4,7 @@ title: MDS-CL Turns Five!
 subtitle: 
 ---
 
-<h3 align="center"><b>Master of Data Science-Computational Linguistics' 5th Anniversary!</b></h3>
+<h3 align="center"><b>Master's of Data Science-Computational Linguistics' 5th Anniversary!</b></h3>
 
 What is the Master's of Data Science - Computational Linguistics (MDS-CL) Program? This joint venture between the Department of Linguistics and the Faculty of Science combines core Data Science courses with advanced Computational Linguistics and Natural Language Processing courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next.
 
@@ -14,9 +14,9 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 
 <p style="text-align: center;"><i>"It's a really exciting time to be working in NLP. The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate." <b>— Garrett Nicolai, MDS-CL Program Director</b></i></p>
 
-<h3>Capstone Project: Cross-Lingual NER for Low-Resource Languages</h3>
+<h3>Capstone Project Highlight: Cross-Lingual NER for Low-Resource Languages</h3>
 
-<p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured <a href="https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/">here</a> is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual Named Entity Recognition (NER) for low-resource languages.</p>
+<p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured <a href="https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/">here</a> is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual Named Entity Recognition (NER) for low-resource languages.</p> Read about more capstone projects <a href="https://masterdatascience.ubc.ca/why-data-science/data-science-in-action">here</a>.
 
 <h3>Statistics</h3>
 
