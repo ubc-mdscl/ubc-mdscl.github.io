@@ -6,7 +6,9 @@ subtitle:
 
 <h3 align="center"><b>Master of Data Science-Computational Linguistics' 5th Anniversary!</b></h3>
 
-What is the Master's of Data Science - Computational Linguistics (MDS-CL) Program? This joint venture between the Department of Linguistics and the Faculty of Science combines core Data Science courses with advanced Computational Linguistics and Natural Language Processing courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next…
+What is the Master's of Data Science - Computational Linguistics (MDS-CL) Program? This joint venture between the Department of Linguistics and the Faculty of Science combines core Data Science courses with advanced Computational Linguistics and Natural Language Processing courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next.
+
+<p>If you're interested in hearing about MDS-CL news, program information, and upcoming virtual information sessions, sign up for updates <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">here!</a></p>
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
@@ -66,9 +68,5 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 <p><b>Previous Degree:</b> Bachelor of Arts in Psychology from the University of British Columbia</p>
 
 <p>Prior to the MDS Computational Linguistics program, Toshiko ran a translation business in Japan, which specialized in financial accounting and her clientele included major international audit firms, listed companies, and multinational corporations. Toshiko picked up programming to automate routine processes so that she could spend more time on translation. After handing over her business, Toshiko moved to Canada and pursued a Bachelor of Arts degree in Psychology from the University of British Columbia. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-toshiko-shibano-mds-computational">Read Toshiko's Story.</a></p>
-
-<h3>Sign Up for Updates!</h3>
-
-<p>Interested in hearing about MDS-CL news, program information, and upcoming virtual information sessions? Sign up for updates <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">here.</a></p>
 
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
