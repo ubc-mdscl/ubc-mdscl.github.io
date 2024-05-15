@@ -8,7 +8,7 @@ subtitle:
 
 What is the Master's of Data Science - Computational Linguistics (MDS-CL) Program? This joint venture between the Department of Linguistics and the Faculty of Science combines core Data Science courses with advanced Computational Linguistics and Natural Language Processing courses, equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. See what it has accomplished so far, and where it’s headed next.
 
-<p>If you're interested in hearing about MDS-CL news, program information, and upcoming virtual information sessions, sign up for updates <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">here!</a></p>
+<p style="text-align: center;">If you're interested in hearing about MDS-CL news, program information, and upcoming virtual information sessions, sign up for updates <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">here!</a></p>
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
 
