@@ -25,7 +25,7 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
     <li><b>88%</b> of MDS-CL Alumni are Employed After 6 Months <i>(4% in School)</i> <i><font size="-1">*Based on <a href="https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics">MDS Computational Linguistics alumni survey responses</a> 6 months after graduation since the class of 2020 </font></i> </li>
 </ul>
 
-<h3>Alumni Profiles
+<h3>Alumni Profiles</h3>
 
 <h4 align="center"> — Michelle Yun, MDS Computational Linguistics, Class of 2023 — </h4>
 
@@ -66,5 +66,9 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 <p><b>Previous Degree:</b> Bachelor of Arts in Psychology from the University of British Columbia</p>
 
 <p>Prior to the MDS Computational Linguistics program, Toshiko ran a translation business in Japan, which specialized in financial accounting and her clientele included major international audit firms, listed companies, and multinational corporations. Toshiko picked up programming to automate routine processes so that she could spend more time on translation. After handing over her business, Toshiko moved to Canada and pursued a Bachelor of Arts degree in Psychology from the University of British Columbia. <a href="https://masterdatascience.ubc.ca/why-data-science/student-success-stories/mds-spotlight-meet-toshiko-shibano-mds-computational">Read Toshiko's Story.</a></p>
+
+<h3>Sign Up for Updates!</h3>
+
+<p>Interested in hearing about news, program information, and upcoming virtual information sessions? Sign up for updates here: <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">https://masterdatascience.ubc.ca/contact-us/sign-updates</a>/p>
 
 <b><i>See more at <a href="https://masterdatascience.ubc.ca/programs/computational-linguistics">https://masterdatascience.ubc.ca/programs/computational-linguistics</a></i></b>
