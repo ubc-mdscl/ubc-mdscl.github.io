@@ -16,7 +16,7 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 
 <h3>Capstone Project Highlight:</h3> 
 
-<h3><i>Cross-Lingual NER for Low-Resource Languages</i></h3> 
+<h3><font size="-1"><i>Cross-Lingual NER for Low-Resource Languages</i></font></h3> 
 
 <p>Capstone Projects are a mentored group project based on real data and questions from a partner within or outside the university. Students formulate questions and design and execute a suitable analysis plan. The group works collaboratively to produce a project report, presentation, and possibly other products, such as a web application. Featured <a href="https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/">here</a> is one example of a Capstone Project completed in 2021 that focuses on creating a cross-lingual Named Entity Recognition (NER) for low-resource languages.</p> Read about more capstone projects <a href="https://masterdatascience.ubc.ca/why-data-science/data-science-in-action">here</a>.
 
