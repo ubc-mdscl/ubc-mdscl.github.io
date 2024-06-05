@@ -11,6 +11,7 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 <p style="text-align: center;">If you're interested in hearing about MDS-CL news, program information, and upcoming virtual information sessions, sign up for updates <a href="https://masterdatascience.ubc.ca/contact-us/sign-updates">here!</a></p>
 
 ![MDS-CL Grad Class](/assets/img/mds-cl-grad-class.JPG)
+<p align="center"><i>Photo by Vanessa Ho, MDS Marketing Coordinator</i></p>
 
 <p style="text-align: center;"><i>"It's a really exciting time to be working in NLP. The field has been revolutionized multiple times in the past decade, and we are seeing great progress solving problems that were unfathomable in the past.  I'm thrilled to be working with the MDS-CL as we prepare students to process, analyse, and model data that is increasing at an unprecedented rate." <b>— Garrett Nicolai, MDS-CL Program Director</b></i></p>
 
@@ -44,6 +45,7 @@ What is the Master's of Data Science - Computational Linguistics (MDS-CL) Progra
 <h4 align="center"> — Oksana Kurylo, MDS Computational Linguistics, Class of 2022 — </h4>
 
 <p><a><img src="/assets/img/oksana-kurylo-img-1.png" width="200" height="200" alt="Oksana Kurylo" class="center"></a></p>
+<p align="center"><i>Photo by Vanessa Ho, MDS Marketing Coordinator</i></p>
 
 <p><i>"I chose MDS Computational Linguistics as it offered a unique combination of data science and NLP courses. Also, a significant role in selecting MDS Computational Linguistics was the capstone project, where you can work on a real business problem with a company."</i></p>
 
