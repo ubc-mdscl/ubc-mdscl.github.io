@@ -25,7 +25,7 @@ subtitle:
 
 *Block 3 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 521  | Corpus Linguistics | Basic processing of text corpora using Python. Includes string manipulation, corpus readers, linguistic comparison of corpora, structured text formats, and text preprocessing tools. | Garrett Nicolai | Jungyeul Park |
 | DSCI 513  | Databases & Data Retrieval | How to work with data stored in relational database systems. Storage structures and schemas, data relationships, and ways to query and aggregate such data. | TBA | TBA |
