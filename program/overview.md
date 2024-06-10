@@ -7,7 +7,7 @@ subtitle:
 # Fall: September-December
 *Block 1 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | DSCI 511  | Programming for Data Science | Program design and data manipulation with Python. Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis. When and how to exploit pre-existing libraries.  | TBA | Jungyeul Park |
 | DSCI 521  | Computing Platforms for Data Science | How to install, maintain, and use the data scientific software stack. The Unix shell, version control, and problem solving strategies. Literate programming documents.  | TBA | TBA |
@@ -16,7 +16,7 @@ subtitle:
 
 *Block 2 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | DSCI 512  | Algorithms & Data Structures | How to choose and use appropriate algorithms and data structures to help solve data science problems. Key concepts such as recursion and algorithmic complexity (e.g., efficiency, scalability). | Jian Zhu | Jungyeul Park |
 | DSCI 531  | Data Visualization I | Exploratory data analysis. Design of effective static visualizations. Plotting tools in R and Python. | TBA | TBA |
@@ -35,7 +35,7 @@ subtitle:
 # Winter: January-April
 *Block 4 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 535  | Parsing for Computational Linguistics | The identification of syntactic structure in natural language. Parsing algorithms for popular grammar formalisms, application of statistical information to parsing, parser evaluation, and extraction of parse features. | Garrett Nicolai | Jungyeul Park |
 | COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | TBA | Jungyeul Park |
@@ -44,7 +44,7 @@ subtitle:
 
 *Block 5 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 523  | Advanced Corpus Linguistics | Text corpora collection and curation. How to pull representative datasets from internet sources. Techniques for efficient and reliable annotation. | Garrett Nicolai | Jungyeul Park |
 | COLX 525  | Computational Morphology | Approaches to sub-word phenomenon in language processing. Automatic morphological analysis of diverse languages, part of speech tagging, word segmentation, and character-level neural network models. | Garrett Nicolai | Jungyeul Park |
@@ -53,7 +53,7 @@ subtitle:
 
 *Block 6 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor | 2023-24 Lab Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 563  | Advanced Computational Semantics | Application of machine learning to various semantic tasks. Likely topics include: information extraction, semantic role labelling, semantic parsing, discourse parsing, question answering, summarization, and natural language inference. | TBA | Jungyeul Park |
 | COLX 581  | Natural Language Processing for Low-Resource Languages | Building automatic language tools when data is scarce. Rule-based and hybrid systems, semi-supervised learning, active learning. Knowledge transfer from other (related) languages. | Garrett Nicolai | Jungyeul Park |
@@ -63,6 +63,6 @@ subtitle:
 # Spring: May-June
 *Capstone Project (8-10 weeks, 6 credits)*
 
-| Course Number  | Course Title | Short Description | 2023-24 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| COLX 595  | Capstone Project | A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a project report, presentation, and possibly other products, such as a web application. | MDS-CL Staff |
+| COLX 595  | Capstone Project | A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a project report, presentation, and possibly other products, such as a web application. | MDS-CL Faculty |
