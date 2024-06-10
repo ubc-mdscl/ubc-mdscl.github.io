@@ -12,4 +12,4 @@ The list of [MDS-CL prerequisite equivalents](/assets/img/MDS-CL-prerequisite-eq
 *Please note that this is only a list from previous applicants from the top sending universities. If your university’s courses are not listed here, you can email a
 course syllabus to [ling.mds@ubc.ca](ling.mds@ubc.ca) to get it checked.* 
 
-<p><a href="/assets/img/MDS-CL-prerequisite-equivalents-list.pdf" class="image fit"><img src="/assets/img/MDS-CL-equivalents-preview.png" alt="MDS-CL Prerequisite Equivalents"></a></p>
+<p><a href="/assets/img/MDS-CL-prerequisite-equivalents-list.pdf" class="image fit"><img src="/assets/img/mds-cl-equivalents-preview.png" alt="MDS-CL Prerequisite Equivalents Preview"></a></p>
