@@ -29,7 +29,7 @@ subtitle:
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 521  | Corpus Linguistics | Basic processing of text corpora using Python. Includes string manipulation, corpus readers, linguistic comparison of corpora, structured text formats, and text preprocessing tools. | Garrett Nicolai | Jungyeul Park |
 | DSCI 513  | Databases & Data Retrieval | How to work with data stored in relational database systems. Storage structures and schemas, data relationships, and ways to query and aggregate such data. | TBA | TBA |
-| DSCI 561  | Regression I | Linear models for a quantitative response variable, with multiple categorical and/or quantitative predictors. Matrix formulation of linear regression. Model assessment and prediction. | TBAD | TBA |
+| DSCI 561  | Regression I | Linear models for a quantitative response variable, with multiple categorical and/or quantitative predictors. Matrix formulation of linear regression. Model assessment and prediction. | TBA | TBA |
 | DSCI 573  | Feature and Model Selection | How to evaluate and select features and models. Cross-validation, ROC curves, feature engineering, and regularization. | TBA | TBA |
 
 # Winter: January-April
