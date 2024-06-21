@@ -25,8 +25,8 @@ ___
 * [RioTinto](https://www.riotinto.com/): _Event Scraper_
 * [Rocketbrew](https://www.therocketbrew.com/): _Automated E-commerce Window Shopping via NLP_
 * [Seasalt.ai](https://seasalt.ai/): _TNITN for State-of-the-Art Speech Technologies,_ _AMA About Your Business in a Mirror World_
-* [UBC’s Peter A. Allard School of Law, Legal Hackers Ontario, and Future of Law Lab (UofT)](https://www.law.utoronto.ca/student-life/student-clubs-and-events/legal-hackers): _Why do Judges Allow or Deny Eviction Orders in Ontario's Residential Tenancy Board?_ 
-* [BC Stats](https://www2.gov.bc.ca/gov/content/data/about-data-management/bc-stats): _Improving BC Data Catalogue with NLP Techniques_
+* [UBC’s Peter A. Allard School of Law, Legal Hackers Ontario, and Future of Law Lab (UofT)](https://www.law.utoronto.ca/student-life/student-clubs-and-events/legal-hackers): _Why do Judges Allow or Deny Eviction Orders in Ontario's Residential Tenancy Board?_ → [**Read More**](https://ubc-mdscl.github.io/2023-09-26-lorem-ipsum/)
+* [BC Stats](https://www2.gov.bc.ca/gov/content/data/about-data-management/bc-stats): _Improving BC Data Catalogue with NLP Techniques_ → [**Read More**](https://ubc-mdscl.github.io/2023-10-06-lorem-ipsum/)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 * [BGC Engineering](https://www.bgcengineering.ca/): _Social Landslides: Improve NASA Global Landslide Catalog with Automated Social Media Mining_
 * [British Columbia Investment Management Corp. (BCI)](https://www.bci.ca/): _What Can SEC 10-K Textual Disclosures Tell Us About Climate Risk?_
 * [Corporate Finance Institute Education Inc.](https://corporatefinanceinstitute.com/): _Course Writing Style Analysis / Learner Feedback Analysis_
-* [CultureFoundry](https://www.culturefoundry.com/): _Ojibwe Conjugator Python Rewrite_
+* [CultureFoundry](https://www.culturefoundry.com/): _Ojibwe Conjugator Python Rewrite_ → [**Read More**](https://ubc-mdscl.github.io/2022-08-25-lorem-ipsum/)
 * [Heyday by Hootsuite](https://heyday.hootsuite.com/about-us/): _Is it “Yes” or “No”: Negation-Aware Named Entity Recognition in the E-commerce Domain_
 * [Katalon Inc.](https://katalon.com/): _Autonomous Software Testing Generation_
 * [SAP](https://www.sap.com/canada/index.html): _ClearlyDefined: Intelligently Summarizing Software Licenses_
@@ -49,16 +49,16 @@ ___
 * [Glentel](https://www.glentel.com/home): _Voice of Employee and Customer_
 * [The Sea Around Us](https://www.seaaroundus.org/): _Estimation of Worldwide MPAS Protection through a Novel Questionnaire_
 * [Thomson Reuters - MDS Computational Linguistics](https://www.thomsonreuters.ca/en.html): _Improving Search with Deep Learning for a Marketing Leading Account Research Platform_
-* [Seasalt.ai](https://seasalt.ai/): _Happiness in One Model: Cross-Lingual NER for Low-Resource Languages_
+* [Seasalt.ai](https://seasalt.ai/): _Happiness in One Model: Cross-Lingual NER for Low-Resource Languages_ → [**Read More**](https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum/)
 
 ___
 
 **2019/20:**
-* [Minerva Intelligence](https://www.gominerva.com/): _Mineral Occurrence Text Extractor_
+* [Minerva Intelligence](https://www.gominerva.com/): _Mineral Occurrence Text Extractor_ → [**Read More**](https://ubc-mdscl.github.io/2020-10-06-lorem-ipsum/)
 * [Informed Opinions](https://informedopinions.org/): _NLP for Social Change – The Gender Gap Tracker_
 * [Better Dwelling](https://betterdwelling.com/): _Does News Report Manipulate Financial Markets_
 * [Thomson Reuters](https://www.thomsonreuters.ca/en.html): _Next Generation Conceptual Tagging_
 * [CRIM](https://www.crim.ca/en/): _Discovering Words by Their Neighbours: a Dissimilarity-Based Concordance_
-* [UBC Linguistics](https://linguistics.ubc.ca/): _Phase One of a Universal Graded Reader_
-* [UBC’s Peter A. Allard School of Law](https://allard.ubc.ca/): _Analysis of BC Negligence Decisions over 20 years_
+* [UBC Linguistics](https://linguistics.ubc.ca/): _Phase One of a Universal Graded Reader_ → [**Read More**](https://ubc-mdscl.github.io/2021-08-13-lorem-ipsum-1/)
+* [UBC’s Peter A. Allard School of Law](https://allard.ubc.ca/): _Analysis of BC Negligence Decisions over 20 years_ → [**Read More**](https://ubc-mdscl.github.io/2020-10-06-lorem-ipsum-1/)
 * [Unbounce](https://unbounce.com/): _Closing the Feedback Loop: Identifying Customer Pain Points through NLP_
