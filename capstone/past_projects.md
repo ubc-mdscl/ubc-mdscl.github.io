@@ -5,7 +5,7 @@ subtitle: For the MDS-CL Capstone course
 ---
 
 **2023/24:**
- Check out the following blog posts to read about these past projects!
+Check out the following blog posts to read about these past projects!
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Call Type X99 - Miscellaneous_
 * [BCI](): _Topic Modeling on SEC 10-K Filings_
   * Blog Post: [https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
