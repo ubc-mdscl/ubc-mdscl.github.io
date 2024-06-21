@@ -5,25 +5,25 @@ subtitle: For the MDS-CL Capstone course
 ---
 
 **2023/24:**
-
 Check out the following blog posts to read about these past projects!
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Call Type X99 - Miscellaneous_
 * [BCI](): _Topic Modeling on SEC 10-K Filings_
-  * Blog Post: [https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
+  * [Blog Post](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
 * [Dialpad](): _Language Modeling for Code-switched Speech Recognition_
-  * Blog Post: [https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
+  * [Blog Post](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
 * [GDRL](): _AI Screening of Spontaneous Speech to Detect Alzheimer's_
-  * Blog Post: [https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
+  * [Blog Post](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
 * [MyLivingCity](): _MyLiving City Community Discussion Platform (i.e. MyLiving City App)_
-  * Blog Post: [https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
+  * [Blog Post](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
 * [Ocarina](): _Revolutionizing the Gamification of Knowledge with Machine Learning_
-  * Blog Post: [https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
+  * [Blog Post](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
 * [RioTinto](): _Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_
-  * Blog Post: [https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
+  * [Blog Post](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
 * [RocketBrew AI Magic](): _Finding Patterns of Success - Magic Evaluation_
 * [RocketBrew Follow Up Models](): _Unveiling the Magic Behind Rocketbrew's New Personalizaed Messaging System_
-  * Blog Post: [https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
+  * [Blog Post](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
 
+___
 
 **2022/23:**  
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Identification and Classification of Interactions between Police and Persons with Mental Disorders/Illnesses (PWMI)_
