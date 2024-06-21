@@ -5,23 +5,23 @@ subtitle: For the MDS-CL Capstone course
 ---
 
 **2023/24:**
- Check out the following links to read about these past projects!
+ Check out the following blog posts to read about these past projects!
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Call Type X99 - Miscellaneous_
 * [BCI](): _Topic Modeling on SEC 10-K Filings_
-  * [https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
-* [Dialpad](): [_Language Modeling for Code-switched Speech Recognition_](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
-  * Read about it: 
-* [GDRL](): [_AI Screening of Spontaneous Speech to Detect Alzheimer's_](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
-  * Read about it: 
-* [MyLivingCity](): [_MyLiving City Community Discussion Platform (i.e. MyLiving City App)_](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
-  * Read about it: 
-* [Ocarina](): [_Revolutionizing the Gamification of Knowledge with Machine Learning_](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
-  * Read about it: 
-* [RioTinto](): [_Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
-  * Read about it: 
+  * Blog Post: [https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
+* [Dialpad](): _Language Modeling for Code-switched Speech Recognition_
+  * Blog Post: [https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
+* [GDRL](): _AI Screening of Spontaneous Speech to Detect Alzheimer's_
+  * Blog Post: [https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
+* [MyLivingCity](): _MyLiving City Community Discussion Platform (i.e. MyLiving City App)_
+  * Blog Post: [https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
+* [Ocarina](): _Revolutionizing the Gamification of Knowledge with Machine Learning_
+  * Blog Post: [https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
+* [RioTinto](): _Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_
+  * Blog Post: [https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
 * [RocketBrew AI Magic](): _Finding Patterns of Success - Magic Evaluation_
-* [RocketBrew Follow Up Models](): [_Unveiling the Magic Behind Rocketbrew's New Personalizaed Messaging System_](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
-  * Read about it: 
+* [RocketBrew Follow Up Models](): _Unveiling the Magic Behind Rocketbrew's New Personalizaed Messaging System_
+  * Blog Post: [https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
 
 
 **2022/23:**  
