@@ -13,7 +13,7 @@ Check out the following blog posts to read about these past projects!
 * [MyLivingCity](): _MyLiving City Community Discussion Platform (i.e. MyLiving City App)_ → [**Blog Post**](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
 * [Ocarina](): _Revolutionizing the Gamification of Knowledge with Machine Learning_ → [**Blog Post**](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
 * [RioTinto](): _Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_ → [**Blog Post**](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
-* [RocketBrew AI Magic](): _Finding Patterns of Success - Magic Evaluation_
+* [RocketBrew AI Magic](): _Finding Patterns of Success - Magic Evaluation_ → [**Blog Post**](https://medium.com/@zenonhrabowsky/3b411d853f9e)
 * [RocketBrew Follow Up Models](): _Unveiling the Magic Behind Rocketbrew's New Personalized Messaging System_ → [**Blog Post**](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
 
 ___
