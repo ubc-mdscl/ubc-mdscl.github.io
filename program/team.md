@@ -37,16 +37,6 @@ Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Dider
 
 ---
 
-**Miikka Silfverberg — Assistant Professor**
-
-![Miika Silverberg](https://ubc-mdscl.github.io/assets/img/miikka-silfverberg-mdscl.png)
-
-*"The amount of useful language data on the internet is vast and continuously growing. The MDS Computational Linguistics program makes you an expert at processing and understanding language data using cutting-edge technologies such as deep neural networks."*
-
-Miikka Silfverberg joined MDS Computational Linguistics program as an Assistant Professor in 2020. Miikka has a PhD in Language Technology and an M.Sc in Mathematics from the University of Helsinki. After completing his PhD, Miikka spent one and a half years as a postdoctoral researcher at the University of Colorado at Boulder where he worked on topics related to computational modeling of word structure using deep neural networks. Miikka’s research focuses on broadening the understanding of how deep neural networks learn to represent information about language.
-
----
-
 **Jian Zhu — Assistant Professor**
 
 ![Jian Zhu](https://ubc-mdscl.github.io/assets/img/jian-zhu-mdscl.jpg)
