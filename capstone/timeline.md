@@ -22,8 +22,8 @@ subtitle: For MDS-CL Capstone Projects
 | Students are assigned to projects  | March 15th, 2025 |
 | Partners and students submit signed legal documents | April 15th, 2025 |
 | Kickoff meetings | April, 2025 |
-| Project | May 1st - June 25th, 2025 |
 | Kickoff/Coding Challenge | April 30th  - May 2nd, 2025 |
+| Project | May 1st - June 25th, 2025 |
 | Year-End Celebration | June 25th, 2025 |
 
 
