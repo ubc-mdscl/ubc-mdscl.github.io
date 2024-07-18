@@ -10,18 +10,21 @@ subtitle: For MDS-CL Capstone Projects
 
 | Event  | Deadline/Period |
 | :------------- | :------------- |
-| Call for Capstone proposals opens | September 1, 2023 |
-| Suggested initial submission of proposal  | November 1, 2023 |
-| Proposal deadline | November 30, 2023 |
-| Partners submit video presentations  | December 18th- January 8th, 2024 |
-| Capstone fair | Feb 9th, 2024 |
-| Students rate the projects  | Feb 13th, 2024 |
-| Students are assigned to projects  | March 15th , 2024 |
-| Partners demonstrate readiness of data and sign legal docs | April 10th, 2024 |
-| Kickoff meetings and partner Info Session | April, 2024 |
-| Project | Apr 29th - June 26th , 2024 |
-| Kickoff/Coding Challenge | Apr 29th  - May 1st , 2024 |
-| Year-End Celebration | June 26th, 2024 |
+| Call for Capstone proposals opens | September 1, 2024 |
+| Suggested initial submission of proposal  | November 1, 2024 |
+| Proposal deadline | November 29, 2024 |
+| Confirmation email and next steps sent to partner | December 6, 2024 |
+| Partners submit video presentations | December 16th-January 13th, 2025 |
+| Capstone fair | 2025 |
+| Students rate the projects  | February 17th, 2025 |
+| Partners confirm legal templates with their legal departments | March 1st, 2025 |
+| Partners demonstrate proof of data | March 1st, 2025 |
+| Students are assigned to projects  | March 15th , 2025 |
+| Partners and students submit signed legal documents | April 15th, 2025 |
+| Kickoff meetings | April, 2025 |
+| Project | May 1st - June 25th , 2025 |
+| Kickoff/Coding Challenge | April 30th  - May 2nd , 2025 |
+| Year-End Celebration | June 25th, 2025 |
 
 
 ### Proposal revision process 
@@ -32,7 +35,7 @@ Proposals received *before November 1st* will be reviewed by the MDS-CL teams an
 
 ### Partners submit video presentations 
 
-Capstone partners should submit video presentations (approx. 5 minutes) to provide information additional to the proposals. We are not expecting production-quality videos and we do not want you to spend too much time on this. The main purpose here is to help our students better understand your project(s) before attending the capstone fair so that they are ready to ask you meaningful questions. 
+Capstone partners should submit video presentations (approx. 5 minutes) to provide information about their projects. We are not expecting production-quality videos and we do not want you to spend too much time on this. The main purpose here is to help our students better understand your project(s) before attending the capstone fair so that they are ready to ask you meaningful questions. 
 
 ### Capstone fair 
 
@@ -46,9 +49,13 @@ After the capstone fair, the students assign a final rating to the projects.
 
 Based on student interest, the MDS-CL leadership team decides which projects will move forward. Student groups are assigned to the projects at the same time. 
 
-### Partners demonstrate readiness of data and sign legal docs 
+### Partners demonstrate proof of data 
 
-Before a project may begin, the partner must provide MDS-CL with a demonstration or written (email) declaration that the data has already been collected and prepared and exists in its entirety (in the form specified in the proposal) and is ready to be shared with the students. Partners should feel free to ask us for our standard agreement and sign the relevant legal documents before moving forward. 
+Before a project may begin, the partner must provide MDS-CL with a demonstration or written (email) declaration that the data has been collected and prepared (in the form specified in the proposal) and will be ready in its entirety to be shared with the students by May 1st.  
+
+### Partners submit signed legal documents
+
+Partners may view our NDA and IP agreements here https://ubc-mdscl.github.io/capstone/guide-to-mutual-nda-ip/. There may be no edits to any of the capstone documents. These documents are provided to give the partner clarity on how they are interacting with a student group. This is not a paid consulting situation and may not be treated as a product development contract.
 
 ### Kickoff meetings 
 
