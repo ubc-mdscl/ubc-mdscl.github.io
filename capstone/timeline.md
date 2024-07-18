@@ -55,7 +55,7 @@ Before a project may begin, the partner must provide MDS-CL with a demonstration
 
 ### Partners submit signed legal documents
 
-Partners may view our NDA and IP agreements here https://ubc-mdscl.github.io/capstone/guide-to-mutual-nda-ip/. There may be no edits to any of the capstone documents. These documents are provided to give the partner clarity on how they are interacting with a student group. This is not a paid consulting situation and may not be treated as a product development contract.
+Partners may view our NDA and IP agreements here [https://ubc-mdscl.github.io/capstone/guide-to-mutual-nda-ip/](https://ubc-mdscl.github.io/capstone/guide-to-mutual-nda-ip/). There may be no edits to any of the capstone documents. These documents are provided to give the partner clarity on how they are interacting with a student group. This is not a paid consulting situation and may not be treated as a product development contract.
 
 ### Kickoff meetings 
 
