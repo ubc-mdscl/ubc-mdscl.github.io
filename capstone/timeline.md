@@ -15,7 +15,7 @@ subtitle: For MDS-CL Capstone Projects
 | Proposal deadline | November 29, 2024 |
 | Confirmation email and next steps sent to partner | December 6, 2024 |
 | Partners submit video presentations | December 16th - January 13th, 2025 |
-| Capstone fair | 2025 |
+| Capstone fair | January 31st, 2025 |
 | Students rate the projects  | February 17th, 2025 |
 | Partners confirm legal templates with their legal departments | March 1st, 2025 |
 | Partners demonstrate proof of data | March 1st, 2025 |
