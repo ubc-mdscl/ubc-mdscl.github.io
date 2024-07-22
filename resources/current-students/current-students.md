@@ -6,7 +6,7 @@ subtitle: For Current MDS-CL students
 
 # Career Resources
 
-Career Resources for current MDS-CL students can be found here: [https://ubc-mdscl.github.io/resources/current-students/career-resources/index](https://ubc-mdscl.github.io/resources/current-students/career-resources/index)
+Career resources for current MDS-CL students can be found here: [https://ubc-mdscl.github.io/resources/current-students/career-resources/index](https://ubc-mdscl.github.io/resources/current-students/career-resources/index)
 
 # Events Schedule
 
