@@ -38,7 +38,7 @@ navbar-links:
     - Past Projects: "capstone/past_projects"
   Resources: 
     - Current Students: "resources/current-students"
-          - Career Resources: "resources/current-students/index"
+    - Career Resources: "resources/current-students/index"
     - Prospective Students: "resources/prospective-students"
     - Partners: "resources/partners"
   Official Website: "https://masterdatascience.ubc.ca/programs/computational-linguistics"
