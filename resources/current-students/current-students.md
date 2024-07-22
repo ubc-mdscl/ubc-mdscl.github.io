@@ -13,7 +13,7 @@ Career resources for current MDS-CL students can be found here: [https://ubc-mds
 The MDS-CL Events Schedule can be found below. 
 
 | Event Type  | Event Name | Month |
-| :-------------: | :-------------: | :-------------: |
+| :------------- | :------------- | :------------- |
 | Multi-Day Event  | Orientation - with V | August |
 | Multi-Day Event + Alumni | Orientation - CL Only | August |
 | Multi-Day Event | Orientation - Ling Students & Dept BBQ | September |
