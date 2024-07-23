@@ -19,7 +19,7 @@ You can view an example proposal [here](https://ubc-mds.github.io/capstone/sampl
 
 ### Should I submit my proposal to MDS Okanagan, MDS Vancouver or MDS Computational Linguistics? 
 
-The MDS Computational Linguistics (MDS-CL) program specializes in topics focusing on analyzing language/text/speech-related data and building models that can extract insights from this data. Particular areas of expertise include deep learning, sentiment analysis, and multi-lingual methods such as machine translation. You can read more about the program [here](https://masterdatascience.ubc.ca/programs/computational-linguistics) and can see the [MDS-CL capstone page](https://ubc-mdscl.github.io/capstone/about/) to learn more about the type of projects MDS-CL addresses in capstone. 
+The MDS Computational Linguistics (MDS-CL) program specializes in topics focusing on analyzing language/text/speech-related data and building models that can extract insights from this data. Our students take general data science courses in the first half of the program and then specialize in linguistic analysis in the second half of the year. Particular areas of expertise include deep learning, sentiment analysis, and multi-lingual methods such as machine translation. You can read more about the program [here](https://masterdatascience.ubc.ca/programs/computational-linguistics) and can see the [MDS-CL capstone page](https://ubc-mdscl.github.io/capstone/about/) to learn more about the type of projects MDS-CL addresses in capstone. 
 
 The MDS Vancouver (MDS-V) and MDS Okanagan programs covers a general overview of data science, including topics of data wrangling, visualization, dashboards, statistics and machine learning, amongst others. You can read more about the programs and can see their capstone information on their respective websites to learn more about the type of projects [MDS-V](https://ubc-mds.github.io/capstone/about/) and [MDS-O](https://ubco-mds.github.io/) addresses in capstone. 
 
@@ -45,13 +45,15 @@ Describe the data that you will make available to the students:
 * In what form will the data be available to the students?
 * Does your organization provide any computational resources (e.g., cloud computing, virtual machines) to handle large scale data analysis? 
 
-#### Data Product 
+#### Expected Project Deliverables
 
 What product(s) would you like to receive from our students, and what (in general) should it communicate or have the ability to do? Examples: 
 * A dashboard, such as a Shiny or Dash app, to explore an aspect of your data.
 * An R or Python package with documentation to simplify an analysis.
 * A data pipeline that includes some data science model
-* A report outlining student findings 
+* A report outlining student findings
+
+Be as precise as possible; data expectations can differ from field-to-field. If you have 150 documents/sentences/paragraphs, etc., state that. The types of methods that can be applied differ widely, dependent on the amount of annotated data.
 
 #### Legal info 
 
