@@ -4,7 +4,7 @@ title: Past Projects
 subtitle: For the MDS-CL Capstone course
 ---
 
-#From the Student Perspective
+# From the Student Perspective
 
 Check out the following blog posts to read more about these past projects!
 
