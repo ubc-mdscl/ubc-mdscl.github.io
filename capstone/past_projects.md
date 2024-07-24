@@ -18,6 +18,7 @@ Check out the following blog posts to read more about these past projects!
 * **RocketBrew AIMagic**: What makes an effective marketing pitch? → [**Read More**](https://medium.com/@zenonhrabowsky/3b411d853f9e)
 * **RocketBrew Follow-up**: Personalized online messaging → [**Read More**](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
 
+___
 
 ## Past Projects & Partners by Year
 
