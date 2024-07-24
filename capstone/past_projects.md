@@ -4,17 +4,31 @@ title: Past Projects
 subtitle: For the MDS-CL Capstone course
 ---
 
-**2023/24:**
+**From the Student Perspective**
 Check out the following blog posts to read more about these past projects!
+
+* BCI: Theme discovery and topic modeling of 10K reports → [**Read More**](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
+* Calgary Police: Categorization of 911 calls for efficient resource allocation → [**Read More**](https://docs.google.com/document/d/1KSYO6jOxgNS3eNeBWtKGDZKLI8cDoRdZq09mjiHFU78/edit?pli=1)
+* Dialpad: Code-switching in ASR transcripts → [**Read More**](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
+* GDRL: Alzheimer's detection through speech analysis → [**Read More**](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
+* MyLivingCity: Comment filtering and collation for social media → [**Read More**](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
+* Ocarina Studios: Quiz question (+distractor) generation → [**Read More**](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
+* RioTinto: Document-level relation extraction of mining projects and locations → [**Read More**](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
+* RocketBrew AIMagic: What makes an effective marketing pitch? → [**Read More**](https://medium.com/@zenonhrabowsky/3b411d853f9e)
+* RocketBrew Follow-up: Personalized online messaging → [**Read More**](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
+
+___
+
+**2023/24:**
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Call Type X99 - Miscellaneous_
-* [BCI](https://www.bci.ca/): _Topic Modeling on SEC 10-K Filings_ → [**Read More**](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
-* [Dialpad](https://www.dialpad.com/): _Language Modeling for Code-switched Speech Recognition_ → [**Read More**](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
-* [GDRL](https://geriatrics.med.ubc.ca/research.php): _AI Screening of Spontaneous Speech to Detect Alzheimer's_ → [**Read More**](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
-* [MyLivingCity](): _MyLiving City Community Discussion Platform (i.e. MyLiving City App)_ → [**Read More**](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
-* [Ocarina](https://www.ocarinastudios.com/): _Revolutionizing the Gamification of Knowledge with Machine Learning_ → [**Read More**](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c)
-* [RioTinto](https://www.riotinto.com/): _Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_ → [**Read More**](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
-* [RocketBrew AI Magic](https://www.therocketbrew.com/): _Finding Patterns of Success - Magic Evaluation_ → [**Read More**](https://medium.com/@zenonhrabowsky/3b411d853f9e)
-* [RocketBrew Follow Up Models](https://www.therocketbrew.com/): _Unveiling the Magic Behind Rocketbrew's New Personalized Messaging System_ → [**Read More**](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
+* [BCI](https://www.bci.ca/): _Topic Modeling on SEC 10-K Filings_
+* [Dialpad](https://www.dialpad.com/): _Language Modeling for Code-switched Speech Recognition_
+* [GDRL](https://geriatrics.med.ubc.ca/research.php): _AI Screening of Spontaneous Speech to Detect Alzheimer's_
+* [MyLivingCity](): _MyLiving City Community Discussion Platform (i.e. MyLiving City App)_
+* [Ocarina](https://www.ocarinastudios.com/): _Revolutionizing the Gamification of Knowledge with Machine Learning_
+* [RioTinto](https://www.riotinto.com/): _Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_
+* [RocketBrew AI Magic](https://www.therocketbrew.com/): _Finding Patterns of Success - Magic Evaluation_
+* [RocketBrew Follow Up Models](https://www.therocketbrew.com/): _Unveiling the Magic Behind Rocketbrew's New Personalized Messaging System_
 
 ___
 
