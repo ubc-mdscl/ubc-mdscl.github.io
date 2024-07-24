@@ -19,7 +19,7 @@ Check out the following blog posts to read more about these past projects!
 * **RocketBrew Follow-up**: Personalized online messaging → [**Read More**](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
 
 
-## Past Projects by Year
+## Past Projects & Partners by Year
 
 **2023/24:**
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Call Type X99 - Miscellaneous_
