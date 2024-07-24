@@ -10,7 +10,7 @@ Career resources for current MDS-CL students can be found here: [https://ubc-mds
 
 # Events Schedule
 
-The MDS-CL Events Schedule can be found below. 
+The MDS-CL Events Schedule can be found below. Note that this is a general overview. These events are subject to change.
 
 | Event Type  | Event Name | Month |
 | :------------- | :------------- | :------------- |
