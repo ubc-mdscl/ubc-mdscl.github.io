@@ -4,7 +4,8 @@ title: Past Projects
 subtitle: For the MDS-CL Capstone course
 ---
 
-**From the Student Perspective**
+#From the Student Perspective
+
 Check out the following blog posts to read more about these past projects!
 
 * **BCI**: Theme discovery and topic modeling of 10K reports → [**Read More**](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
