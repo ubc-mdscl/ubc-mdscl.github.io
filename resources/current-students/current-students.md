@@ -20,23 +20,23 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | Social Event | Quiz Week Social | September |
 | NCS | Capstone Partner Info Session | September |
 | Career Event | Mentorship Program Benefits "Lunch and Learn" | October |
-| Non-Career Workshop | Mental Health Presentation - Counselling Services | October |
+| Personal Development Workshop | Mental Health Presentation - Counselling Services | October |
 | Social Event | Quiz Week Social | October |
 | NCS | Admissions Alumni Panel | October |
-| Non-Career Workshop | Meet the Labs | November |
+| Personal Development Workshop | Meet the Labs | November |
 | Career & Social Event | Mentorship Kick-Off | November |
 | Career Event | Resume & Cover Letter Workshop | November |
 | NCS | Graduation Event | November |
 | Social Event | Quiz Week Social | December |
-| Non-Career Workshop | Reading Linguistic Papers | December |
+| Personal Development Workshop | Reading Linguistic Papers | December |
 | Career Event | Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees | December |
 | NCS | Admissions Committee Panel | December |
 | Career Event | Tips for the Capstone Fair "Lunch and Learn" | January |
 | NCS | MDS-CL Admissions Director AMA | January |
 | Event | Capstone Fair | January |
 | Career Event | Job Search Strategies, Behavioural Interview Skills, Networking | February |
-| Non-Career Workshop | Oscars | March |
-| Non-Career Workshop | PGWP Workshop with ISA | March |
+| Personal Development Workshop | Oscars | March |
+| Personal Development Workshop | PGWP Workshop with ISA | March |
 | Career Event | Technical Interview Alumni Panel & Workshop with O | March |
 | Career Event | Job Offer Negotations Workshop and Alumni Panel | April |
 | Multi-Day Event | Capstone Kick-Off | April |
