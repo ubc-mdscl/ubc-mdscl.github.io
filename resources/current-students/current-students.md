@@ -46,6 +46,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | MDE | Capstone Seminar Series | June |
 | SE | Year-End Event/Capstone Presentations | June |
 
+
 * **MDE:** Multi-Day Event
 * **SE:** Social Event
 * **CE:** Career Event
