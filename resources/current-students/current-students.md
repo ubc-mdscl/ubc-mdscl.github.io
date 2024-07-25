@@ -14,37 +14,42 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
-| Multi-Day Event  | Orientation (with V) | August |
-| Multi-Day Event | Orientation (CL only) | August |
-| Multi-Day Event | Orientation (Ling Students & Dept BBQ) | September |
-| Social Event | Quiz Week Social | September |
+| MDE | Orientation (with V) | August |
+| MDE | Orientation (CL only) | August |
+| MDE | Orientation (Ling Students & Dept BBQ) | September |
+| SE | Quiz Week Social | September |
 | NCS | Capstone Partner Info Session | September |
-| Career Event | Mentorship Program Benefits "Lunch and Learn" | October |
-| Personal Development Workshop | Mental Health Presentation - Counselling Services | October |
-| Social Event | Quiz Week Social | October |
+| CE | Mentorship Program Benefits "Lunch and Learn" | October |
+| PDW | Mental Health Presentation - Counselling Services | October |
+| SE | Quiz Week Social | October |
 | NCS | Admissions Alumni Panel | October |
-| Personal Development Workshop | Meet the Labs | November |
-| Career & Social Event | Mentorship Kick-Off | November |
-| Career Event | Resume & Cover Letter Workshop | November |
+| PDW | Meet the Labs | November |
+| CE & SE | Mentorship Kick-Off | November |
+| CE | Resume & Cover Letter Workshop | November |
 | NCS | Graduation Event | November |
-| Social Event | Quiz Week Social | December |
-| Personal Development Workshop | Reading Linguistic Papers | December |
-| Career Event | Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees | December |
+| SE | Quiz Week Social | December |
+| PDW | Reading Linguistic Papers | December |
+| CE | Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees | December |
 | NCS | Admissions Committee Panel | December |
-| Career Event | Tips for the Capstone Fair "Lunch and Learn" | January |
+| CE | Tips for the Capstone Fair "Lunch and Learn" | January |
 | NCS | MDS-CL Admissions Director AMA | January |
 | Event | Capstone Fair | January |
-| Career Event | Job Search Strategies, Behavioural Interview Skills, Networking | February |
-| Personal Development Workshop | Oscars | March |
-| Personal Development Workshop | PGWP Workshop with ISA | March |
-| Career Event | Technical Interview Alumni Panel & Workshop with O | March |
-| Career Event | Job Offer Negotations Workshop and Alumni Panel | April |
-| Multi-Day Event | Capstone Kick-Off | April |
-| Multi-Day Event | Capstone Kick-Off | May |
-| Social Event | Alumni Event | May |
-| Multi-Day Event | Capstone Seminar Series | May |
-| Multi-Day Event | Capstone Seminar Series | June |
-| Social Event | Year-End Event/Capstone Presentations | June |
+| CE | Job Search Strategies, Behavioural Interview Skills, Networking | February |
+| PDW | Oscars | March |
+| PDW | PGWP Workshop with ISA | March |
+| CE | Technical Interview Alumni Panel & Workshop with O | March |
+| CE | Job Offer Negotations Workshop and Alumni Panel | April |
+| MDE | Capstone Kick-Off | April |
+| MDE | Capstone Kick-Off | May |
+| SE | Alumni Event | May |
+| MDE | Capstone Seminar Series | May |
+| MDE | Capstone Seminar Series | June |
+| SE | Year-End Event/Capstone Presentations | June |
+
+* **MDE:** Multi-Day Event
+* **SE:** Social Event
+* **CE:** Career Event
+* **PDW:** Personal Development Workshop
 
 For more detailed information, you can find these events on the MDS-CL Calendar. 
 
