@@ -10,7 +10,7 @@ Career resources for current MDS-CL students can be found here → [Career Resou
 
 # Events Schedule
 
-The MDS-CL Events Schedule can be found below. Note that this is a general overview. These events are subject to change.
+The MDS-CL Events Schedule can be found below. *Note that this is a general overview. These events are subject to change.*
 
 | Event Type  | Event Name | Month |
 | :------------- | :------------- | :------------- |
@@ -38,7 +38,7 @@ The MDS-CL Events Schedule can be found below. Note that this is a general overv
 | Non-Career Workshop | Oscars | March |
 | Non-Career Workshop | PGWP Workshop with ISA | March |
 | Career Event | Technical Interview Alumni Panel & Workshop with O | March |
-| Career Workshop | Job Offer Negotations Workshop and Alumni Panel | April |
+| Career Event | Job Offer Negotations Workshop and Alumni Panel | April |
 | Multi-Day Event | Capstone Kick-Off | April |
 | Multi-Day Event | Capstone Kick-Off | May |
 | Social Event | Alumni Event | May |
@@ -46,5 +46,6 @@ The MDS-CL Events Schedule can be found below. Note that this is a general overv
 | Multi-Day Event | Capstone Seminar Series | June |
 | Social Event | Year-End Event/Capstone Presentations | June |
 
+For more detailed information, you can find these events on the MDS-CL Calendar. 
 
-For more detailed information, you can find these events on the MDS-CL Calendar. Note that the MDS-CL Calendar is only accessible to current MDS-CL students. If you are an MDS-CL student please follow this link to log in and view the calendar: [https://ling.air.arts.ubc.ca/mds-cl-calendar/](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
+Note that the MDS-CL Calendar is only accessible to current MDS-CL students. If you are an MDS-CL student please follow this link to log in and view the calendar: [https://ling.air.arts.ubc.ca/mds-cl-calendar/](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
