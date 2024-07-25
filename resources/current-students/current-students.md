@@ -12,7 +12,7 @@ Career resources for current MDS-CL students can be found here → [Career Resou
 
 The MDS-CL Events Schedule can be found below. *Note that this is a general overview. These events are subject to change.*
 
-| Event Type  | Event Name | Month |
+| Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | Multi-Day Event  | Orientation (with V) | August |
 | Multi-Day Event | Orientation (CL only) | August |
