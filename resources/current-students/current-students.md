@@ -14,9 +14,9 @@ The MDS-CL Events Schedule can be found below. Note that this is a general overv
 
 | Event Type  | Event Name | Month |
 | :------------- | :------------- | :------------- |
-| Multi-Day Event  | Orientation - with V | August |
-| Multi-Day Event | Orientation - CL Only | August |
-| Multi-Day Event | Orientation - Ling Students & Dept BBQ | September |
+| Multi-Day Event  | Orientation (with V) | August |
+| Multi-Day Event | Orientation (CL only) | August |
+| Multi-Day Event | Orientation (Ling Students & Dept BBQ) | September |
 | Social Event | Quiz Week Social | September |
 | NCS | Capstone Partner Info Session | September |
 | Career Event | Mentorship Program Benefits "Lunch and Learn" | October |
