@@ -29,7 +29,7 @@ The MDS-CL Events Schedule can be found below. Note that this is a general overv
 | NCS | Graduation Event | November |
 | Social Event | Quiz Week Social | December |
 | Non-Career Workshop | Reading Linguistic Papers | December |
-| Career Event | Employer Talk "Lunch and Learn": What Employers Are Looking For in Capstone and Employees | December |
+| Career Event | Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees | December |
 | NCS | Admissions Committee Panel | December |
 | Career Event | Tips for the Capstone Fair "Lunch and Learn" | January |
 | NCS | MDS-CL Admissions Director AMA | January |
