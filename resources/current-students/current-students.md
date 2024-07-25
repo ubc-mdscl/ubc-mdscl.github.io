@@ -13,12 +13,14 @@ Career resources for current MDS-CL students can be found here → [Career Resou
 The MDS-CL Events Schedule can be found below. *Note that this is a general overview. These events are subject to change.*
 
 ### August
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | MDE | Orientation (with V) | August |
 | MDE | Orientation (CL only) | August |
 
 ### September
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | MDE | Orientation (Ling Students & Dept BBQ) | September |
@@ -26,6 +28,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | NCS | Capstone Partner Info Session | September |
 
 ### October
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | CE | Mentorship Program Benefits "Lunch and Learn" | October |
@@ -34,6 +37,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | NCS | Admissions Alumni Panel | October |
 
 ### November
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | PDW | Meet the Labs | November |
@@ -42,6 +46,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | NCS | Graduation Event | November |
 
 ### December
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | SE | Quiz Week Social | December |
@@ -50,6 +55,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | NCS | Admissions Committee Panel | December |
 
 ### January
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | CE | Tips for the Capstone Fair "Lunch and Learn" | January |
@@ -57,11 +63,13 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | Event | Capstone Fair | January |
 
 ### February
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | CE | Job Search Strategies, Behavioural Interview Skills, Networking | February |
 
 ### March
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | PDW | Oscars | March |
@@ -69,12 +77,14 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | CE | Technical Interview Alumni Panel & Workshop with O | March |
 
 ### April
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | CE | Job Offer Negotations Workshop and Alumni Panel | April |
 | MDE | Capstone Kick-Off | April |
 
 ### May
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | MDE | Capstone Kick-Off | May |
@@ -82,6 +92,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | MDE | Capstone Seminar Series | May |
 
 ### June
+
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | MDE | Capstone Seminar Series | June |
