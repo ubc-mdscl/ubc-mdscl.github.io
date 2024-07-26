@@ -18,7 +18,6 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | MDE | Orientation (CL only) | August |
 | MDE | Orientation (Ling Students & Dept BBQ) | September |
 | SE | Quiz Week Social | September |
-| NCS | Capstone Partner Info Session | September |
 | CE | Mentorship Program Benefits "Lunch and Learn" | October |
 | PDW | Mental Health Presentation - Counselling Services | October |
 | SE | Quiz Week Social | October |
