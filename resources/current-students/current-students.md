@@ -18,17 +18,14 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
   <tr>
     <th>Type of Event</th>
     <th>Name of Event</th>
-    <th>Month</th>
   </tr>
   <tr>
     <td>MDE</td>
     <td>Orientation (with V)</td>
-    <td>August</td>
   </tr>
   <tr>
     <td>MDE</td>
     <td>Orientation (CL only)</td>
-    <td>August</td>
   </tr>
 </table>
 
@@ -38,87 +35,189 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
   <tr>
     <th>Type of Event</th>
     <th>Name of Event</th>
-    <th>Month</th>
   </tr>
   <tr>
     <td>MDE</td>
     <td>Orientation (Ling Students & Dept BBQ)</td>
-    <td>September</td>
   </tr>
   <tr>
     <td>SE</td>
     <td>Quiz Week Social</td>
-    <td>September</td>
   </tr>
 </table>
 
 ### October
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| CE | Mentorship Program Benefits "Lunch and Learn" | October |
-| PDW | Mental Health Presentation - Counselling Services | October |
-| SE | Quiz Week Social | October |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Mentorship Program Benefits "Lunch and Learn"</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Mental Health Presentation - Counselling Services</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Quiz Week Social</td>
+  </tr>
+</table>
 
 ### November
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| PDW | Meet the Labs | November |
-| CE & SE | Mentorship Kick-Off | November |
-| CE | Resume & Cover Letter Workshop | November |
-| NCS | Graduation Event | November |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Meet the Labs</td>
+  </tr>
+  <tr>
+    <td>CE & SE</td>
+    <td>Mentorship Kick-Off</td>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Resume & Cover Letter Workshop</td>
+  </tr>
+  <tr>
+    <td>NCS</td>
+    <td>Graduation Event</td>
+  </tr>
+</table>
 
 ### December
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| SE | Quiz Week Social | December |
-| PDW | Reading Linguistic Papers | December |
-| CE | Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees | December |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Quiz Week Social</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Reading Linguistic Papers</td>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees</td>
+  </tr>
+</table>
 
 ### January
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| CE | Tips for the Capstone Fair "Lunch and Learn" | January |
-| Event | Capstone Fair | January |
-| CE | Job Search Strategies, Behavioural Interview Skills, Networking | February |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Tips for the Capstone Fair "Lunch and Learn"</td>
+  </tr>
+  <tr>
+    <td>Event</td>
+    <td>Capstone Fair</td>
+  </tr>
+</table>
 
 ### February
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| PDW | Oscars | March |
-| PDW | PGWP Workshop with ISA | March |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Job Search Strategies, Behavioural Interview Skills, Networking</td>
+  </tr>
+</table>
 
 ### March
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| CE | Technical Interview Alumni Panel & Workshop with O | March |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Oscars</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>PGWP Workshop</td>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Technical Interview Alumni Panel & Workshop</td>
+  </tr>
+</table>
 
 ### April
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| CE | Job Offer Negotations Workshop and Alumni Panel | April |
-| MDE | Capstone Kick-Off | April |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Job Offer Negotations Workshop and Alumni Panel</td>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Capstone Kick-Off</td>
+  </tr>
+</table>
 
 ### May
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| MDE | Capstone Kick-Off | May |
-| SE | Alumni Event | May |
-| MDE | Capstone Seminar Series | May |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Capstone Kick-Off</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Alumni Event</td>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Capstone Seminar Series</td>
+  </tr>
+</table>
 
 ### June
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| MDE | Capstone Seminar Series | June |
-| SE | Year-End Event/Capstone Presentations | June |
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Capstone Seminar Series</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Year-End Event/Capstone Presentations</td>
+  </tr>
+</table>
 
 ---
 
