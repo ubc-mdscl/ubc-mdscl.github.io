@@ -22,7 +22,6 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | CE | Mentorship Program Benefits "Lunch and Learn" | October |
 | PDW | Mental Health Presentation - Counselling Services | October |
 | SE | Quiz Week Social | October |
-| NCS | Admissions Alumni Panel | October |
 | PDW | Meet the Labs | November |
 | CE & SE | Mentorship Kick-Off | November |
 | CE | Resume & Cover Letter Workshop | November |
@@ -30,9 +29,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | SE | Quiz Week Social | December |
 | PDW | Reading Linguistic Papers | December |
 | CE | Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees | December |
-| NCS | Admissions Committee Panel | December |
 | CE | Tips for the Capstone Fair "Lunch and Learn" | January |
-| NCS | MDS-CL Admissions Director AMA | January |
 | Event | Capstone Fair | January |
 | CE | Job Search Strategies, Behavioural Interview Skills, Networking | February |
 | PDW | Oscars | March |
