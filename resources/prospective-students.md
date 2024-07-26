@@ -16,6 +16,8 @@ This is the MDS-CL Events Schedule for Prospective Students, which includes virt
 | Admissions Committee Panel | December |
 | MDS-CL Admissions Director AMA | January |
 
+---
+
 ## Pre-Approved Prerequisite Courses
 Please read through the [prerequisite courses](https://masterdatascience.ubc.ca/admissions/prerequisites).
 
