@@ -14,6 +14,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### August
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -31,6 +32,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### September
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
