@@ -19,12 +19,48 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 | MDE | Orientation (with V) | August |
 | MDE | Orientation (CL only) | August |
 
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+    <th>Month</th>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Orientation (with V)</td>
+    <td>August</td>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Orientation (CL only)</td>
+    <td>August</td>
+  </tr>
+</table>
+
 ### September
 
 | Type of Event | Name of Event | Month |
 | :------------- | :------------- | :------------- |
 | MDE | Orientation (Ling Students & Dept BBQ) | September |
 | SE | Quiz Week Social | September |
+
+<table style="width:100%">
+  <tr>
+    <th>Type of Event</th>
+    <th>Name of Event</th>
+    <th>Month</th>
+  </tr>
+  <tr>
+    <td>MDE</td>
+    <td>Orientation (Ling Students & Dept BBQ)</td>
+    <td>September</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Quiz Week Social</td>
+    <td>September</td>
+  </tr>
+</table>
 
 ### October
 
