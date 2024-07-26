@@ -50,6 +50,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### October
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -71,6 +72,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### November
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -96,6 +98,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### December
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -117,6 +120,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### January
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -134,6 +138,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### February
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -147,6 +152,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### March
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -168,6 +174,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### April
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -185,6 +192,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### May
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
@@ -206,6 +214,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### June
 
+<p> </p>
 <table style="width:100%">
   <tr>
     <th style="width:200px">Type of Event</th>
