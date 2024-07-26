@@ -4,6 +4,20 @@ title: Prospective Students
 subtitle: For Prospective Students
 ---
 
+# Prospective Student Resources
+
+## Events Schedule
+
+This is the MDS-CL Events Schedule for Prospective Students, which includes virtual information sessions that allow you to learn more about the program. Sign-up information for these events can be found here: [https://masterdatascience.ubc.ca/why-ubc/events](https://masterdatascience.ubc.ca/why-ubc/events) 
+
+*Note that this is a general overview. These events are subject to change.*
+
+| Name of Event | Month |
+| :------------- | :------------- |
+| Admissions Alumni Panel | October |
+| Admissions Committee Panel | December |
+| MDS-CL Admissions Director AMA | January |
+
 ## Pre-Approved Prerequisite Courses
 Please read through the [prerequisite courses](https://masterdatascience.ubc.ca/admissions/prerequisites).
 
