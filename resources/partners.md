@@ -4,7 +4,7 @@ title: Partners
 subtitle: Resources for Partners
 ---
 
-<h3 id="third-heading">Events Schedule</h3>
+<h2 id="second-heading">Events Schedule</h2>
 <p>The MDS-CL Events Schedule for Partners can be viewed below. <i>Note that this is a general overview. These events are subject to change.</i></p> 
 
 <table>
@@ -21,9 +21,8 @@ subtitle: Resources for Partners
 </tr>
 </tbody>
 </table>
-<hr>
 
-<h3 id="third-heading">MDS-CL Resume Book</h3>
+<h2 id="second-heading">MDS-CL Resume Book</h2>
 <p>The MDS-CL Resume Book can be viewed <a href="/assets/img/mds-cl-resume-book.pdf">here</a>.</p> 
 
 <p>The password to the Resume Book is distributed to <strong>MDS-CL partners</strong>. If you're interested in partnering with us, please reach out to <u>ling.mds@ubc.ca</u><p>
