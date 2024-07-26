@@ -22,7 +22,7 @@ subtitle: Resources for Partners
 </tbody>
 </table>
 
-&nbsp
+&nbsp;
 
 <h2 id="second-heading">MDS-CL Resume Book</h2>
 <p>The MDS-CL Resume Book can be viewed <a href="/assets/img/mds-cl-resume-book.pdf">here</a>.</p> 
