@@ -219,7 +219,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
   </tr>
 </table>
 
----
+<p> </p>
 
 * **MDE:** Multi-Day Event
 * **SE:** Social Event
