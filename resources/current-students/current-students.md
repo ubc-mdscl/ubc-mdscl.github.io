@@ -14,11 +14,6 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 ### August
 
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| MDE | Orientation (with V) | August |
-| MDE | Orientation (CL only) | August |
-
 <table style="width:100%">
   <tr>
     <th>Type of Event</th>
@@ -38,11 +33,6 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 </table>
 
 ### September
-
-| Type of Event | Name of Event | Month |
-| :------------- | :------------- | :------------- |
-| MDE | Orientation (Ling Students & Dept BBQ) | September |
-| SE | Quiz Week Social | September |
 
 <table style="width:100%">
   <tr>
