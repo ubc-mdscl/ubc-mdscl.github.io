@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Prospective Students
-subtitle: Resources For Prospective Students
+subtitle: Resources for Prospective Students
 ---
 
 ## Events Schedule
