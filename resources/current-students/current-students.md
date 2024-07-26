@@ -33,7 +33,7 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
 
 <table style="width:100%">
   <tr>
-    <th>Type of Event</th>
+    <th style="width:200px">Type of Event</th>
     <th>Name of Event</th>
   </tr>
   <tr>
