@@ -10,14 +10,14 @@ subtitle: Resources for Partners
 <table>
 <thead>
 <tr>
-<th style="text-align:center">Name of Event</th>
-<th style="text-align:center">Month</th>
+<th>Name of Event</th>
+<th>Month</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">Capstone Partner Info Session</td>
-<td style="text-align:center">September</td>
+<td>Capstone Partner Info Session</td>
+<td>September</td>
 </tr>
 </tbody>
 </table>
