@@ -10,7 +10,14 @@ Career resources for current MDS-CL students can be found here → [Career Resou
 
 # Events Schedule
 
-The MDS-CL Events Schedule can be found below. *Note that this is a general overview. These events are subject to change.*
+The MDS-CL Events Schedule can be found below. For more detailed information, you can find these events on the MDS-CL Calendar. Note that the MDS-CL Calendar is only accessible to current MDS-CL students. If you are an MDS-CL student please follow this link to log in and view the calendar: [https://ling.air.arts.ubc.ca/mds-cl-calendar/](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
+
+*Note that this is a general overview. These events are subject to change.*
+
+* **MDE:** Multi-Day Event
+* **SE:** Social Event
+* **CE:** Career Event
+* **PDW:** Personal Development Workshop
 
 ### August
 
@@ -229,14 +236,3 @@ The MDS-CL Events Schedule can be found below. *Note that this is a general over
     <td>Year-End Event/Capstone Presentations</td>
   </tr>
 </table>
-
-<p> </p>
-
-* **MDE:** Multi-Day Event
-* **SE:** Social Event
-* **CE:** Career Event
-* **PDW:** Personal Development Workshop
-
-For more detailed information, you can find these events on the MDS-CL Calendar. 
-
-Note that the MDS-CL Calendar is only accessible to current MDS-CL students. If you are an MDS-CL student please follow this link to log in and view the calendar: [https://ling.air.arts.ubc.ca/mds-cl-calendar/](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
