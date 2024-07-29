@@ -12,7 +12,7 @@ Career resources for current MDS-CL students can be found here → [Career Resou
 
 The MDS-CL Events Schedule can be found below. 
 
-For more detailed information, you can find these events on the MDS-CL Calendar. The MDS-CL Calendar is only accessible to current MDS-CL students. If you are an MDS-CL student, please follow this link to log in and view the calendar: [https://ling.air.arts.ubc.ca/mds-cl-calendar/](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
+For more detailed information, you can find these events on the [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/). The MDS-CL Calendar is only accessible to current MDS-CL students.
 
 *Note that this is a general overview. These events are subject to change.*
 
