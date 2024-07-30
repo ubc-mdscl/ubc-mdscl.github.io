@@ -19,6 +19,10 @@ subtitle: Resources for Partners
 <td>Capstone Partner Info Session</td>
 <td>September</td>
 </tr>
+<tr>
+<td>Capstone Fair</td>
+<td>January</td>
+</tr>
 </tbody>
 </table>
 <p> </p>
