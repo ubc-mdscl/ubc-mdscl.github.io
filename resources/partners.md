@@ -8,22 +8,18 @@ subtitle: Resources for Partners
 <p>The MDS-CL Events Schedule for Partners can be viewed below. <i>Note that this is a general overview. These events are subject to change.</i></p> 
 
 <table>
-<thead>
-<tr>
-<th>Name of Event</th>
-<th>Month</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Capstone Partner Info Session</td>
-<td>September</td>
-</tr>
-<tr>
-<td>Capstone Fair</td>
-<td>January</td>
-</tr>
-</tbody>
+  <tr>
+    <th>Name of Event</th>
+    <th>Month</th>
+  </tr>
+  <tr>
+    <td>Capstone Partner Info Sessions</td>
+    <td>September</td>
+  </tr>
+  <tr>
+    <td>Capstone Fair</td>
+    <td>January</td>
+  </tr>
 </table>
 <p> </p>
 <h2 id="second-heading">MDS-CL Resume Book</h2>
