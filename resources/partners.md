@@ -5,7 +5,9 @@ subtitle: Resources for Partners
 ---
 
 <h2 id="second-heading">Events Schedule</h2>
-<p>The MDS-CL Events Schedule for Partners can be viewed below. <i>Note that this is a general overview. These events are subject to change.</i></p> 
+<p>The MDS-CL Events Schedule for Partners can be viewed below. More information about the Capstone timeline can be found here → <a href="https://ubc-mdscl.github.io/capstone/timeline/">Capstone Timeline</a></p>
+  
+<p><i>Note that this is a general overview. These events are subject to change.</i></p> 
 
 <table>
   <tr>
