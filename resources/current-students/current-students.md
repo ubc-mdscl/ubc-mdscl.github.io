@@ -97,10 +97,6 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <td>CE</td>
     <td>Resume & Cover Letter Workshop</td>
   </tr>
-  <tr>
-    <td>NCS</td>
-    <td>Graduation Event</td>
-  </tr>
 </table>
 
 ### December
