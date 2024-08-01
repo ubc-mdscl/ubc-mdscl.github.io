@@ -13,7 +13,7 @@ Partners may choose to submit a capstone project(s) to the [MDS Computational Li
 Proposal forms can be found here: 
 * [MDS Computational Linguistics proposal form](https://ubc.ca1.qualtrics.com/jfe/form/SV_ezjjC1pO6TdX6bc) 
 * [MDS Okanagan proposal form](https://ubco-mds.github.io/capstone/proposal/)
-* [MDS Vancouver proposal form](https://ubc.ca1.qualtrics.com/jfe/form/SV_cDgsSg3eb9zPcZo)
+* [MDS Vancouver proposal form](https://ubc.ca1.qualtrics.com/jfe/form/SV_9WxuDBcVfCVvQLs)
 
 You can view an example proposal [here](https://ubc-mds.github.io/capstone/sample_proposal/).
 
