@@ -31,7 +31,7 @@ subtitle: For MDS-CL Capstone Projects
 
 Members of an organization interested in participating as a capstone partner should submit a project [proposal](https://ubc-mds.github.io/capstone/proposal/). 
 
-Proposals received *before November 1st* will be reviewed by the MDS-CL teams and feedback/suggestions for revisions will be provided to the partner, who can then revise their proposal before submitting a proposal video to students. This revision process aims to maximize the chance of a proposal being selected by students. Proposals received *after* November 1st will not be provided with feedback. 
+Proposals received *before November 1st* will be reviewed by the MDS-CL teams and feedback/suggestions for revisions will be provided to the partner, who can then revise portions of their proposal before submitting a proposal video to students. This revision process aims to maximize the chance of a proposal being selected by students. Proposals received *after* November 1st will not be provided with feedback. 
 
 ### Partners submit video presentations 
 
