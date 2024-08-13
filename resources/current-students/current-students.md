@@ -10,7 +10,9 @@ Career resources for current MDS-CL students can be found here → [Career Resou
 
 # Course Schedule
 
-If you are unsure of your schedule number, please contact us at [ling.mds@ubc.ca](ling.mds@ubc.ca). Course schedules can be found here → [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
+If you are unsure of your schedule number, please contact us at [ling.mds@ubc.ca](ling.mds@ubc.ca). 
+
+Course schedules can be found here → [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
 
 # Events Schedule
 
