@@ -27,6 +27,16 @@ Garrett Nicolai joined the MDS Computational Linguistics program in 2020 as a po
 
 ---
 
+**Scott Mackie — Assistant Professor**
+
+![Scott Mackie](https://ubc-mdscl.github.io/assets/img/scott-mackie.jpeg)
+
+*"Language is a critical component of artificial intelligence. Solving the field's more challenging problems will require a combination of data science, machine learning, and linguistics. The traditional split between arts and sciences means that few people end up with this blend of skills. The MDS-CL program fills that gap, providing a cross-disciplinary education that helps graduates stand out in the job market."*
+
+Scott Mackie received his Ph.D in Linguistics from the University of British Columbia in 2017. He is interested in creating computational research tools, and was a founding member of the UBC Phonology Tools group, writing software for analyzing both spoken and signed languages. He spent 2018-2024 at Amazon, developing natural language understanding models for the Alexa voice assistant. He was also co-author on Amazon's M.A.S.S.I.V.E dataset, a parallel corpus of over 1M sentences spanning 51 languages. He returned to UBC in 2024 as an Assistant Professor in the MDS Computational Linguistics program. His current research focusses on using Retrieval Augmented Generation (RAG) techniques to improve the response quality of generative language models.
+
+---
+
 **Jungyeul Park — Lecturer**
 
 ![Jungyeul Park](https://ubc-mdscl.github.io/assets/img/jungyeul-park-mdscl.jpg)
