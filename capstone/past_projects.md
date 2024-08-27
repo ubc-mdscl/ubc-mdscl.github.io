@@ -9,7 +9,6 @@ subtitle: For the MDS-CL Capstone course
 Check out the following blog posts to read more about these past projects!
 
 * **BCI**: Theme discovery and topic modeling of 10K reports → [**Read More**](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
-* **Calgary Police**: Categorization of 911 calls for efficient resource allocation → [**Read More**](https://docs.google.com/document/d/1KSYO6jOxgNS3eNeBWtKGDZKLI8cDoRdZq09mjiHFU78/edit?pli=1)
 * **Dialpad**: Code-switching in ASR transcripts → [**Read More**](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
 * **GDRL**: Alzheimer's detection through speech analysis → [**Read More**](https://medium.com/@nguyentranminh/cognitive-assessment-and-role-of-computational-linguistics-a3d1a86eb3c2)
 * **MyLivingCity**: Comment filtering and collation for social media → [**Read More**](https://medium.com/@mamuyuan2000/our-journey-with-mylivingcity-104c5d89109b)
