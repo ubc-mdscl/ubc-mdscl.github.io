@@ -14,6 +14,16 @@ If you are unsure of your schedule number, please contact us at [ling.mds@ubc.ca
 
 Course schedules can be found here → [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
 
+# Maps
+
+The following list includes maps of different locations where you can study, eat, and be active on and off campus.
+
+* [Study Spots](https://maps.app.goo.gl/CbVTTzeFAE5NBQcg9)
+* [Food Spots](https://maps.app.goo.gl/mzJS2c93aoSqHLPJ9)
+* [Activity Centres](https://maps.app.goo.gl/375YA2vygJ84pBsU7)
+* [Outdoor Picnic Locations](https://maps.app.goo.gl/6ipsU6Wxx8bTvBUj6)
+* [Term 1 Class Locations](https://maps.app.goo.gl/jUrn4ni4XGeeWiTy6)
+
 # Events Schedule
 
 The MDS-CL Events Schedule can be found below. For more detailed information, you can find these events on the [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/). The MDS-CL Calendar is only accessible to current MDS-CL students.
