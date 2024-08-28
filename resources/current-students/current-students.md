@@ -16,7 +16,7 @@ Course schedules can be found here → [MDS-CL Calendar](https://ling.air.arts.u
 
 # Maps
 
-The following list includes maps of different locations where you can study, eat, and be active on and off campus.
+The following maps provide some options for locations where you can study, eat, and be active on and off campus.
 
 * [Study Spots](https://maps.app.goo.gl/CbVTTzeFAE5NBQcg9)
 * [Food Spots](https://maps.app.goo.gl/mzJS2c93aoSqHLPJ9)
