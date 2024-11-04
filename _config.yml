@@ -28,7 +28,6 @@ navbar-links:
     - Calendar: "program/calendar"
     - Policy & Regulation: "program/policies"
     - Career Advising: "program/advising"
-    - FAQ: "program/faq"
   Capstone: 
     - About: "capstone/about" 
     - Partner Info: "capstone/partner-info"
