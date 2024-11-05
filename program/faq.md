@@ -68,11 +68,11 @@ The MDS programs are exclusively offered in-person. These programs are professio
 
 ## Useful links  
 
-* **List of pre-approved prerequisite courses**: [https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf](https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf)  
-* **Students and alumni statistics**: [https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics](https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics)  
-* **Tuition and Financial Aid**: [https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid](https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid)  
-* **Curriculum/Course Overview**: [https://ubc-mdscl.github.io/program/overview/](https://ubc-mdscl.github.io/program/overview/)  
-* **Capstone projects**: [https://ubc-mdscl.github.io/capstone/past_projects/](https://ubc-mdscl.github.io/capstone/past_projects/) 
-* **International Student Advising**: [https://students.ubc.ca/about-student-services/international-student-advising](https://students.ubc.ca/about-student-services/international-student-advising) 
+* [List of Pre-approved Prerequisite Courses](https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf)  
+* [Students and Alumni Statistics](https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics)  
+* [Tuition and Financial Aid](https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid)  
+* [Curriculum/Course Overview](https://ubc-mdscl.github.io/program/overview/)  
+* [Capstone Projects](https://ubc-mdscl.github.io/capstone/past_projects/) 
+* [International Student Advising](https://students.ubc.ca/about-student-services/international-student-advising) 
 
  
