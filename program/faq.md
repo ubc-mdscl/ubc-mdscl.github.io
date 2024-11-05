@@ -58,7 +58,7 @@ No, the MDS program is a cohort based program. All our courses are developed spe
  
 ### What is the difference between MDS and MDS – Computational Linguistics? 
 
-Offered at the Vancouver campus, the Computational Linguistic program is a degree tailored to those with a passion for language and data. Over 10 months, the program combines foundational data science courses with advanced computational linguistics courses—equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. While the MDS-CL program specializes on language data, the MDS-V and MDS-O programs cover data science more broadly. You can find out about these programs here.  
+Offered at the Vancouver campus, the Computational Linguistic program is a degree tailored to those with a passion for language and data. Over 10 months, the program combines foundational data science courses with advanced computational linguistics courses—equipping graduates with the skills to turn language-related data into knowledge and to build AI that can interpret human language. While the MDS-CL program specializes on language data, the MDS-V and MDS-O programs cover data science more broadly. You can find out about these programs [here](https://masterdatascience.ubc.ca/programs).  
 
  
 ### Am I able to take this program online? 
