@@ -53,7 +53,7 @@ The MDS-CL program is a professional course-based program that handles admission
  
 ### If I have taken similar courses in my previous degree can I get transfer credits? 
 
-No, the MDS program is a cohort based program. All our courses are developed specifically for the program and build on each other. As such,  all students start the program together, take the same courses in the same order and graduate as a cohort. 
+No, the MDS program is a cohort based program. All our courses are developed specifically for the program and build on each other. As such, all students start the program together, take the same courses in the same order and graduate as a cohort. 
 
  
 ### What is the difference between MDS and MDS – Computational Linguistics? 
@@ -68,22 +68,11 @@ The MDS programs are exclusively offered in-person. These programs are professio
 
 ## Useful links  
 
-List of pre-approved prerequisite courses  
-* [https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf](https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf)  
-
-Students and alumni statistics:   
-* [https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics](https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics)  
-
-Tuition and Financial Aid  
-* [https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid](https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid)  
-
-Curriculum/Course Overview  
-* [https://ubc-mdscl.github.io/program/overview/](https://ubc-mdscl.github.io/program/overview/)  
-
-Capstone projects  
-* [https://ubc-mdscl.github.io/capstone/past_projects/](https://ubc-mdscl.github.io/capstone/past_projects/) 
-
-International Student Advising 
-* [https://students.ubc.ca/about-student-services/international-student-advising](https://students.ubc.ca/about-student-services/international-student-advising) 
+* **List of pre-approved prerequisite courses**: [https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf](https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf)  
+* **Students and alumni statistics**: [https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics](https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics)  
+* **Tuition and Financial Aid**: [https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid](https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid)  
+* **Curriculum/Course Overview**: [https://ubc-mdscl.github.io/program/overview/](https://ubc-mdscl.github.io/program/overview/)  
+* **Capstone projects**: [https://ubc-mdscl.github.io/capstone/past_projects/](https://ubc-mdscl.github.io/capstone/past_projects/) 
+* **International Student Advising**: [https://students.ubc.ca/about-student-services/international-student-advising](https://students.ubc.ca/about-student-services/international-student-advising) 
 
  
