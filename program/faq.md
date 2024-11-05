@@ -66,7 +66,7 @@ Offered at the Vancouver campus, the Computational Linguistic program is a degre
 The MDS programs are exclusively offered in-person. These programs are professional 10-month master's programs offered on the Vancouver and Okanagan campuses. They give you access to key experts with the field of arts (linguistics), computer science, and statistics. The programs provide strong connections with industry partners in public and private sectors, start-ups, and leading tech companies to facilitate a wider range of networking/career opportunities. The in-person delivery of the program also allows students to create close connections with other members in their cohort.  
 
 
-## Useful links  
+### Useful links  
 
 * [List of Pre-approved Prerequisite Courses](https://ubc-mdscl.github.io/assets/img/MDS-CL-prerequisite-equivalents-list.pdf)  
 * [Students and Alumni Statistics](https://masterdatascience.ubc.ca/why-ubc/students-and-alumni#tab_students-alumni-computational-linguistics)  
