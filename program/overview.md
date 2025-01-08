@@ -9,7 +9,7 @@ subtitle:
 
 | Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| DSCI 511  | Programming for Data Science | Program design and data manipulation with Python. Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis. When and how to exploit pre-existing libraries.  | TBA | Jungyeul Park |
+| DSCI 511  | Programming for Data Science | Program design and data manipulation with Python. Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis. When and how to exploit pre-existing libraries.  | Scott Mackie | Jungyeul Park |
 | DSCI 521  | Computing Platforms for Data Science | How to install, maintain, and use the data scientific software stack. The Unix shell, version control, and problem solving strategies. Literate programming documents.  | TBA | TBA |
 | DSCI 523  | Programming for Data Manipulation | Program design and data manipulation with R. Organizing, filtering, sorting, grouping, reformatting, converting, and cleaning data to prepare it for further analysis.  | TBA  | TBA |
 | DSCI 551  | Descriptive Statistics and Probability for Data Science | Fundamental concepts in probability including conditional, joint, and marginal distributions. Statistical view of data coming from a probability distribution.  | TBA  | TBA |
@@ -38,7 +38,7 @@ subtitle:
 | Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 535  | Parsing for Computational Linguistics | The identification of syntactic structure in natural language. Parsing algorithms for popular grammar formalisms, application of statistical information to parsing, parser evaluation, and extraction of parse features. | Garrett Nicolai | Jungyeul Park |
-| COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | TBA | Jungyeul Park |
+| COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | Scott Mackie | Jungyeul Park |
 | DSCI 563  | Unsupervised Learning | How to find groups and other structure in unlabeled, possibly high dimensional data. Dimension reduction for visualization and data analysis. Clustering, association rules, model fitting via the EM algorithm. | Garrett Nicolai | Jungyeul Park |
 | DSCI 572  | Supervised Learning II | Introduction to optimization. Gradient descent and stochastic gradient descent. Roundoff error and finite differences. Neural networks and deep learning. | Jian Zhu | Jungyeul Park |
 
@@ -55,7 +55,7 @@ subtitle:
 
 | Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| COLX 563  | Advanced Computational Semantics | Application of machine learning to various semantic tasks. Likely topics include: information extraction, semantic role labelling, semantic parsing, discourse parsing, question answering, summarization, and natural language inference. | TBA | Jungyeul Park |
+| COLX 563  | Advanced Computational Semantics | Application of machine learning to various semantic tasks. Likely topics include: information extraction, semantic role labelling, semantic parsing, discourse parsing, question answering, summarization, and natural language inference. | Scott Mackie | Jungyeul Park |
 | COLX 581  | Natural Language Processing for Low-Resource Languages | Building automatic language tools when data is scarce. Rule-based and hybrid systems, semi-supervised learning, active learning. Knowledge transfer from other (related) languages. | Garrett Nicolai | Jungyeul Park |
 | COLX 585  | Trends in Computational Linguistics | Cutting-edge techniques in natural language processing. For this iteration, the latest innovations in neural network architectures. | Jian Zhu | Jungyeul Park |
 | DSCI 541  | Privacy, Ethics & Security | The legal, ethical, and security issues concerning data, including aggregated data. Proactive compliance with rules and, in their absence, principles for the responsible management of sensitive data. Case studies. | Garrett Nicolai | Jungyeul Park |
