@@ -6,7 +6,7 @@ subtitle: For MDS-CL Capstone Projects
 
 The goal of MDS-CL Capstone Project is to provide technical and professional Data Science/ Computational Linguistics training and to reinforce the skills you learned in your coursework in a realistic professional situation. It will provide you with hands-on experience on a current and relevant computational linguistics project to tackle real problems faced by our partners. We aim to make this experience as close as possible to a professional experience for the students. Naturally, this project has a pedagogical component, but students can expect to have an engaged and interested community partner to support them. 
 
-Current students can view Capstone Proposals here: [https://canvas.ubc.ca/courses/163476](https://canvas.ubc.ca/courses/163476)
+Current students can view capstone proposals here: [https://canvas.ubc.ca/courses/163476](https://canvas.ubc.ca/courses/163476)
 
 Students will be able to provide their input on what project they are most interested in. However, it is important to note that: 
 * Many partners submit project proposals- from well-established companies to academic research groups; some you might have heard of, but chances are that you will work on an exciting project with a partner you have not heard of.
