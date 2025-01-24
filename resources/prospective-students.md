@@ -27,3 +27,8 @@ The list of [MDS-CL prerequisite equivalents](/assets/img/MDS-CL-prerequisite-eq
 course syllabus to <a href="mailto:ling.mds@ubc.ca"><u>ling.mds@ubc.ca</u></a> to get it checked.* 
 
 <p><a href="/assets/img/MDS-CL-prerequisite-equivalents-list.pdf" class="image fit"><img src="/assets/img/mds-cl-equivalents-preview.png" alt="MDS-CL Prerequisite Equivalents Preview"></a></p>
+
+<p> </p>
+
+## Frequently Asked Questions
+View our [Frequently Asked Questions page](https://ubc-mdscl.github.io/program/faq/) for more information. 
