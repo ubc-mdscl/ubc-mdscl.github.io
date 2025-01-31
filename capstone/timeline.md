@@ -24,7 +24,7 @@ subtitle: For MDS-CL Capstone Projects
 | Kickoff meetings | April, 2025 |
 | Kickoff/Coding Challenge | April 28th-30th, 2025 |
 | Project | May 1st - June 25th, 2025 |
-| Year-End Celebration | June 25th, 2025 |
+| Year-End Celebration | June 26th, 2025 |
 
 
 ### Proposal revision process 
