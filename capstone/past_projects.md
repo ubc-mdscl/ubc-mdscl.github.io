@@ -28,7 +28,7 @@ ___
 * [Dialpad](https://www.dialpad.com/): _Language Modeling for Code-switched Speech Recognition_
 * [GDRL](https://geriatrics.med.ubc.ca/research.php): _AI Screening of Spontaneous Speech to Detect Alzheimer's_
 * [MyLivingCity](): _MyLiving City Community Discussion Platform (i.e. MyLiving City App)_
-* [Ocarina](https://www.ocarinastudios.com/): _Revolutionizing the Gamification of Knowledge with Machine Learning_
+* [Ocarina](https://www.ocarinastudios.com/): _Revolutionizing the Gamification of Knowledge with Machine Learning_ → [**Read More**](https://masterdatascience.ubc.ca/why-data-science/data-stories/dream-database)
 * [RioTinto](https://www.riotinto.com/): _Unearthing Insights: How AI is Transforming Information Extraction in the Mining Industry_
 * [RocketBrew AI Magic](https://www.therocketbrew.com/): _Finding Patterns of Success - Magic Evaluation_
 * [RocketBrew Follow Up Models](https://www.therocketbrew.com/): _Unveiling the Magic Behind Rocketbrew's New Personalized Messaging System_
