@@ -16,7 +16,8 @@ subtitle: For MDS-CL Capstone Projects
 * The partner must be available to meet with CL students working on the capstone project (in person ideally) on a weekly basis during the duration of the capstone project. 
 * The partner should be on board with the educational goals of the capstone project and understand that this partnership isn’t simply “free data scientists” for two months. 
 * The partner must come to an agreement about data and product sharing, licensing and intellectual product rights. The MDS-CL program will support agreements that benefit both the students and the partners. Please note that it will be key for the students to share some aspects of the project during their job search following graduation from the MDS-CL program. 
-* The partner consents to the organization’s name and project title being listed on the [UBC MDS website](https://masterdatascience.ubc.ca/why-ubc/partners). 
+* The partner consents to the organization’s name and project title being listed on the [UBC MDS website](https://masterdatascience.ubc.ca/why-ubc/partners).
+* Current MDS-CL students may not submit capstone proposals or act as capstone mentors. We welcome alumni to submit capstone projects.
 
 ## Student Expectations 
 We expect our student groups to 
