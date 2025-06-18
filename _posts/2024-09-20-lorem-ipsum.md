@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Airfield Hazards: Bird Tracking at Airports
+title: Airfield Hazards - Bird Tracking at Airports
 subtitle: Student Capstone Project
 cover-img: /assets/img/airport.png
 thumbnail-img: /assets/img/airport-thumb.png
