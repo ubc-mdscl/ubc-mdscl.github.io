@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ocarina Studios Dream Database
+title: Dream Database
 subtitle: Student Capstone Project
 cover-img: /assets/img/dreamdatabase.png
 thumbnail-img: /assets/img/dreamdatabase-thumb.png
