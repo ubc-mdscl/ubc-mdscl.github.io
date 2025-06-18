@@ -8,14 +8,14 @@ subtitle: For the MDS-CL Capstone course
 
 Check out the following blog posts to read more about these past projects!
 
-* [BC Children's Hospital](https://www.digitallab.org/): ChatGPT gives bad medical advice? Don’t be outRAGeous! → [**Read More**](https://medium.com/@jonathandanielkeigan/chatgpt-makes-mistakes-dont-be-outrageous-c0d7d2f947a2BC)
-* [BC Ministry of Environment and Parks](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/environment): Past meets present: Using AI to modernize legacy environmental records → [**Read More**](https://medium.com/@mujtaba.41.mm/past-meets-present-using-ai-to-modernize-legacy-environmental-records-e8d39abab07e)
-* [Boeing](hhttps://ww2.jeppesen.com/): Making flight planning smarter with NLP: Automating FAA flight digest reports → [**Read More**](https://medium.com/@davidk7950/f6b6907fc720)
-* [LexSelect](https://www.lexselect.io/): Making legal documents machine readable → [**Read More**](https://medium.com/@suyuan1122/making-legal-documents-machine-readable-59c24dda6ba5)
-* [Ocarina Studios](https://www.ocarinastudios.com/): The illusion of clean data in a messy world → [**Read More**](https://medium.com/@jf.danieltampubolon/the-illusion-of-clean-data-in-a-messy-world-6bc1dd8d87c3)
-* [Take Off](https://readyfortakeoff.app/): What if your portfolio could speak for you → [**Read More**](https://medium.com/@lushaw/what-if-your-portfolio-could-speak-for-you-9b464b71cdcb)
-* [The Whole SHEBang](https://www.thewholeshebang.ca/): SUE (Sexuality Understanding & Education): A chatbot for teen sexual health → [**Read More**](https://medium.com/@tiffanychen020514/sue-sexuality-understanding-education-a-chatbot-for-teen-sexual-health-fdf2b6b9705e)
-* [UBC Psychiatry Department](https://mood.med.ubc.ca/): Building an AI assistant that answers doctors questions about depression → [**Read More**](https://medium.com/@alexdu271/building-an-ai-assistant-that-answers-doctors-questions-about-depression-2514117e5fd5)
+* [BC Children's Hospital](https://www.digitallab.org/): *ChatGPT gives bad medical advice? Don’t be outRAGeous!* → [**Read More**](https://medium.com/@jonathandanielkeigan/chatgpt-makes-mistakes-dont-be-outrageous-c0d7d2f947a2BC)
+* [BC Ministry of Environment and Parks](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/environment): *Past meets present: Using AI to modernize legacy environmental records* → [**Read More**](https://medium.com/@mujtaba.41.mm/past-meets-present-using-ai-to-modernize-legacy-environmental-records-e8d39abab07e)
+* [Boeing](hhttps://ww2.jeppesen.com/): *Making flight planning smarter with NLP: Automating FAA flight digest reports* → [**Read More**](https://medium.com/@davidk7950/f6b6907fc720)
+* [LexSelect](https://www.lexselect.io/): *Making legal documents machine readable* → [**Read More**](https://medium.com/@suyuan1122/making-legal-documents-machine-readable-59c24dda6ba5)
+* [Ocarina Studios](https://www.ocarinastudios.com/): *The illusion of clean data in a messy world* → [**Read More**](https://medium.com/@jf.danieltampubolon/the-illusion-of-clean-data-in-a-messy-world-6bc1dd8d87c3)
+* [Take Off](https://readyfortakeoff.app/): *What if your portfolio could speak for you* → [**Read More**](https://medium.com/@lushaw/what-if-your-portfolio-could-speak-for-you-9b464b71cdcb)
+* [The Whole SHEBang](https://www.thewholeshebang.ca/): *SUE (Sexuality Understanding & Education): A chatbot for teen sexual health* → [**Read More**](https://medium.com/@tiffanychen020514/sue-sexuality-understanding-education-a-chatbot-for-teen-sexual-health-fdf2b6b9705e)
+* [UBC Psychiatry Department](https://mood.med.ubc.ca/): *Building an AI assistant that answers doctors questions about depression* → [**Read More**](https://medium.com/@alexdu271/building-an-ai-assistant-that-answers-doctors-questions-about-depression-2514117e5fd5)
 
 ___
 
