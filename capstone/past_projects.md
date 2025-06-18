@@ -8,6 +8,19 @@ subtitle: For the MDS-CL Capstone course
 
 Check out the following blog posts to read more about these past projects!
 
+* [**BC Children's Hospital**](https://www.digitallab.org/): ChatGPT gives bad medical advice? Don’t be outRAGeous! → [**Read More**](https://medium.com/@jonathandanielkeigan/chatgpt-makes-mistakes-dont-be-outrageous-c0d7d2f947a2BC)
+* [**BC Ministry of Environment and Parks**](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/environment): Past meets present: Using AI to modernize legacy environmental records
+* [**LexSelect**](https://www.lexselect.io/): Making legal documents machine readable → [**Read More**](https://medium.com/@suyuan1122/making-legal-documents-machine-readable-59c24dda6ba5)
+* [**Ocarina Studios**](https://www.ocarinastudios.com/): The illusion of clean data in a messy world → [**Read More**](https://medium.com/@jf.danieltampubolon/the-illusion-of-clean-data-in-a-messy-world-6bc1dd8d87c3)
+* [**Take Off**](https://readyfortakeoff.app/): What if your portfolio could speak for you → [**Read More**](https://medium.com/@lushaw/what-if-your-portfolio-could-speak-for-you-9b464b71cdcb)
+* [**The Whole SHEBang**](https://www.thewholeshebang.ca/): SUE (Sexuality Understanding & Education): A chatbot for teen sexual health → [**Read More**](https://medium.com/@tiffanychen020514/sue-sexuality-understanding-education-a-chatbot-for-teen-sexual-health-fdf2b6b9705e)
+* [**UBC Psychiatry Department**](https://mood.med.ubc.ca/): Building an AI assistant that answers doctors questions about depression → [**Read More**](https://medium.com/@alexdu271/building-an-ai-assistant-that-answers-doctors-questions-about-depression-2514117e5fd5)
+
+___
+
+## Past Projects & Partners by Year
+
+**2024/25:**
 * **BCI**: Theme discovery and topic modeling of 10K reports → [**Read More**](https://medium.com/@billchou1888/unlocking-insights-from-sec-10-k-filings-our-journey-with-topic-modeling-2b2a6a86409f)
 * **Calgary Police**: Categorization of 911 calls for efficient resource allocation
 * **Dialpad**: Code-switching in ASR transcripts → [**Read More**](https://medium.com/@cheyannelhy/enhancing-speech-recognition-for-code-switching-our-journey-a8b4ce4aaf3e)
@@ -17,10 +30,8 @@ Check out the following blog posts to read more about these past projects!
 * **RioTinto**: Document-level relation extraction of mining projects and locations → [**Read More**](https://medium.com/@lmcwlp/unearthing-insights-how-ai-is-transforming-information-extraction-in-the-mining-industry-34dde84a3bb5)
 * **RocketBrew AIMagic**: What makes an effective marketing pitch? → [**Read More**](https://medium.com/@zenonhrabowsky/3b411d853f9e)
 * **RocketBrew Follow-up**: Personalized online messaging → [**Read More**](https://medium.com/@haochen.he/unveiling-the-magic-behind-rocketbrews-new-personalized-messaging-system-05a13357e37f)
-
+  
 ___
-
-## Past Projects & Partners by Year
 
 **2023/24:**
 * [Calgary Police Service](https://www.calgary.ca/cps.html): _Call Type X99 - Miscellaneous_
