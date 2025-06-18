@@ -27,4 +27,4 @@ The group sees plenty of potential applications for this technology. From person
 
 By integrating machine learning with web-crawled data, the students created a system that can continuously generate fresh and relevant trivia questions.
 
-Parts of this article first appeared on <a href="https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c">Medium</a> in a post written by the Ocarina capstone team.   
+Parts of this article first appeared on [Medium](https://medium.com/@coloteong20/revolutionizing-the-gamification-of-knowledge-with-machine-learning-aeccaf5d786c) in a post written by the Ocarina capstone team.   
