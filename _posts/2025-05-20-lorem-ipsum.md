@@ -1,5 +1,7 @@
 ---
 layout: post
+title:
+subtitle:
 cover-img: /assets/img/gendergapstat.jpeg
 thumbnail-img: /assets/img/gendergapstat-thumb.png
 share-img: /assets/img/gendergapstat-thumb.png
@@ -11,7 +13,7 @@ _Posted on May 20, 2025_
 
 A group of UBC Master of Data Science (MDS) Computational Linguistics students (Su Yuan, Lusha Wang, and Lisa Zhang) were inspired by Simon Fraser University’s Gender Gap Tracker and decided for their Advanced Corpus Linguistics course project that they wanted to analyze a large news corpus to uncover the gender gap. In particular, the students wanted to further investigate the adjectives and adverbs used to describe different gender (binary gender classification for practical reasons) in The Globe & Mail news articles.
 
-To begin, the students contacted the SFU Discourse Processing Lab for their annotated data on genders of authors and cited authorities to dig deeper on the descriptors. The students ended up obtaining a large collection of roughly 371,000 English news articles published in 2023 from major Canadian news sources (like CBC, CTV, and The Globe and Mail) from the [SFU Discourse Processing Lab](https://gendergaptracker.research.sfu.ca/). For the purpose of their project, the students concentrated on a sample of 500 articles from The Globe & Mail.
+To begin, the students contacted the [SFU Discourse Processing Lab](https://gendergaptracker.research.sfu.ca/) for their annotated data on genders of authors and cited authorities to dig deeper on the descriptors. The students ended up obtaining a large collection of roughly 371,000 English news articles published in 2023 from major Canadian news sources (like CBC, CTV, and The Globe and Mail) from the SFU Discourse Processing Lab. For the purpose of their project, the students concentrated on a sample of 500 articles from The Globe & Mail.
 
 With the 500 articles, the students then employed linguistic annotation techniques, specifically dependency parsing and POS tagging, to identify and extract descriptive words (adjectives and adverbs) that are associated with individuals mentioned within these articles. Those descriptive words were then categorized into five key categories: power-related, appearance-related, behavior-related, competence-related, and emotionality-related.
 
