@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Gender Gap Statistics on Adjectival Usage in English
-subtitle: Student Data Science Project
 cover-img: /assets/img/gendergapstat.jpeg
 thumbnail-img: /assets/img/gendergapstat-thumb.png
 share-img: /assets/img/gendergapstat-thumb.png
 ---
+
+# Gender Gap Statistics on Adjectival Usage in English #
+## Student Data Science Project ##
+_Posted on May 20, 2025_
 
 A group of UBC Master of Data Science (MDS) Computational Linguistics students (Su Yuan, Lusha Wang, and Lisa Zhang) were inspired by Simon Fraser University’s Gender Gap Tracker and decided for their Advanced Corpus Linguistics course project that they wanted to analyze a large news corpus to uncover the gender gap. In particular, the students wanted to further investigate the adjectives and adverbs used to describe different gender (binary gender classification for practical reasons) in The Globe & Mail news articles.
 
