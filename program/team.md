@@ -27,26 +27,6 @@ Garrett Nicolai joined the MDS Computational Linguistics program in 2020 as a po
 
 ---
 
-**Scott Mackie — Assistant Professor**
-
-![Scott Mackie](https://ubc-mdscl.github.io/assets/img/scott-mackie.jpeg)
-
-*"Language is a critical component of artificial intelligence. Solving the field's more challenging problems will require a combination of data science, machine learning, and linguistics. The traditional split between arts and sciences means that few people end up with this blend of skills. The MDS-CL program fills that gap, providing a cross-disciplinary education that helps graduates stand out in the job market."*
-
-Scott Mackie received his Ph.D in Linguistics from the University of British Columbia in 2017. He is interested in creating computational research tools, and was a founding member of the UBC Phonology Tools group, writing software for analyzing both spoken and signed languages. He spent 2018-2024 at Amazon, developing natural language understanding models for the Alexa voice assistant. He was also co-author on Amazon's M.A.S.S.I.V.E dataset, a parallel corpus of over 1M sentences spanning 51 languages. He returned to UBC in 2024 as an Assistant Professor in the MDS Computational Linguistics program. His current research focusses on using Retrieval Augmented Generation (RAG) techniques to improve the response quality of generative language models.
-
----
-
-**Jungyeul Park — Lecturer**
-
-![Jungyeul Park](https://ubc-mdscl.github.io/assets/img/jungyeul-park-mdscl.jpg)
-
-*"UBC’s MDS Computational Linguistics is the study of data science and linguistics that empower students to be future ready with tools in computational linguistics. I’m excited to work with our students and explore the new era of natural language processing."*
-
-Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Diderot (Paris VII) in 2006. His interest in natural language processing motivated him to pursue Linguistics after initially studying Computer Science. His current research interests include machine learning approaches for morphology and syntax of natural language. He is currently a lecturer in the Department of Linguistics at the University of British Columbia (Vancouver, Canada) and an affiliate assistant professor in the Department of Linguistics at University of Washington (Seattle, USA). Before that he was a visiting assistant professor in the Department of Linguistics at the State University of New York at Buffalo during 2018-2019, a visiting assistant professor in the Department of Linguistics at the University of Arizona during 2016-2017, a research scientist at CEA (Commissariat à l'énergie atomique et aux énergies alternatives) during 2015-2016, and a lecturer (attaché temporaire d'enseignement et de recherche) in the Department of Computer Sciences at IUT de Lannion (Université de Rennes 1) during the academic year 2013-2014.
-
----
-
 **Jian Zhu — Assistant Professor**
 
 ![Jian Zhu](https://ubc-mdscl.github.io/assets/img/jian-zhu-mdscl.jpg)
@@ -54,6 +34,16 @@ Jungyeul Park received his Ph.D. in Linguistics from the Université Paris Dider
 *"I am thrilled to be teaching the MDS-CL program at a time when Natural Language Processing (NLP) is advancing at a rapid pace. With breakthroughs in deep learning, we are witnessing a revolution in the way machines understand and process human language. As an instructor, I am excited to share my knowledge and expertise with the students, and to guide them as they explore the latest NLP techniques and technologies. It is an exciting time to be at the forefront of this field, and I can't wait to see what the future holds for NLP and its applications."*
 
 Jian Zhu received his Ph.D. degree in Linguistics and Scientific Computing from the University of Michigan, Ann Arbor in 2022. After his Ph.D., Jian had conducted NLP research both in the industry and in the academia. Before joining UBC, Jian was a post-doctoral research fellow in the School of Information at University of Michigan, working on the large-scale computational sociolinguistics. His current research interests lie in teaching machines to recognize spoken languages across the world and unstanding people's linguistic behavior in the online communities through large-scale computational methods. 
+
+---
+
+**Muhammad Abdul-Mageed — Assistant Professor**
+
+![Muhammad Abdul-Mageed](https://ubc-mdscl.github.io/assets/img/muhammad-abdul-mageed-mdscl.jpg)
+
+*"Deep learning is revolutionary. Some of the most exciting progress in deep learning is happening with language. It is in your car, your browser, and your pocket. Deep learning of language is in its infancy, with fascinating progress ahead."*
+
+Muhammad Abdul-Mageed is an Assistant Professor of Computational Linguistics, Information Science, and Computer Science and Director of the Natural Language Processing Lab at the UBC. He is a core member of UBC Institute for Computing, Information and Cognitive Systems and Centre for Artificial Intelligence Decision-making and Action. His research focuses on developing novel deep learning methods for natural language socio-pragmatics, with a goal to build `social’ machines to enhance human health and well-being.
 
 ---
 
@@ -101,12 +91,3 @@ Vanessa Ho obtained her Bachelor's of Journalism degree from the University of R
 
 Carla has a PhD from the University of Rochester, and her research focuses on first and second language acquisition, developmental language production and processing, gesture and langugae learning and processing, non-linguistic constraints on language learning and language form, language contact and language change. Carla is a Google Scholar, and is the founder of the Language and Learning Lab at UBC.
 
----
-
-**Muhammad Abdul-Mageed — Assistant Professor (On Leave)**
-
-![Muhammad Abdul-Mageed](https://ubc-mdscl.github.io/assets/img/muhammad-abdul-mageed-mdscl.jpg)
-
-*"Deep learning is revolutionary. Some of the most exciting progress in deep learning is happening with language. It is in your car, your browser, and your pocket. Deep learning of language is in its infancy, with fascinating progress ahead."*
-
-Muhammad Abdul-Mageed is an Assistant Professor of Computational Linguistics, Information Science, and Computer Science and Director of the Natural Language Processing Lab at the UBC. He is a core member of UBC Institute for Computing, Information and Cognitive Systems and Centre for Artificial Intelligence Decision-making and Action. His research focuses on developing novel deep learning methods for natural language socio-pragmatics, with a goal to build `social’ machines to enhance human health and well-being.
