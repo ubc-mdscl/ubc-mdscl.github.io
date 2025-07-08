@@ -49,13 +49,13 @@ subtitle:
 | COLX 523  | Advanced Corpus Linguistics | Text corpora collection and curation. How to pull representative datasets from internet sources. Techniques for efficient and reliable annotation. | Garrett Nicolai | Jungyeul Park |
 | COLX 525  | Computational Morphology | Approaches to sub-word phenomenon in language processing. Automatic morphological analysis of diverse languages, part of speech tagging, word segmentation, and character-level neural network models. | Garrett Nicolai | Jungyeul Park |
 | COLX 531  | Machine Translation | Key methodologies for automatic translation between languages, with a focus on statistical and neural machine translation approaches. Applying Machine Translation (MT) architectures to analogous monolingual tasks. MT evaluation. | Jian Zhu | Jungyeul Park |
-| COLX 565  | Sentiment Analysis | Identification and analysis of opinion, especially in social media. Text polarity and emotion classification, fine-grained (e.g. aspectual) opinion mining, argumentation mining, sentiment in social networks. | Muhammad Abdul-Mageed | Jungyeul Park |
+| COLX 563  | Advanced Computational Semantics | Application of machine learning to various semantic tasks. Likely topics include: information extraction, semantic role labelling, semantic parsing, discourse parsing, question answering, summarization, and natural language inference. | Scott Mackie | Jungyeul Park |
 
 *Block 6 (4 weeks, 4 credits)*
 
 | Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor | 2024-25 Lab Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| COLX 563  | Advanced Computational Semantics | Application of machine learning to various semantic tasks. Likely topics include: information extraction, semantic role labelling, semantic parsing, discourse parsing, question answering, summarization, and natural language inference. | Scott Mackie | Jungyeul Park |
+| COLX 565  | Sentiment Analysis | Identification and analysis of opinion, especially in social media. Text polarity and emotion classification, fine-grained (e.g. aspectual) opinion mining, argumentation mining, sentiment in social networks. | Muhammad Abdul-Mageed | Jungyeul Park |
 | COLX 581  | Natural Language Processing for Low-Resource Languages | Building automatic language tools when data is scarce. Rule-based and hybrid systems, semi-supervised learning, active learning. Knowledge transfer from other (related) languages. | Garrett Nicolai | Jungyeul Park |
 | COLX 585  | Trends in Computational Linguistics | Cutting-edge techniques in natural language processing. For this iteration, the latest innovations in neural network architectures. | Jian Zhu | Jungyeul Park |
 | DSCI 541  | Privacy, Ethics & Security | The legal, ethical, and security issues concerning data, including aggregated data. Proactive compliance with rules and, in their absence, principles for the responsible management of sensitive data. Case studies. | Garrett Nicolai | Jungyeul Park |
