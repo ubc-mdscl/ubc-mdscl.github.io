@@ -38,7 +38,7 @@ subtitle:
 | Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 535  | Parsing for Computational Linguistics | The identification of syntactic structure in natural language. Parsing algorithms for popular grammar formalisms, application of statistical information to parsing, parser evaluation, and extraction of parse features. | Garrett Nicolai |
-| COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | Scott Mackie |
+| COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | Isabel Papadimitriou |
 | DSCI 563  | Unsupervised Learning | How to find groups and other structure in unlabeled, possibly high dimensional data. Dimension reduction for visualization and data analysis. Clustering, association rules, model fitting via the EM algorithm. | Garrett Nicolai |
 | DSCI 572  | Supervised Learning II | Introduction to optimization. Gradient descent and stochastic gradient descent. Roundoff error and finite differences. Neural networks and deep learning. | Jian Zhu |
 
