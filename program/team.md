@@ -47,6 +47,16 @@ Muhammad Abdul-Mageed is an Assistant Professor of Computational Linguistics, In
 
 ---
 
+**Isabel Papadimitriou — Assistant Professor**
+
+![Isabel Papadimitriou](https://ubc-mdscl.github.io/assets/img/isabel-square.jpeg.jpeg)
+
+*"Computational linguistics is at a uniquely exciting and interesting point in its history, where language technologies are becoming massively successful, having profound impacts on society, and all the while opening new scientific pathways for studying learning, language, and cognition. At the MDS-CL, it's exciting to teach students about all sides of the fast-moving field surrounding language models and computational linguistics: the foundational knowledge, the practical skills, and the big questions for science and society."*
+
+Isabel graduated with a PhD in Computer Science from Stanford University, and was then a Kempner Fellow at the Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard University. Before all that, she got degrees in Computer Science and History from UC Berkeley. In her research, she studies how language models work, and how we can use them to expand and enrich our understanding of the amazing questions behind how humans learn and represent language.
+
+---
+
 **Kenna McEwan — Program Manager**
 
 ![Kenna McEwan](https://ubc-mdscl.github.io/assets/img/kenna-mcewan-mdscl.png)
