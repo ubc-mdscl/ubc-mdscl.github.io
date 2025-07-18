@@ -4,7 +4,7 @@ title: Proposals
 subtitle: For MDS-CL Capstone Projects
 ---
 
-**Capstone Project Proposals for Spring 2025 are now open.**  
+**Capstone Project Proposals for Spring 2025 are now closed.**  
 
 **The soft deadline for UBC Capstone proposals is Nov 1st. And the hard deadline is Nov 29th.** Proposals sent in by Nov 1st will receive feedback (that will hopefully increase their chances of being selected). 
 
