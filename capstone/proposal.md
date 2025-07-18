@@ -4,9 +4,9 @@ title: Proposals
 subtitle: For MDS-CL Capstone Projects
 ---
 
-**Capstone Project Proposals for Spring 2025 are now closed.**  
+**Capstone Project Proposals for Spring 2026 will open in late-August**  
 
-**The soft deadline for UBC Capstone proposals is Nov 3rd. And the hard deadline is Nov 28th.** Proposals sent in by Nov 1st will receive feedback (that will hopefully increase their chances of being selected). 
+**The soft deadline for UBC Capstone proposals is Nov 3rd. And the hard deadline is Nov 28th.** Proposals sent in by Nov 3rd will receive feedback (that will hopefully increase their chances of being selected). 
 
 Partners may choose to submit a capstone project(s) to the [MDS Computational Linguistics](https://ubc-mdscl.github.io/program/aboutme/) program (language-related data science) and/or the [MDS Okanagan](https://ubco-mds.github.io/)/ [MDS Vancouver](https://ubc-mds.github.io/about/) programs (general data science).  
 
