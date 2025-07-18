@@ -6,7 +6,7 @@ subtitle: For MDS-CL Capstone Projects
 
 <p style="text-align: center;">This year’s capstone course will run <b>May-June, 2025</b> (~8 weeks).</p>
 
-<p style="text-align: center;"><b>The soft deadline for UBC Capstone proposals is Nov 1st. And the hard deadline is Nov 29th.</b> Proposals sent in by Nov 1st will receive feedback (that will hopefully increase their chances of being selected).</p> 
+<p style="text-align: center;"><b>The soft deadline for UBC Capstone proposals is Nov 3rd. And the hard deadline is Nov 28th.</b> Proposals sent in by Nov 1st will receive feedback (that will hopefully increase their chances of being selected).</p> 
 
 | Event  | Deadline/Period |
 | :------------- | :------------- |
