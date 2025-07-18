@@ -18,7 +18,7 @@ subtitle:
 
 | Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| DSCI 512  | Algorithms & Data Structures | How to choose and use appropriate algorithms and data structures to help solve data science problems. Key concepts such as recursion and algorithmic complexity (e.g., efficiency, scalability). | Jian Zhu |
+| DSCI 512  | Algorithms & Data Structures | How to choose and use appropriate algorithms and data structures to help solve data science problems. Key concepts such as recursion and algorithmic complexity (e.g., efficiency, scalability). | Muhammad Abdul-Mageed |
 | DSCI 531  | Data Visualization I | Exploratory data analysis. Design of effective static visualizations. Plotting tools in R and Python. | TBA |
 | DSCI 552  | Statistical Inference and Computation I | The statistical and probabilistic foundations of inference. Large sample results. The frequentist paradigm. | TBA |
 | DSCI 571  | Supervised Learning I | Introduction to supervised machine learning. Basic machine learning concepts such as generalization error and overfitting. Various approaches such as K-NN, decision trees, linear classifiers. | TBA  |
