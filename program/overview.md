@@ -7,7 +7,7 @@ subtitle:
 # Fall: September-December
 *Block 1 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | DSCI 511  | Programming for Data Science | Program design and data manipulation with Python. Overview of data structures, iteration, flow control, and program design relevant to data exploration and analysis. When and how to exploit pre-existing libraries.  | Muhammad Abdul-Mageed |
 | DSCI 521  | Computing Platforms for Data Science | How to install, maintain, and use the data scientific software stack. The Unix shell, version control, and problem solving strategies. Literate programming documents.  | TBA |
@@ -16,7 +16,7 @@ subtitle:
 
 *Block 2 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | DSCI 512  | Algorithms & Data Structures | How to choose and use appropriate algorithms and data structures to help solve data science problems. Key concepts such as recursion and algorithmic complexity (e.g., efficiency, scalability). | Jian Zhu |
 | DSCI 531  | Data Visualization I | Exploratory data analysis. Design of effective static visualizations. Plotting tools in R and Python. | TBA |
@@ -25,7 +25,7 @@ subtitle:
 
 *Block 3 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 521  | Corpus Linguistics | Basic processing of text corpora using Python. Includes string manipulation, corpus readers, linguistic comparison of corpora, structured text formats, and text preprocessing tools. | Garrett Nicolai |
 | DSCI 513  | Databases & Data Retrieval | How to work with data stored in relational database systems. Storage structures and schemas, data relationships, and ways to query and aggregate such data. | TBA |
@@ -35,7 +35,7 @@ subtitle:
 # Winter: January-April
 *Block 4 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 535  | Parsing for Computational Linguistics | The identification of syntactic structure in natural language. Parsing algorithms for popular grammar formalisms, application of statistical information to parsing, parser evaluation, and extraction of parse features. | Garrett Nicolai |
 | COLX 561  | Computational Semantics | How meaning is represented by computers. An overview of popular semantic resources, and techniques for building new resources from unstructured text data. | Isabel Papadimitriou |
@@ -44,7 +44,7 @@ subtitle:
 
 *Block 5 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 523  | Advanced Corpus Linguistics | Text corpora collection and curation. How to pull representative datasets from internet sources. Techniques for efficient and reliable annotation. | Garrett Nicolai |
 | COLX 525  | Computational Morphology | Approaches to sub-word phenomenon in language processing. Automatic morphological analysis of diverse languages, part of speech tagging, word segmentation, and character-level neural network models. | Garrett Nicolai |
@@ -53,7 +53,7 @@ subtitle:
 
 *Block 6 (4 weeks, 4 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 565  | Sentiment Analysis | Identification and analysis of opinion, especially in social media. Text polarity and emotion classification, fine-grained (e.g. aspectual) opinion mining, argumentation mining, sentiment in social networks. | Isabel Papadimitriou |
 | COLX 581  | Natural Language Processing for Low-Resource Languages | Building automatic language tools when data is scarce. Rule-based and hybrid systems, semi-supervised learning, active learning. Knowledge transfer from other (related) languages. | Garrett Nicolai |
@@ -63,6 +63,6 @@ subtitle:
 # Spring: May-June
 *Capstone Project (8-10 weeks, 6 credits)*
 
-| Course Number  | Course Title | Short Description | 2024-25 Lecture Instructor |
+| Course Number  | Course Title | Short Description | 2025-26 Lecture Instructor |
 | :-------------: | :-------------: | :-------------: | :-------------: |
 | COLX 595  | Capstone Project | A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a project report, presentation, and possibly other products, such as a web application. | MDS-CL Faculty |
