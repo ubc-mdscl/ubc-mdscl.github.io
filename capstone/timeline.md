@@ -22,10 +22,10 @@ subtitle: For MDS-CL Capstone Projects
 | Students are assigned to projects  | March 17th, 2026 |
 | Partners provide Faculty Mentors with data  | April 1st, 2026 |
 | Partners and students submit signed legal documents | April 15th, 2026 |
-| Kickoff meetings | April, 2025 |
+| Kickoff meetings | April, 2026 |
 | Kickoff/Coding Challenge | April 29th-30th, 2026 |
-| Project | May 1st - June 25th, 202g |
-| Year-End Celebration | June 26th, 2025 |
+| Project | May 1st - June 25th, 2026 |
+| Year-End Celebration | June 26th, 2026 |
 
 
 ### Proposal revision process 
