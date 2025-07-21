@@ -52,7 +52,7 @@ Based on student interest, the MDS-CL leadership team decides which projects wil
 
 ### Partners demonstrate proof of data 
 
-Before a project may begin, the partner must provide MDS-CL with a demonstration or written (email) declaration that the data has been collected and prepared (in the form specified in the proposal) and will be ready in its entirety to be shared with the students by May 1st.  
+Before a project may begin, the partner must provide MDS-CL with a demonstration or written (email) declaration that the data has been collected and prepared (in the form specified in the proposal) and will be ready in its entirety to be shared with the students by March 1st.  
 
 ### Partners submit signed legal documents
 
