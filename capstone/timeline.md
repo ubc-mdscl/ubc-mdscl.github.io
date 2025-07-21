@@ -4,7 +4,7 @@ title: Timeline
 subtitle: For MDS-CL Capstone Projects
 ---
 
-<p style="text-align: center;">This year’s capstone course will run <b>May-June, 2025</b> (~8 weeks).</p>
+<p style="text-align: center;">This year’s capstone course will run <b>May-June, 2026</b> (~8 weeks).</p>
 
 <p style="text-align: center;"><b>The soft deadline for UBC Capstone proposals is Nov 3rd. And the hard deadline is Nov 28th.</b> Proposals sent in by Nov 3rd will receive feedback (that will hopefully increase their chances of being selected).</p> 
 
@@ -32,7 +32,7 @@ subtitle: For MDS-CL Capstone Projects
 
 Members of an organization interested in participating as a capstone partner should submit a project [proposal](https://ubc-mds.github.io/capstone/proposal/). 
 
-Proposals received *before November 1st* will be reviewed by the MDS-CL teams and feedback/suggestions for revisions will be provided to the partner, who can then revise portions of their proposal before submitting a proposal video to students. This revision process aims to maximize the chance of a proposal being selected by students. Proposals received *after* November 1st will not be provided with feedback. 
+Proposals received *before November 3rd* will be reviewed by the MDS-CL teams and feedback/suggestions for revisions will be provided to the partner, who can then revise portions of their proposal before submitting a proposal video to students. This revision process aims to maximize the chance of a proposal being selected by students. Proposals received *after* November 3rd will not be provided with feedback. 
 
 ### Partners submit video presentations 
 
