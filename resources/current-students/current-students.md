@@ -44,12 +44,12 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>MDE</td>
-    <td>Orientation (with V)</td>
+    <td>CE</td>
+    <td>Professionalism Workshop</td>
   </tr>
   <tr>
-    <td>MDE</td>
-    <td>Orientation (CL only)</td>
+    <td>CE</td>
+    <td>Career Advisor Orientation</td>
   </tr>
 </table>
 
@@ -62,12 +62,8 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>MDE</td>
-    <td>Orientation (Ling Students & Dept BBQ)</td>
-  </tr>
-  <tr>
-    <td>SE</td>
-    <td>Quiz Week Social</td>
+    <td>PDW</td>
+    <td>Lunch & Learn: Networking</td>
   </tr>
 </table>
 
@@ -81,15 +77,11 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
   </tr>
   <tr>
     <td>CE</td>
-    <td>Mentorship Program Benefits "Lunch and Learn"</td>
+    <td>Industry Talk</td>
   </tr>
   <tr>
     <td>PDW</td>
-    <td>Mental Health Presentation - Counselling Services</td>
-  </tr>
-  <tr>
-    <td>SE</td>
-    <td>Quiz Week Social</td>
+    <td>Lunch & Learn: Mentorship Program Benefits</td>
   </tr>
 </table>
 
@@ -102,16 +94,12 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>PDW</td>
-    <td>Meet the Labs</td>
-  </tr>
-  <tr>
-    <td>CE & SE</td>
-    <td>Mentorship Kick-Off</td>
+    <td>PDW & SE</td>
+    <td>Mentoring Program Kick-off</td>
   </tr>
   <tr>
     <td>CE</td>
-    <td>Resume & Cover Letter Workshop</td>
+    <td>Resume & Cover Letter Writing Workshop</td>
   </tr>
 </table>
 
@@ -124,16 +112,8 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>SE</td>
-    <td>Quiz Week Social</td>
-  </tr>
-  <tr>
     <td>PDW</td>
-    <td>Reading Linguistic Papers</td>
-  </tr>
-  <tr>
-    <td>CE</td>
-    <td>Employer Talk "Lunch and Learn": What Employers Are Looking for in Capstone and Employees</td>
+    <td>Lunch & Learn: Day in the Life of a Computational Linguist</td>
   </tr>
 </table>
 
@@ -147,11 +127,19 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
   </tr>
   <tr>
     <td>CE</td>
-    <td>Tips for the Capstone Fair "Lunch and Learn"</td>
+    <td>Technical Career Fair</td>
   </tr>
   <tr>
-    <td>Event</td>
-    <td>Capstone Fair</td>
+    <td>PDW</td>
+    <td>Presenting: The Art of Data Storytelling</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Lunch & Learn: Group Project Strategies</td>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Industry Talk</td>
   </tr>
 </table>
 
@@ -165,7 +153,11 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
   </tr>
   <tr>
     <td>CE</td>
-    <td>Job Search Strategies, Behavioural Interview Skills, Networking</td>
+    <td>Capstone Fair</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Job Search, Interview Skills, Networking and Alumni</td>
   </tr>
 </table>
 
@@ -178,16 +170,12 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>PDW</td>
-    <td>Oscars</td>
-  </tr>
-  <tr>
-    <td>PDW</td>
-    <td>PGWP Workshop</td>
-  </tr>
-  <tr>
     <td>CE</td>
-    <td>Technical Interview Alumni Panel & Workshop</td>
+    <td>Spring Career Fair</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Lunch & Learn: Job Search Tips</td>
   </tr>
 </table>
 
@@ -200,12 +188,20 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>CE</td>
-    <td>Job Offer Negotations Workshop and Alumni Panel</td>
+    <td>PDW</td>
+    <td>Technical Interview Alumni Panel & Workshop</td>
   </tr>
   <tr>
-    <td>MDE</td>
-    <td>Capstone Kick-Off</td>
+    <td>PDW</td>
+    <td>Lunch & Learn: How to Get the Most Out of Capstone</td>
+  </tr>
+  <tr>
+    <td>PDW</td>
+    <td>Job Offer Negotations Workshop</td>
+  </tr>
+  <tr>
+    <td>CE</td>
+    <td>Industry Talk</td>
   </tr>
 </table>
 
@@ -218,16 +214,8 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <th>Name of Event</th>
   </tr>
   <tr>
-    <td>MDE</td>
-    <td>Capstone Kick-Off</td>
-  </tr>
-  <tr>
     <td>SE</td>
-    <td>Alumni Event</td>
-  </tr>
-  <tr>
-    <td>MDE</td>
-    <td>Capstone Seminar Series</td>
+    <td>Mentoring Program Wrap-Up Event</td>
   </tr>
 </table>
 
@@ -238,10 +226,6 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
   <tr>
     <th style="width:200px">Type of Event</th>
     <th>Name of Event</th>
-  </tr>
-  <tr>
-    <td>MDE</td>
-    <td>Capstone Seminar Series</td>
   </tr>
   <tr>
     <td>SE</td>
