@@ -16,7 +16,7 @@ Course schedules can be found here → [MDS-CL Calendar](https://ling.air.arts.u
 
 # Respectful Environment Resources
 
-The following document provides details about UBC policies and expectations around respectful behaviour on campus, as well as resources for support → [Respectful Environment Resources](/assets/img/MDS-CL_Github_Respectful_Environment_Resources.docx)
+The following document provides details about UBC policies and expectations around respectful behaviour on campus, as well as resources for support → [Respectful Environment Resources](/assets/img/MDS-CL_Github_Respectful_Environment_Resources.pdf)
 
 # Events Schedule
 
