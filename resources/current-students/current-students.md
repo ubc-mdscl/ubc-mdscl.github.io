@@ -14,16 +14,6 @@ If you are unsure of your schedule number, please contact us at [ling.mds@ubc.ca
 
 Course schedules can be found here → [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/)
 
-# Maps
-
-The following maps provide some options for locations where you can study, eat, and be active on and off campus. The locations for Term 1 classrooms can also be found here. 
-
-* [Study Spots](https://maps.app.goo.gl/CbVTTzeFAE5NBQcg9)
-* [Food Spots](https://maps.app.goo.gl/mzJS2c93aoSqHLPJ9)
-* [Activity Centres](https://maps.app.goo.gl/375YA2vygJ84pBsU7)
-* [Outdoor Picnic Locations](https://maps.app.goo.gl/6ipsU6Wxx8bTvBUj6)
-* [Term 1 Class Locations](https://maps.app.goo.gl/jUrn4ni4XGeeWiTy6)
-
 # Respectful Environment Resources
 
 The following document provides details about UBC policies and expectations around respectful behaviour on campus, as well as resources for support → [Respectful Environment Resources](/assets/img/MDS-CL_Github_Respectful_Environment_Resources.docx)
@@ -236,3 +226,12 @@ The MDS-CL Events Schedule can be found below. For more detailed information, yo
     <td>Year-End Event/Capstone Presentations</td>
   </tr>
 </table>
+
+# Maps
+
+The following maps provide some options for locations where you can study, eat, and be active on and off campus. 
+
+* [Study Spots](https://maps.app.goo.gl/CbVTTzeFAE5NBQcg9)
+* [Food Spots](https://maps.app.goo.gl/mzJS2c93aoSqHLPJ9)
+* [Activity Centres](https://maps.app.goo.gl/375YA2vygJ84pBsU7)
+* [Outdoor Picnic Locations](https://maps.app.goo.gl/6ipsU6Wxx8bTvBUj6)
