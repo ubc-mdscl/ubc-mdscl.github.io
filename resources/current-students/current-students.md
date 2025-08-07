@@ -24,6 +24,10 @@ The following maps provide some options for locations where you can study, eat, 
 * [Outdoor Picnic Locations](https://maps.app.goo.gl/6ipsU6Wxx8bTvBUj6)
 * [Term 1 Class Locations](https://maps.app.goo.gl/jUrn4ni4XGeeWiTy6)
 
+# Respectful Environment Resources
+
+The following document provides details about UBC policies and expectations around respectful behaviour on campus, as well as resources for support → [Respectful Environment Resources](/assets/img/MDS-CL_Github_Respectful_Environment_Resources.docx)
+
 # Events Schedule
 
 The MDS-CL Events Schedule can be found below. For more detailed information, you can find these events on the [MDS-CL Calendar](https://ling.air.arts.ubc.ca/mds-cl-calendar/). The MDS-CL Calendar is only accessible to current MDS-CL students.
