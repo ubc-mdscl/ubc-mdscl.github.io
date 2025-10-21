@@ -6,7 +6,7 @@ subtitle:
 
 ### What is the difference between the early and regular deadline?  
 
-Applicants who apply by the early deadline (December 4th) will have their applications reviewed in December. Applicants who apply by the regular deadline (January 31st) will expect to hear back in the spring.   
+Applicants who apply by the early deadline (November 30th) will have their applications reviewed in December. Applicants who apply by the regular deadline (January 31st) will expect to hear back in the spring.   
 
 
 ### Can I apply for the program while taking the prerequisite course?  
