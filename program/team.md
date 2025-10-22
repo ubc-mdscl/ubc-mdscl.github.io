@@ -57,16 +57,6 @@ Isabel graduated with a PhD in Computer Science from Stanford University, and wa
 
 ---
 
-**Kenna McEwan — Program Manager**
-
-![Kenna McEwan](https://ubc-mdscl.github.io/assets/img/kenna-mcewan-mdscl.png)
-
-*"I’m inspired by the work ethic and drive of the MDS students and am excited to support students in creating a healthy learning environment as they delve into the study of data science."*
-
-Kenna McEwan is born and raised in British Columbia and received her Bachelors in Linguistics at the University of British Columbia. Prior to taking on the Masters of Data Science - Computational Linguistics Program Manager role, she has worked at UBC in both undergraduate and research-based graduate programs, where she gained skills in navigating post-secondary administration. Kenna is committed to supporting students in having a positive experience during their time in the program, from application to graduation. 
-
----
-
 **Sonya Thomlinson — Career Advisor**
 
 ![Sonya Thomlinson](https://ubc-mdscl.github.io/assets/img/sonya-thomlinson-mdscl.png)
